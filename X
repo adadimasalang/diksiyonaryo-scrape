@@ -1,0 +1,468 @@
+X
+X, x
+png |[ Ing ]
+1: ang ikadalawampu’t anim na titik sa alpabetong Filipino at tinatawag na eks
+2: ikadalawampuít anim sa pagkakasunod-sunod o serye
+3: ikasampu sa pamilang na Romano
+4: nakasulat o nakalimbag na representasyon ng titik X o x
+5: tipo, gaya ng sa printer, upang magaw ‚ ang titik X o x.
+
+x
+x (eks)
+symbol
+1: Mat ang unang di-kilálang kantidad ; o ang unang coordinate
+2: simbolo para sa multiplikasyon o pagpaparami
+3: panandang ginagamit sa pagitan ng mga pigura na nagsasaad ng dimensiyon
+4: sa pagsusulit, simbolong ginagamit na pananda sa malî
+5: sa pelikula, klasipikasyon o simbolo para sa mga manonood na tigulang l·mang
+6: lagda ng hindi marunong sa dokumentong opisyal.
+
+x-aksis
+x-aksis
+png |Mat |[ Ing x-axis ]
+: aksis na pahalang sa set ng sistema ng coordinate, graph, at katulad.
+
+xanthic
+xanthic (zán·tik)
+pnr |[ Ing ]
+: manilaw-nilaw.
+
+xanthic acid
+xanthic acid (zán·tik á·sid)
+png |Kem |[ Ing ]
+: organikong asido na nagtataglay ng pangkat na OCS2 H.
+
+Xanthippe
+Xanthippe (zan·ti·pé)
+png |[ Gri ]
+: asawa ni Socrates.
+
+xanthoma
+xanthoma (zan·tó·ma)
+png |Med |[ Gri ]
+1: paninilaw ng balát ng maysakít at pagkakaroon ng madidilaw na pantal
+2: ang pantal na dulot nitó.
+
+xanthophyll
+xanthophyll (zán·to·fíl)
+png |Bio |[ Ing ]
+: carotenoid na may oxygen na matatagpuan sa haláman, at isa sa mga pigment na kasáma sa fotosintesis.
+
+X chromosome
+X chromosome (eks kró·mo·sóm)
+png |Bio |[ Ing ]
+: sex chromosome ng mamalya na dalawa ang bÌlang sa babae at isa sa laláki.
+
+Xe
+Xe (eks i)
+symbol |Kem |[ Ing ]
+: xenon.
+
+xeno-
+xeno- (zé·no)
+pnl |[ Ing Gri ]
+: pambuo ng pangngalan at nangangahulugang dayuhan, hal xenophobia.
+
+xenogamy
+xenogamy (zé·no·ga·mí)
+png |Bot |[ Ing ]
+: polinisasyon ng stigma sa pamamagitan ng polen ng ibang bulaklak.
+
+xenograft
+xenograft (zé·no·gráft)
+png |Med Bio |[ Ing ]
+: tisyu mula sa isang donor na naiiba ang espesye sa tatanggap.
+
+xenolith
+xenolith (zé·no·lít)
+png |Heo |[ Ing ]
+: ibang uri ng bató na nakabaon sa batóng mula sa bulkan.
+
+xenon
+xenon (zé·non)
+png |Kem |[ Ing Gri ]
+: di-reaktibong element (atomic number 54, symbol Xe ).
+
+xenophobe
+xenophobe (zé·no·fób)
+png |[ Ing ]
+: tao na may xenophobia.
+
+xenophobia
+xenophobia (zé·no·fó·bya)
+png |Sik |[ Ing ]
+: labis na pagkasuklam o pagkatákot sa dayuhan, at mga bagay na naiiba sa kaniyang kinagisnan.
+
+xeranthemum
+xeranthemum (ze·rán·te·múm)
+png |Bot |[ Ing ]
+: haláman (genus Xeranthemum ) na may tuyông bulaklak na kahawig ng daisy.
+
+xeric
+xeric (zé·rik)
+pnr |[ Ing ]
+: ukol sa o may kaugnayan sa tuyông kaligiran.
+
+xero-
+xero- (zé·ro)
+pnl |[ Gri ]
+: pambuo ng pangngalan na nangangahulugang tuyô.
+
+xeroderma
+xeroderma (zé·ro·dér·ma)
+png |Med |[ Ing ]
+: labis na panunuyô ng balát.
+
+xerograph
+xerograph (zé·ro·graf)
+png |[ Ing ]
+: kopyang likha ng xerography.
+
+xerography
+xerography (ze·ró·gra·fí)
+png |[ Ing ]
+: proseso ng paggawa ng kopya ng nakalimbag, nakasulat, o nakalarawang materyales, mula sa film o papel, sa pamamagitan ng estatikong liwanag at elektrisidad : PHOTOCOPYING Cf XEROX
+
+xerophilous
+xerophilous (ze·ró·fi·lús)
+pnr |[ Ing ]
+1: Bot tumutubô o umaangkop sa tuyô at mainit na pook
+2: Zoo nabubúhay sa tuyông pook.
+
+xerophyte
+xerophyte (zé·ro·fáyt)
+png |Bot |[ Ing ]
+: halámang angkop na mabúhay sa tuyông kondisyon o pook.
+
+Xerox
+Xerox (zé·roks)
+png |[ Ing ]
+1: tatak ng mákiná para sa xerography
+2: sa maliit na titik, nakagawiang tawag sa xerography.
+
+xi
+xi (zi)
+png |[ Gri ]
+: ang ikalabing-apat na titik ng alpabetong Greek.
+
+-xion
+-xion (syon)
+pnl |[ Ing ]
+: varyant ng -ion.
+
+xiphisternum
+xiphisternum (zi·fís·ter·núm)
+pnl |Ana |[ Ing ]
+: pinakaibabâ sa tatlong biyas ng sternum.
+
+Xmas
+Xmas (éks·mas)
+daglat |Kol |[ Ing ]
+: Christmas.
+
+xoanon
+xoanon (zo·wá·non)
+png |[ Gri ]
+: sinaunang imahen ng isang diyos, karaniwang gawâ sa kahoy, at pinaniniwalaang mula sa langit.
+
+X-rated
+X-rated (eks réy·ted)
+pnr |[ Ing ]
+: sa pag-uuri ng pelikula o babasahín, hayagang nagtatanghal ng sex.
+
+X-ray
+X-ray (eks-rey)
+png |[ Ing ]
+1: anyo ng radyasyong elektromagnetiko, katulad ng liwanag subalit higit na maikli ang habàng-alon at may kakayahang mapasok ang mga bagay na solid : RAYOS-X
+2: imaheng likha nitó sa isang potograpikong plaka, lalo na sa pagpapakita ng posisyon ng mga butó, at katulad : RAYOS-X
+
+X-ray astronomy
+X-ray astronomy (eks-rey as·tró·no·mí)
+png |[ Ing ]
+: pagmamasid sa mga bagay na pangkalawakan sa pamamagitan ng mga instrumentong sumusíkat sa malakas na radyasyong elektromagnetiko.
+
+X-ray crystallography
+X-ray crystallography (eks-rey krís·ta·ló·gra·fí)
+png |[ Ing ]
+: pag-aaral sa mga kristal at sa estruktura nitó sa pamamagitan ng X-ray.
+
+xylem
+xylem (záy·lem)
+png |Bot |[ Ing ]
+: tisyu ng haláman na dinadaanan ng tubig at sustansiya mula sa ugat Cf PHLOEM
+
+xylene
+xylene (záy·lin)
+png |Kem |[ Ing ]
+: alinman sa tatlong masebo, walang kulay, magalîng magliyab, nakalalason, at isomerikong likido (C8H10), na nakukuha sa alkitran.
+
+xylo-
+xylo- (záy·lo)
+pnl |[ Ing ]
+: pambuo ng pangngalan, nangangahulugang kahoy.
+
+xylocarp
+xylocarp (záy·lo·kárp)
+png |Bot |[ Ing ]
+: bunga na sintigas ng kahoy.
+
+xylograph
+xylograph (záy·lo·gráf)
+png |[ Ing ]
+: silograpíya.
+
+xylonite
+xylonite (záy·lo·náyt)
+png |[ Ing ]
+: uri ng celluloid.
+
+xylophagous
+xylophagous (zay·ló·fa·gús)
+pnr |Zoo |[ Ing ]
+: silópagó.
+
+xylophone
+xylophone (záy·lo·fón)
+png |Mus |[ Ing ]
+: silóponó.
+
+xystus
+xystus (zís·tus)
+png
+1: [Gri] sa sinaunang Greek, balkonaheng ginagamit ng mga atleta para sa ehersisyo
+2: [Lat] daan sa hardin o balkonahe.
+
+X
+X, x
+png |[ Ing ]
+1: ang ikadalawampu’t anim na titik sa alpabetong Filipino at tinatawag na eks
+2: ikadalawampuít anim sa pagkakasunod-sunod o serye
+3: ikasampu sa pamilang na Romano
+4: nakasulat o nakalimbag na representasyon ng titik X o x
+5: tipo, gaya ng sa printer, upang magaw ‚ ang titik X o x.
+
+x
+x (eks)
+symbol
+1: Mat ang unang di-kilálang kantidad ; o ang unang coordinate
+2: simbolo para sa multiplikasyon o pagpaparami
+3: panandang ginagamit sa pagitan ng mga pigura na nagsasaad ng dimensiyon
+4: sa pagsusulit, simbolong ginagamit na pananda sa malî
+5: sa pelikula, klasipikasyon o simbolo para sa mga manonood na tigulang l·mang
+6: lagda ng hindi marunong sa dokumentong opisyal.
+
+x-aksis
+x-aksis
+png |Mat |[ Ing x-axis ]
+: aksis na pahalang sa set ng sistema ng coordinate, graph, at katulad.
+
+xanthic
+xanthic (zán·tik)
+pnr |[ Ing ]
+: manilaw-nilaw.
+
+xanthic acid
+xanthic acid (zán·tik á·sid)
+png |Kem |[ Ing ]
+: organikong asido na nagtataglay ng pangkat na OCS2 H.
+
+Xanthippe
+Xanthippe (zan·ti·pé)
+png |[ Gri ]
+: asawa ni Socrates.
+
+xanthoma
+xanthoma (zan·tó·ma)
+png |Med |[ Gri ]
+1: paninilaw ng balát ng maysakít at pagkakaroon ng madidilaw na pantal
+2: ang pantal na dulot nitó.
+
+xanthophyll
+xanthophyll (zán·to·fíl)
+png |Bio |[ Ing ]
+: carotenoid na may oxygen na matatagpuan sa haláman, at isa sa mga pigment na kasáma sa fotosintesis.
+
+X chromosome
+X chromosome (eks kró·mo·sóm)
+png |Bio |[ Ing ]
+: sex chromosome ng mamalya na dalawa ang bÌlang sa babae at isa sa laláki.
+
+Xe
+Xe (eks i)
+symbol |Kem |[ Ing ]
+: xenon.
+
+xeno-
+xeno- (zé·no)
+pnl |[ Ing Gri ]
+: pambuo ng pangngalan at nangangahulugang dayuhan, hal xenophobia.
+
+xenogamy
+xenogamy (zé·no·ga·mí)
+png |Bot |[ Ing ]
+: polinisasyon ng stigma sa pamamagitan ng polen ng ibang bulaklak.
+
+xenograft
+xenograft (zé·no·gráft)
+png |Med Bio |[ Ing ]
+: tisyu mula sa isang donor na naiiba ang espesye sa tatanggap.
+
+xenolith
+xenolith (zé·no·lít)
+png |Heo |[ Ing ]
+: ibang uri ng bató na nakabaon sa batóng mula sa bulkan.
+
+xenon
+xenon (zé·non)
+png |Kem |[ Ing Gri ]
+: di-reaktibong element (atomic number 54, symbol Xe ).
+
+xenophobe
+xenophobe (zé·no·fób)
+png |[ Ing ]
+: tao na may xenophobia.
+
+xenophobia
+xenophobia (zé·no·fó·bya)
+png |Sik |[ Ing ]
+: labis na pagkasuklam o pagkatákot sa dayuhan, at mga bagay na naiiba sa kaniyang kinagisnan.
+
+xeranthemum
+xeranthemum (ze·rán·te·múm)
+png |Bot |[ Ing ]
+: haláman (genus Xeranthemum ) na may tuyông bulaklak na kahawig ng daisy.
+
+xeric
+xeric (zé·rik)
+pnr |[ Ing ]
+: ukol sa o may kaugnayan sa tuyông kaligiran.
+
+xero-
+xero- (zé·ro)
+pnl |[ Gri ]
+: pambuo ng pangngalan na nangangahulugang tuyô.
+
+xeroderma
+xeroderma (zé·ro·dér·ma)
+png |Med |[ Ing ]
+: labis na panunuyô ng balát.
+
+xerograph
+xerograph (zé·ro·graf)
+png |[ Ing ]
+: kopyang likha ng xerography.
+
+xerography
+xerography (ze·ró·gra·fí)
+png |[ Ing ]
+: proseso ng paggawa ng kopya ng nakalimbag, nakasulat, o nakalarawang materyales, mula sa film o papel, sa pamamagitan ng estatikong liwanag at elektrisidad : PHOTOCOPYING Cf XEROX
+
+xerophilous
+xerophilous (ze·ró·fi·lús)
+pnr |[ Ing ]
+1: Bot tumutubô o umaangkop sa tuyô at mainit na pook
+2: Zoo nabubúhay sa tuyông pook.
+
+xerophyte
+xerophyte (zé·ro·fáyt)
+png |Bot |[ Ing ]
+: halámang angkop na mabúhay sa tuyông kondisyon o pook.
+
+Xerox
+Xerox (zé·roks)
+png |[ Ing ]
+1: tatak ng mákiná para sa xerography
+2: sa maliit na titik, nakagawiang tawag sa xerography.
+
+xi
+xi (zi)
+png |[ Gri ]
+: ang ikalabing-apat na titik ng alpabetong Greek.
+
+-xion
+-xion (syon)
+pnl |[ Ing ]
+: varyant ng -ion.
+
+xiphisternum
+xiphisternum (zi·fís·ter·núm)
+pnl |Ana |[ Ing ]
+: pinakaibabâ sa tatlong biyas ng sternum.
+
+Xmas
+Xmas (éks·mas)
+daglat |Kol |[ Ing ]
+: Christmas.
+
+xoanon
+xoanon (zo·wá·non)
+png |[ Gri ]
+: sinaunang imahen ng isang diyos, karaniwang gawâ sa kahoy, at pinaniniwalaang mula sa langit.
+
+X-rated
+X-rated (eks réy·ted)
+pnr |[ Ing ]
+: sa pag-uuri ng pelikula o babasahín, hayagang nagtatanghal ng sex.
+
+X-ray
+X-ray (eks-rey)
+png |[ Ing ]
+1: anyo ng radyasyong elektromagnetiko, katulad ng liwanag subalit higit na maikli ang habàng-alon at may kakayahang mapasok ang mga bagay na solid : RAYOS-X
+2: imaheng likha nitó sa isang potograpikong plaka, lalo na sa pagpapakita ng posisyon ng mga butó, at katulad : RAYOS-X
+
+X-ray astronomy
+X-ray astronomy (eks-rey as·tró·no·mí)
+png |[ Ing ]
+: pagmamasid sa mga bagay na pangkalawakan sa pamamagitan ng mga instrumentong sumusíkat sa malakas na radyasyong elektromagnetiko.
+
+X-ray crystallography
+X-ray crystallography (eks-rey krís·ta·ló·gra·fí)
+png |[ Ing ]
+: pag-aaral sa mga kristal at sa estruktura nitó sa pamamagitan ng X-ray.
+
+xylem
+xylem (záy·lem)
+png |Bot |[ Ing ]
+: tisyu ng haláman na dinadaanan ng tubig at sustansiya mula sa ugat Cf PHLOEM
+
+xylene
+xylene (záy·lin)
+png |Kem |[ Ing ]
+: alinman sa tatlong masebo, walang kulay, magalîng magliyab, nakalalason, at isomerikong likido (C8H10), na nakukuha sa alkitran.
+
+xylo-
+xylo- (záy·lo)
+pnl |[ Ing ]
+: pambuo ng pangngalan, nangangahulugang kahoy.
+
+xylocarp
+xylocarp (záy·lo·kárp)
+png |Bot |[ Ing ]
+: bunga na sintigas ng kahoy.
+
+xylograph
+xylograph (záy·lo·gráf)
+png |[ Ing ]
+: silograpíya.
+
+xylonite
+xylonite (záy·lo·náyt)
+png |[ Ing ]
+: uri ng celluloid.
+
+xylophagous
+xylophagous (zay·ló·fa·gús)
+pnr |Zoo |[ Ing ]
+: silópagó.
+
+xylophone
+xylophone (záy·lo·fón)
+png |Mus |[ Ing ]
+: silóponó.
+
+xystus
+xystus (zís·tus)
+png
+1: [Gri] sa sinaunang Greek, balkonaheng ginagamit ng mga atleta para sa ehersisyo
+2: [Lat] daan sa hardin o balkonahe.
+

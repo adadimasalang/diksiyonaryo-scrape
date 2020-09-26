@@ -1,0 +1,7378 @@
+C
+C, c
+1: ikatlong titik sa alpabetong Filipino at tinatawag na si
+2: ikatlo sa isang serye o pangkat
+3: Mus unang nota o tono ng diyatonikong eskala ng C major o eskala o key na nakabatay sa nota o tónong ito
+4: pasulat o palimbag na representasyon ng C o c
+5: tipo, tulad ng sa printer, upang magawa ang titik C o c.
+
+c
+c (si)
+daglat |[ Ing ]
+1: century1
+2: chapter
+3: cent.
+
+c
+c (si)
+symbol |Pis |[ Ing ]
+: bilis ng liwanag sa vacuum.
+
+C
+C (si)
+daglat |[ Ing ]
+: Celsius.
+
+C
+C (si)
+png |Com |[ Ing ]
+: tawag sa isang wika ng program.
+
+C
+C (si)
+symbol |[ Ing ]
+1: Kem carbon
+2: copyright
+3: Ele coulomb
+4: Ele capacitance
+5: Mat pamilang na Romano para sa 100.
+
+ca
+ca (si ey)
+daglat |[ Ing ]
+: circa.
+
+Ca
+Ca (sí ey)
+symbol |Kem |[ Ing ]
+: calcium.
+
+cab
+cab (kab)
+png |[ Ing ]
+1: daglat ng cabriolet
+2: taxicab.
+
+cabal
+cabal (ká·bal)
+png |[ Ing ]
+1: pangkat na may lihim na pakana laban sa isang pamahalaan o tao na nása kapangyarihan
+2: pakana ng naturang pangkatin.
+
+cabana
+cabana (ka·bá·na)
+png |Ark |[ Ing ]
+: kabánya2
+
+Cabanatuan
+Cabanatuan (ka·ba·na·tú·an)
+png |Heg
+: lungsod sa Nueva Ecija.
+
+cabaret
+cabaret (ká·ba·réy)
+png |[ Fre ]
+: kábarét.
+
+Cabarroguis
+Cabarroguis (ka·ba·ró·gis)
+png |Heg
+: kabesera ng Quirino.
+
+cabbage
+cabbage (ká·beyds)
+png |Bot |[ Ing ]
+: repólyo.
+
+cabbala
+cabbala (káb·a·lá)
+png |[ Ing Heb kabballa ]
+1: sa sinaunang tradisyong Jew, ang mistikong interpretasyon ng Bibliya var cabala
+2: doktrinang esoteriko.
+
+cabin
+cabin (káb·in, ká·bin)
+png |[ Ing ]
+1: maliit na silungán o bahay na karaniwang yari sa kahoy
+2: silid o bahagi ng silid para sa pasahero o tauhan ng sasakyang panghimpapawid o pandagat
+3: natatakpang lalagyan ng kargada sa sasakyang panghimpapawid.
+
+cable
+cable (kéy·bol)
+png |[ Ing ]
+1: kable1
+2: kablegrama
+3: cable TV.
+
+cable car
+cable car (kéy·bol kár)
+png |[ Ing ]
+: kablekotse.
+
+cablegram
+cablegram (kéy·bol·grám)
+png |[ Ing ]
+: kablegrama.
+
+cable TV
+cable TV (kéy·bol tí·vi)
+png |[ Ing ]
+: sistema ng paghahatid ng progra-mang pantelebisyon sa pamamagitan ng cable : CABLE3
+
+Cabo de Buena Esperanza
+Cabo de Buena Esperanza (ká·bo de bu·é·na es·pe·rán·za)
+png |Heg |[ Esp ]
+: Tangos Buena Esperanza.
+
+cabo de vara
+cabo de vara (ká·bo de vá·ra)
+png |[ Esp ]
+: bastonéro2 var kábo
+
+caboodle
+caboodle (ka·bú·del)
+png |[ Ing kit and boodle ]
+: ang kabuuan ng lahat.
+
+caboose
+caboose (ka·bús)
+png |[ Ing ]
+: kusina sa barko.
+
+cabriolet
+cabriolet (káb·ri·yo·léy)
+png |[ Fre ]
+: kompartamento para sa drayber sa tren, crane, at mga katulad Cf CAB1
+
+cacao
+cacao (ka·káw)
+png |Bot |[ Esp ]
+: kakáw.
+
+cache
+cache (kash)
+png |[ Ing ]
+1: pook na taguán ng yaman, mahalagang gamit, o armas
+2: ang nakatago rito
+3: Com dagdag o reserbang memory1
+
+cachexia
+cachexia (ka·kék·sya)
+png |Med |[ Ing ]
+: pangangayayat dahil sa malubhang karamdamang tulad ng kanser.
+
+cacodyl
+cacodyl (ká·ka·díl)
+png |Kem |[ Ing ]
+: mabaho, nakalalason, at agad lumiliyab na likido (tetramethyldiarsine), (CH3)2As -As (CH3)2.
+
+cacodylate
+cacodylate (ká·ka·di·léyt)
+png |Kem |[ Ing ]
+: kakodiláto.
+
+cacophony
+cacophony (ka·kóf·o·ní)
+png |[ Ing ]
+: kakoponíya.
+
+cadastral survey
+cadastral survey (ka·dás·tral sér·vey)
+png |[ Ing ]
+: agrimensúra.
+
+cadaver
+cadaver (ka·dá·ver)
+png |[ Esp Ing ]
+: bangkay1
+
+cadence
+cadence (kéy·dens)
+png |[ Ing ]
+: kadénsiyá.
+
+cadenza
+cadenza (ka·dén·za)
+png |Mus |[ Ita ]
+: masalimuot at mahirap na bahagi para sa solong tinig o instrumento, karaniwang nása dulo ng isang aria o pangunahing bahagi ng isang sonata o iba pang mahabàng komposisyon.
+
+cadet
+cadet (ka·dét)
+png |Mil |[ Ing ]
+: kadéte.
+
+cadette
+cadette (key·dét)
+png |Mil |[ Ing ]
+: kadéteng babae.
+
+Cadiz
+Cadiz (ká·dis)
+png |Heg
+: lungsod sa Negros Occidental.
+
+cadmium
+cadmium (kád·myum)
+png |Kem |[ Ing ]
+: metalikong elemento na kulay pilak (atomic number 48, symbol Cd ) : KÁDMIYÓ
+
+caduceus
+caduceus (ka·dú·si·yús)
+png |[ Ing ]
+: kaduséo.
+
+caesar
+caesar (sí·zar)
+png |Pol |[ Ing ]
+1: titulo ng Romanong emperador
+2: isang awtokrata.
+
+caesarian
+caesarian (si·zár·yan)
+pnr |[ Ing ]
+1: patungkol sa caesar
+2: Med nanganak sa pamamagitan ng operasyon.
+
+caesar’s salad
+caesar’s salad (sí·zars sá·lad)
+png |[ Ing ]
+: salad na nilahukan ng letsugas, langis ng oliba, katas ng limón, nilagang itlog, at pampalasa.
+
+caesium
+caesium (sí·syum)
+png |Kem |[ Ing ]
+: metalikong elemento na malambot, reaktibo, at kulay pilak (atomic number 55, symbol Cs ).
+
+caesura
+caesura (si·sú·ra)
+png |[ Ing ]
+: sesúra.
+
+café
+café (ka·féy)
+png |[ Ing Fre ]
+1: kape
+2: maliit na kapihan o restoran.
+
+cafeteria
+cafeteria (ka·fi·tír·ya)
+png |[ Ing ]
+: kapeteriya2
+
+caffeine
+caffeine (ka·fín)
+png |Kem |[ Ing ]
+: maputî, kristalina, at mapaklang alkaloyd C8 H10 N4 O2 na nakukuha sa kape at tsaa.
+
+Cagayan
+Cagayan (ka·ga·yán)
+png |Heg
+: lalawigan sa hilaga ng Filipinas, Rehiyon II.
+
+Cagayan de Oro
+Cagayan de Oro (ka·ga·yán de ó·ro)
+png |Heg
+: lungsod sa Misamis Oriental at kabesera ng lalawigan.
+
+cage
+cage (keydz)
+png |[ Ing ]
+: kulúngan.
+
+caida
+caida (ka·í·da)
+png |[ Esp ]
+1: pagkalaglag o pagkadapa var kaída
+2: Ark sa bahay-na-bato, ang espasyo sa pagitan ng hagdan at sala, ginagamit bílang antesala : KAÍDA
+
+Cain
+Cain (ka·ín)
+png |[ Heb Esp ]
+: sa Bibliya, panganay na anak ni Adan at pumatay sa kapatid na si Abel.
+
+cake
+cake (keyk)
+png |[ Ing ]
+: keyk.
+
+cal
+cal (kal)
+daglat png |[ Ing ]
+1: calorie
+2: caliber.
+
+calabash
+calabash (ká·la·básh)
+png |Bot |[ Ing ]
+: punongkahoy (Crescentia cujete ), laging-lungti ang dahon, namumunga, at matatagpuan sa tropikong America.
+
+calaboose
+calaboose (ká·la·bús)
+png |[ Ing ]
+: bilanggùan.
+
+caladium
+caladium (ka·léy·di·yúm)
+png |Bot |[ Ing ]
+: korason de-marya.
+
+calamar
+calamar (ka·lá·mar)
+png |Zoo |[ Esp ]
+: pusit.
+
+calamine
+calamine (ká·la·máyn)
+png |[ Ing ]
+: kulay pink na pulbos mula sa pinaghalong zinc carbonate at ferric oxide at ginagamit na ungguwento.
+
+calamity
+calamity (ka·lá·mi·tí)
+png |[ Ing ]
+: kalamidad.
+
+calando
+calando (ka·lán·do)
+pnr |Mus |[ Ing ]
+: marahan at mabagal na tugtog.
+
+Calapan
+Calapan (ka·la·pán)
+png |Heg
+: kabesera ng Oriental Mindoro.
+
+Calbayog
+Calbayog (kal·bá·yog)
+png |Heg
+: lungsod sa Western Samar.
+
+calciferol
+calciferol (kal·sí·fe·ról)
+png |BioK |[ Ing ]
+: alkohol ((C28H43)H) na natutunaw sa tabâ, kristalina, at matatagpuan sa gatas, langis mula sa atay ng isda, at katulad ; nalilikha mula sa ultrabiyoletang iradyasyon ng ergosterol ; mabisàng gamot at panlaban sa rickets at iba pang hypocalcemic na sakít.
+
+calcification
+calcification (kal·si·fi·kéy·syon)
+png |Kem |[ Ing ]
+: kalsipikasyón.
+
+calcite
+calcite (kál·sayt)
+png |Kem |[ Ing ]
+: isa sa mga karaniwang mineral, calcium carbonate, CaCO3 matatagpuan sa napakaraming uri ng anyong kristalina ; isang pangunahing sangkap ng batong-apog, marmol, at tisà.
+
+calcium
+calcium (kál·syum)
+png |Kem |[ Ing ]
+: metalikong element na malambot at abuhin (atomic number 20, symbol Ca ) : KÁLSIYÓ
+
+calcium carbonate
+calcium carbonate (kál·syum kár·bo·néyt)
+png |Kem |[ Ing ]
+: puti, di-natutunaw na solido at karaniwang nása anyong tisà, apog, marmol, at mga katulad.
+
+calculate
+calculate (kál·kyu·léyt)
+pnd |[ Ing ]
+: kalkulá.
+
+calculation
+calculation (kal·kyu·léy·syon)
+png |[ Ing ]
+: táya1 o pagtáya.
+
+calculator
+calculator (kál·kyu·léy·tor)
+png |[ Ing ]
+1: aparatong elektroniko, ginagamit sa kalkulasyong matematiko : KALKULADÓR
+2: tao o mákináng nagkakalkula : KALKULADÓR
+3: set ng mga talahanayan na ginagamit sa kalkulasyon : KALKULADÓR
+
+calculus
+calculus (kál·kyu·lús)
+png |Mat |[ Lat ]
+: sangay ng matematika hinggil sa differentiation at integrasyon ng mga funsiyon.
+
+calendar
+calendar (ká·len·dár)
+png |[ Ing ]
+: kalendáryo.
+
+calender
+calender (ká·len·dér)
+png |[ Ing ]
+: pamplantsa, may mga rodilyong pampakinis o pampakintab sa tela, papel, at katulad.
+
+calf
+calf (kaf)
+png |[ Ing ]
+1: Zoo bulô
+2: Ana bútik.
+
+caliber
+caliber (ká·li·bér)
+png |[ Ing ]
+: kalíbre Cf CAL2
+
+calibration
+calibration (ka·lib·réy·syon)
+png |[ Ing ]
+: kalibrasyon.
+
+calico
+calico (ká·li·kú)
+png |[ Ing ]
+1: telang cotton, lalo na ang purong putî
+2: telang cotton na may disenyo.
+
+californium
+californium (ká·li·fór·ni·yúm)
+png |Kem |[ Ing ]
+: elementong transuranic (atomic number 98, symbol Cf ).
+
+caliper
+caliper (ká·li·pér)
+png |[ Ing ]
+: kómpas na kurbado ang paa at ginagamit na pansukat sa diyametro ng mga malanday na lawas.
+
+caliph
+caliph (ká·lif)
+png |Pol |[ Ing ]
+: kalípa.
+
+call
+call (kol)
+pnd |[ Ing ]
+1: tumawag o tawagin
+2: mag-anyaya o anyayahan
+3: tumawag ng pansin
+4: tawagan sa telepono
+5: tanggapin, halimbawa ang isang hámon.
+
+calla lily
+calla lily (ká·la lí·li)
+png |Bot |[ Ing ]
+: yerba (Zantedeschia aethiopica ) na may makapal na risoma, may tangkay na 1 m ang habà na nagdadalá sa hugis embudo at maputîng bulaklak : LILY-OF-THE-NILE
+
+call boy
+call boy (kol boy)
+png |[ Ing ]
+: púta2
+
+call center
+call center (kol sén·ter)
+png |[ Ing ]
+: isang sentralisadong opisina na tumutugon sa mga tawag ng kostumer na nangangailangan ng impormasyon o dumudulog sa reklamo hinggil sa isang produkto o serbisyo ng isang kompanyang multinasyonal.
+
+call girl
+call girl (kol girl)
+png |[ Ing ]
+: púta2
+
+calligraphy
+calligraphy (ka·líg·ra·fí)
+png |[ Ing ]
+: kaligrapíya1
+
+calling card
+calling card (kó·ling kard)
+png |[ Ing ]
+: tarhéta.
+
+callous
+callous (ká·lus)
+png |Med |[ Ing ]
+: varyant ng callus.
+
+callus
+callus (ká·lus)
+png |Med |[ Ing ]
+: kályo var callous
+
+calm
+calm (kam)
+pnr |[ Ing ]
+: kalmádo.
+
+calomel
+calomel (kál·o·mél)
+png |Kem |[ Ing ]
+: kálomél.
+
+calorie
+calorie (ká·lo·rí)
+png |[ Ing ]
+: kaloríya Cf CAL1
+
+calorimeter
+calorimeter (ká·lo·ri·mi·tér)
+png |[ Ing ]
+: kalorímetró.
+
+calorimetry
+calorimetry (ká·lo·ri·mi·trí)
+png |[ Ing ]
+: kalorimetríya.
+
+calvary
+calvary (kál·va·rí)
+png |[ Ing ]
+: kalbaryo2
+
+Calvary
+Calvary (kál·va·rí)
+png |[ Ing ]
+: Kal baryo1
+
+calypso
+calypso (ka·líp·so)
+png |Mus |[ Ing ]
+1: uri ng musikang West Indies na may sabáyang ritmong African
+2: awit o sayaw sa estilong ito.
+
+calyx
+calyx (ká·liks)
+png |[ Ing ]
+1: Bot kális4
+2: anumang estrukturang hugis baso.
+
+Camarines Norte
+Camarines Norte (ka·ma·rí·nes nór· te)
+png |Heg
+: lalawigan sa timog silangang Luzon, Rehiyon V.
+
+Camarines Sur
+Camarines Sur (ka·ma·rí·nes sur)
+png |Heg
+: lalawigan sa timog silangang Luzon, Rehiyon V.
+
+camber
+camber (kám·ber)
+png |[ Ing ]
+: matambok at nakaarkong rabaw ng kotse, kubyerta ng barko, o pakpak ng eroplano.
+
+cambium
+cambium (kám·byum)
+png |Bot |[ Ing Lat ]
+: cellular na tisyu ng halaman na nagpapatibay sa ugat at sanga nitó.
+
+cambric
+cambric (kám·brik)
+png |[ Ing ]
+: kambráy2
+
+camel
+camel (ká·mel)
+png |Zoo |[ Ing ]
+: kamélyo.
+
+camellia
+camellia (ka·míl·ya)
+png |Bot |[ Ing ]
+: kamélya1
+
+Camembert
+Camembert (ka·mém·ber)
+png |[ Ing Fre ]
+: malambot at makremang keso, mula sa Camembert, Normandy.
+
+cameo
+cameo (ká·mi·yó)
+png |[ Ing ]
+: kaméo.
+
+Camiguin
+Camiguin (ka·mi·gín)
+png
+1: Heg lalawigan sa hilagang Mindanao, Rehiyon 10
+2: Ant Lgw pangkating etniko na matatagpuan sa hilagang Mindanao ; o ang tawag sa wika nitó.
+
+camisole
+camisole (ká·mi·sól)
+png |[ Ing ]
+: kamisóla.
+
+camouflage
+camouflage (ká·mu·fláds)
+png |[ Ing ]
+1: kulay ng paligid na ipininta upang maging balatkayo ng sasakyan, artileriya, kampo, at kasuotan : KAMUPLÁHE
+2: uniporme ng mga sundalo : KAMUPLÁHE
+3: katulad na pagpapanggap : KAMUPLÁHE
+4: likás na kulay ng mga hayop na katulad ng paligid : KAMUPLÁHE
+
+camp
+camp (kamp)
+png |[ Ing ]
+: kámpo1-3
+
+campaign
+campaign (kam·péyn)
+png |[ Ing ]
+: kampánya.
+
+campana de vuelo
+campana de vuelo (kam·pá·na de vwé·lo)
+png |[ Esp ]
+: eskíla.
+
+camper
+camper (kám·per)
+png |[ Ing ]
+1: tao na nagkakampo sa labas o pansamantalang nakatirá sa tolda, kubo, at mga katulad
+2: malaking sasakyang de-motor na maaaring pagkampuhan sa labas ng bahay o gusali.
+
+camphor
+camphor (kám·for)
+png |[ Ing ]
+: alkampor.
+
+can
+can (kan)
+png |[ Ing ]
+: láta1
+
+caña
+caña (kán·ya)
+png |[ Esp ]
+1: Mus manipis na dila, gawa sa kahoy, kawayan, yantok, o katulad, at inilalagay sa bokilya ng ilang instrumentong hinihipan
+2: Bot tubó.
+
+Canaan
+Canaan (kéy·nan)
+png |Heg |[ Ing ]
+: rehiyon na napapalibutan ng Jordan, Dagat Patay, at Dagat Mediteraneo.
+
+Canada
+Canada (ká·na·dá)
+png |Heg |[ Ing ]
+: pangalawa sa pinakamalaking bansa sa mundo.
+
+caña fistula
+caña fistula (kán·ya fis·tú·la)
+png |Bot |[ Esp ]
+: golden shower.
+
+canape
+canape (ká·na·péy)
+png |[ Fre Esp Ing ]
+: maliit na piraso ng tinapay o keyk na may tampok na pampalasa sa ibabaw, karaniwang isinisilbi bílang pampagana.
+
+canary
+canary (ka·ná·ri)
+png pnr |[ Ing ]
+: kanáryo.
+
+cancel
+cancel (kán·sel)
+pnd |[ Ing ]
+: kanselá.
+
+cancellation
+cancellation (kan·se·léy·syon)
+png |[ Ing ]
+: kanselasyón.
+
+Cancer
+Cancer (kán·ser)
+png |[ Ing ]
+1: Asn konstelasyon na kumakatawan sa anyo ng alimango
+2: Asn pang-apat na senyas ng zodyak (21 Hunyo –22 Hulyo ) at isinasagisag ng alimango ; o ang tao na ipinanganak sa loob ng ganitong senyas.
+
+candela
+candela (kan·dí·la)
+png |Pis |[ Lat ]
+: yunit ng intensidad ng liwanag Cf CD
+
+candelabrum
+candelabrum (kan·de·lá·brum)
+png |[ Lat ]
+: kandelábra1
+
+candidacy
+candidacy (kan·dí·da·sí)
+png |[ Ing ]
+: kandidatúra.
+
+candidate
+candidate (kán·di·déyt)
+png |[ Ing ]
+: kandidáto.
+
+candle
+candle (kén·del)
+png |Bot |[ Ing ]
+: kandilà.
+
+candle nut tree
+candle nut tree (kén·del nat tri)
+png |Bot |[ Ing ]
+: lumbáng.
+
+cane
+cane (keyn)
+png |[ Ing ]
+1: Bot hungkag na tangkay ng malalaking damo
+2: Bot tubó
+3: tungkod
+4: pamalong patpat.
+
+Canlaon
+Canlaon (kan·la·ón)
+png |Heg
+: lungsod sa Negros Oriental.
+
+cannabinol
+cannabinol (ka·ná·bi·nól)
+png |Kem |[ Ing ]
+: kristal na phenol, may mga deribatibong aktibong substance ng cannabis.
+
+cannabis
+cannabis (ká·na·bís)
+png |Bot |[ Gri ]
+: marihuwána.
+
+cannelloni
+cannelloni (ka·ne·ló·ni)
+png |[ Ita ]
+: hugis túbo o inirolyong pasta na may palamáng karne o halo ng mga gulay.
+
+cannery
+cannery (ká·ne·rí)
+png |[ Ing ]
+: pabrika ng pagkaing de-lata.
+
+cannibal
+cannibal (ká·ni·bál)
+png |Ant Zoo |[ Ing ]
+: kánibál.
+
+cannibalism
+cannibalism (ká·ni·ba·lí·sem)
+png |[ Ing ]
+: kanibalísmo.
+
+cannon
+cannon (ká·non)
+png |[ Ing ]
+: kanyón1-2
+
+cannonade
+cannonade (ká·no·néyd)
+png |[ Ing ]
+: kanyonáso.
+
+cannula
+cannula (kán·yu·lá)
+png |Med |[ Ing ]
+: kánulá.
+
+canoe
+canoe (ka·nú)
+png |Ntk |[ Ing ]
+: maliit at makitid na bangkang matulis ang mga dulo : KANÓWA
+
+canonical
+canonical (ka·nó·ni·kál)
+pnr |[ Ing ]
+: kanónikó.
+
+can opener
+can opener (kan ó·pe·nér)
+png |[ Ing ]
+: abreláta.
+
+canopy
+canopy (ká·no·pí)
+png |[ Ing ]
+1: talukbong na isinasabit sa itaas ng trono, kama, at katulad : SINDANG
+2: lona o kumot na silungan
+3: Bot pinakamataas na susón ng mga dahon ng mga punò
+4: talukbong ng parasyut.
+
+cantabile
+cantabile (kan·tá·bi·léy)
+png |Mus |[ Ita ]
+: malamyos na estilo ng pagkanta.
+
+cantaloupe
+cantaloupe (kán·ta·lúp)
+png |Bot |[ Fre ]
+: maliit at bilugán na uri ng melon at kulay dalandan ang laman.
+
+cantata
+cantata (kan·tá·ta)
+png |Mus |[ Ita ]
+: maikling komposisyong pangmusika na may solong pag-awit, karaniwang sinasaliwan ng orkestra at koro.
+
+canteen
+canteen (kan·tín)
+png |[ Ing ]
+: kantína.
+
+canthus
+canthus (kán·tus)
+png |Ana |[ Ing ]
+: panlabas at panloob na sulok ng mata, tagpuan ng ibabâ at itaas na mga talukap.
+
+cantilena
+cantilena (kan·ti·lí·na)
+png |Mus |[ Ita ]
+: payak at tuloy-tuloy na himig.
+
+cantilever
+cantilever (kán·ti·lí·ver)
+png |Ark |[ Ing ]
+: mahabàng baras na nakausli sa dingding, nagsisilbing salalayan ng balkonahe at ibang katulad na estruktura.
+
+canton noodles
+canton noodles (kán·ton nú·dels)
+png |[ Ing ]
+: pansít kantón.
+
+canvas
+canvas (kán·vas)
+png |[ Ing ]
+: kámbas1
+
+canvass
+canvass (kán·vas)
+pnd |[ Ing ]
+1: pumipilì mula sa halimbawa : KÁMBAS2 Cf KÁLAP
+2: sa eleksiyon, magbiláng ng boto : KÁMBAS2
+3: sa bidding, humingi ng mga lahók : KÁMBAS2
+4: sa sarbey, humingi ng opinyon : KÁMBAS2
+
+canyon
+canyon (kán·yon)
+png |Heo |[ Ing ]
+: malalim na bangin, karaniwang may ilog sa ibabâ.
+
+canzoneta
+canzoneta (kán·zo·né·ta)
+png |Mus |[ Ing ]
+1: awit na maikli at magaan
+2: uri ng madrigal.
+
+cap
+cap (kap)
+png |[ Ing ]
+1: sombrerong yari sa tela, karaniwang walang pardiyas, kung mayroon man, nása harap lámang : SYÓRPIT
+2: pantakíp Cf TANSÁN
+
+capacitance
+capacitance (ka·pá·si·táns)
+png |Ele |[ Ing ]
+: kakayahang mag-ipon ng karga ng elektrisidad Cf C3
+
+capacity
+capacity (ka·pá·si·tí)
+png |[ Ing ]
+: kapasidád.
+
+cape
+cape (keyp)
+png |[ Ing ]
+1: kápa2
+2: Heo tángos1
+
+Capella
+Capella (ka·pé·la)
+png |Asn |[ Ing ]
+: pinakamaningning na bituin sa langit.
+
+Cape of Good Hope
+Cape of Good Hope (kéyp of gúd howp)
+png |Heg |[ Ing ]
+: Tangos Buena Esperanza.
+
+capias
+capias (kéy·pi·yás)
+png |Bat |[ Lat ]
+: nakasulat na kautusang dakpin ang tinutukoy na tao.
+
+capillarity
+capillarity (ká·pi·lá·ri·tí)
+png |[ Ing ]
+1: estado ng pagiging capillary : KAPILARIDÁD
+2: manipestasyon ng tensiyon sa rabaw na tumataas o umiimpis ang bahagi ng likido na dumiit sa solido.
+
+capillary
+capillary (ka·pí·la·rí)
+png |Ana |[ Ing ]
+: maliit na ugat na dinadaluyan ng dugô sa katawan ng tao : KAPILÁR
+
+capital
+capital (ká·pi·tál)
+png |[ Ing ]
+: kapitál.
+
+capitalism
+capitalism (ka·pi·ta·lí·zim)
+png |Pol |[ Ing ]
+: kapitalísmo.
+
+capitalist
+capitalist (ka·pí·ta·líst)
+png |Kom Pol |[ Ing ]
+: kapitalísta.
+
+capital letter
+capital letter (ká·pi·tál lé·ter)
+png |Gra |[ Ing ]
+: malaking titik Cf SMALL LETTER
+
+capital punishment
+capital punishment (ká·pi·tál pá·nish·mént)
+png |Bat |[ Ing ]
+: bítay1
+
+capitol
+capitol (ká·pi·tól)
+png |[ Ing ]
+: kapitólyo.
+
+Capiz
+Capiz (ká·pis)
+png |Heg
+: lalawigan sa kanlurang Visayas, Rehiyon VI.
+
+cappucino
+cappucino (ka·pu·tsí·nó)
+png |[ Ita ]
+: inúming binubuo ng kapeng ekspreso at mainit na gatas.
+
+capriccio
+capriccio (ka·prí·tso)
+png |[ Ita ]
+1: Mus masigla at maikling awitin
+2: pintura, larawan, o katulad na nagtatanghal ng pantasya o pinaghalong hinagap at katotohanan
+3: kapritso.
+
+Capricorn
+Capricorn (káp·ri·kórn)
+png |[ Ing ]
+1: Asn pangkat ng mga bituin na anyong kambing : KAPRIKÓRNIYÓ
+2: Asn pansampung senyas ng zodyak (22 Disyembre –19 Enero ) at isinasagisag ng kambing na may buntot ng isda ; o ang tao na ipinanganak nang ang araw ay nása ganitong senyas : KAPRIKÓRNIYÓ
+
+capsize
+capsize (káp·says)
+pnd |[ Ing ]
+: tumaob ang bangka.
+
+capsule
+capsule (káp·sul)
+png |Med |[ Ing ]
+: kápsulá1
+
+captain
+captain (káp·teyn)
+png |Mil |[ Ing ]
+: kapitán2
+
+caption
+caption (káp·syon)
+png |[ Ing ]
+: pamagat o maikling paliwanag ukol sa nakalarawan.
+
+capture
+capture (káp·tyur)
+pnd |[ Ing ]
+1: dakpin o mandakip
+2: sa potograpiya, kuhanan ng retrato Cf KÚHA2
+
+Capuchin
+Capuchin (ká·pu·tsín)
+png |[ Ing ]
+1: fraile na kasapi ng ordeng Fransiskano na mahigpit na sumusunod sa kautusan ng kaniyang orden : KAPUTSÍNO
+2: sa maliit na titik, balabal at putong na isinusuot ng mga babae : KAPUTSÍNO
+3: sa maliit na titik, unggoy sa Timog Africa (genus Cebus ) na may buhok sa ulo na tíla putong ng monghe : KAPUTSÍNO
+
+car
+car (kar)
+png |[ Ing ]
+: sasakyang karaniwang apat ang gulong, bumibiyahe sa kalsada, nakapagsasakay ng tao, at pinatatakbo ng internal combustion engine : AUTOMOBIL, ÁWTOMÓBIL, KOTSE1
+
+CAR
+CAR (si ey ar)
+daglat |Heg |[ Ing ]
+: Cordillera Administrative Region.
+
+carabao
+carabao (ká·ra·báw)
+png |Zoo |[ Ing ]
+: kalabáw.
+
+carabao grass
+carabao grass (ká·ra·báw gras)
+png |Bot |[ Ing ]
+: kumakalat na damo (Paspalum conjugatum ) at may mga dahong makitid, sapád, at 20 sm ang habà, katutubo sa tropikong America ngunit laganap na ngayon sa buong Filipinas.
+
+carabineer
+carabineer (kár·a·bi·nír)
+png |[ Ing Fre carabinier ]
+: sundalong karbin ang pangunahing sandata.
+
+caracara
+caracara (ká·ra·ká·ra)
+png |Zoo |[ Esp ]
+: ibong mandaragit na matatagpuan sa tropikong America, kapamilya ng lawin ngunit kahawig ng buwitre.
+
+carafe
+carafe (ka·ráf)
+png |[ Ing Fre ]
+: maliit na sisidlan ng tubig o alak.
+
+CARAGA
+CARAGA (ka·rá·ga)
+png |Heg |[ Ing ]
+: tinatawag ding Rehiyon XIII, rehiyon sa Filipinas na nilikha sa pamamagitan ng Republic Act 7901 noong 23 Pebrero 1995, binubuo ng mga probinsiyang Agusan del Norte, Agusan del Sur, Surigao del Norte, at Surigao del Sur, at matatagpuan sa hilagang-silangan ng Mindanao.
+
+Carancal
+Carancal (ka·ráng·kal)
+png |Lit
+: sa panitikang bayan ng Batangas, tau-hang maliit pero may pambihirang lakas.
+
+carapace
+carapace (ká·ra·péys)
+png |Zoo |[ Ing ]
+: tangkúhong.
+
+caravan
+caravan (ká·ra·ván)
+png |[ Ing ]
+: karabána.
+
+cara y cruz
+cara y cruz (ká·ra i krus)
+png |[ Esp ]
+: kára-krús.
+
+carbide
+carbide (kár·bayd)
+png |Kem |[ Ing ]
+: kalburo.
+
+carbo-
+carbo- (kár·bo)
+pnl |[ Ing ]
+1: nangangahulugang may halòng carbon, hal carbohydrate
+2: pinaikling carbohydrate.
+
+carbohydrate
+carbohydrate (kár·bo·háy·dreyt)
+png |BioK |[ Ing ]
+: alinman sa malaking pangkat ng organikong compound na pinagkukunan ng enerhiya at binubuo ng carbon, hydrogen, at oxygen Cf CARBO2
+
+carbolic
+carbolic (kar·bó·lik)
+pnr |Kem |[ Ing ]
+: karbólikó.
+
+carbon
+carbon (kár·bon)
+png |Kem |[ Ing ]
+: di-metalikong elemento (atomic number 6, symbol C ) : KARBÓN3
+
+carbonado
+carbonado (kar·bo·ná·do)
+png |[ Por ]
+: itim na uri ng diyamante na ginagamit na pambutas o pamputol.
+
+carbonate
+carbonate (kár·bo·néyt)
+png |Kem |[ Ing ]
+: salt ng carbonic acid : KARBONÁTO, KARBONÍTA
+
+carbon copy
+carbon copy (kár·bon ká·pi)
+png |[ Ing ]
+1: duplikado ng anumang bagay na isinulat o iminakinilya na ginagamitan ng carbon paper
+2: tao o bagay na kamukhangkamukha.
+
+carbon dating
+carbon dating (kár·bon déy·ting)
+png |Kem |[ Ing ]
+: ang pagtiyak sa gúlang ng isang organikong bagay alinsunod sa proporsiyon ng mga carbon isotope na nilalamán nitó.
+
+carbon dioxide
+carbon dioxide (kár·bon dáy·ok·sáyd)
+png |Kem |[ Ing ]
+: gas (CO2) na walang kulay, walang amoy, hindi nasusunog, at nása atmospera.
+
+carbonic acid
+carbonic acid (kar·bó·nik á·sid)
+png |Kem |[ Ing ]
+: mahinàng acid, H2 CO3 na nabubuo kapag tinunaw ang carbon dioxide sa tubig.
+
+carbonization
+carbonization (kar·bo·ni·séy·syon)
+png |Kem |[ Ing ]
+: karbonisasyón.
+
+carbonized
+carbonized (kar·bo·náyzd)
+pnr |[ Ing ]
+: karbonisádo.
+
+carbon monoxide
+carbon monoxide (kár·bon mó·nok·sáyd)
+png |Kem |[ Ing ]
+: walang kulay, walang amoy, at nakalalasong gas (CO) na nabubuo mula sa hindi kompletong pagsunog ng carbon.
+
+carbon paper
+carbon paper (kár·bon péy·per)
+png |[ Ing ]
+: papel na nababalutan ng solusyon ng carbon na inilalagay sa pagitan ng mga papel upang makagawa ng duplikado : KARBÓN2
+
+carbonyl
+carbonyl (kár·bo·níl)
+png |Kem |[ Ing ]
+: compound na binubuo ng metal na may halong carbon monoxide, gaya ng nickel carbonyl.
+
+carborundum
+carborundum (kar·bo·rún·dum)
+png |Kem |[ Ing ]
+: karborúndo.
+
+carboxyl
+carboxyl (kar·bók·sil)
+pnr |Kem |[ Ing ]
+: nagtataglay ng carboxyl group.
+
+carboxyl group
+carboxyl group (kar·bók·sil grup)
+png |Kem |[ Ing ]
+: pangkat ng univalent COOH na nása at may katangian ng mga organikong acid carboxyl radical.
+
+carboxylic acid
+carboxylic acid (kar·bók·si·lík á·sid)
+png |[ Ing ]
+: anumang organikong acid na kabílang sa isa o higit pang carboxyl group.
+
+carbuncle
+carbuncle (kar·bún·kel)
+png |[ Ing ]
+: karbúngko.
+
+carburator
+carburator (kár·bu·réy·tor)
+png |Mek |[ Ing ]
+: karburadór.
+
+carcinogen
+carcinogen (kar·sí·no·dyén)
+png |Med |[ Ing ]
+: anumang substance na nagdudulot ng kanser : KARSINOHENO
+
+carcinoma
+carcinoma (kár·si·nó·ma)
+png |Med |[ Ing ]
+: uri ng kanser, lalo na sa epithelial tissue : KÁRSINÓMA
+
+cardamom
+cardamom (kár·da·móm)
+png |Bot |[ Ing ]
+: kardámomó.
+
+cardiac
+cardiac (kár·dyak)
+pnr |Med |[ Ing ]
+1: may kaugnayan sa puso : KARDÍYAKÓ
+2: ipinanlulunas sa sakít sa puso : KARDÍYAKÓ
+3: may sakít sa puso : KARDÍYAKÓ
+
+cardiac output
+cardiac output (kár·dyak awt·put)
+png |Med |[ Ing ]
+: volume ng dugo (litro) mula sa kaliwang ventricle ng puso sa bawat minuto.
+
+cardialgia
+cardialgia (kar·dyál·dya)
+png |Med |[ Ing ]
+: heartburn.
+
+cardigan
+cardigan (kár·di·gán)
+png |[ Ing ]
+: uri ng jaket na may mahabàng manggas at mga butones sa harap.
+
+cardinal
+cardinal (kár·di·nál)
+png pnr |[ Ing ]
+1: kardenal
+2: kardinál.
+
+cardinal adjective
+cardinal adjective (kár·di·nál á·dyik·tív)
+pnr |Gra |[ Ing ]
+: pang-uring pamílang1
+
+cardinalate
+cardinalate (kar·di·na·léyt)
+png |[ Ing ]
+: kardenaláto.
+
+Cardinal fish
+Cardinal fish (kár·di·nál·fish)
+png |Zoo |[ Ing ]
+: maliit na isdang-alat o isdang-tabáng (family Apogonidae ), malaki ang matá at bibig, may dalawang magkahiwalay na palikpik dorsal, malimit makislap ang kulay, at maraming uri ang may guhit sa katawan Cf DÁNGAT, MUÓNG
+
+cardio-
+cardio- (kár·dyó)
+pnl |Med |[ Ing ]
+: tumutukoy sa puso.
+
+cardiogram
+cardiogram (kár·dyo·grám)
+png |Med |[ Ing ]
+: talâ ng aktibidad ng kalamnan sa puso na ginagawa ng cardiograph.
+
+cardiograph
+cardiograph (kár·dyo·gráf)
+png |Med |[ Ing ]
+: aparatong nagtatalâ ng aktibidad ng kalamnan ng puso : KARDIYÓGRAPÓ
+
+cardiography
+cardiography (kar·dyó·gra·fí)
+png |Med |[ Ing ]
+: sistema sa pagtatalâ ng aktibidad ng kalamnan ng puso : KARDIYOGRAPÍYA
+
+cardiology
+cardiology (kar·dyó·lo·dyí)
+png |Med |[ Ing ]
+: sangay ng medisina na nakatuon sa mga sakít at abnormalidad ng puso : KARDIYOLOHÍYA
+
+cardiopulmonary
+cardiopulmonary (kár·dyó·púl·mo·ná·ri)
+pnr |Med |[ Ing ]
+: may kinalaman sa puso at bagà.
+
+cardiovascular
+cardiovascular (kár·dyó·vás·kyu·lár)
+pnr |Med |[ Ing ]
+: may kinalaman sa puso at mga daluyan ng dugo.
+
+carditis
+carditis (kar·dáy·tis)
+png |Med |[ Ing ]
+: kardítis.
+
+care
+care (keyr)
+png |[ Ing ]
+: pangangalagà.
+
+career
+career (ka·rír)
+png |[ Ing ]
+1: karéra3-5
+2: mabilis na galaw.
+
+careful
+careful (kéyr·ful)
+pnr |[ Ing ]
+: maíngat.
+
+caregiver
+caregiver (keyr gí·ver)
+png |[ Ing ]
+: tao na ang hanapbuhay ay magbigay ng kalinga o pangangalaga sa ibang tao.
+
+careless
+careless (kéyr·les)
+pnr |[ Ing ]
+: walang-ingat.
+
+careo
+careo (ka·ré·yo)
+png |Pol |[ Esp ]
+: pamamaraang panghukuman na pinaghaharap o may komprontasyon ang mga saksing may magkasalungat na opinyon.
+
+caress
+caress (ka·rés)
+png |[ Ing ]
+: kilos na nagpapakíta ng pagmamahal gaya ng yakap, haplos, at halik.
+
+caretaker
+caretaker (keyr·téy·ker)
+png |[ Ing ]
+: kátiwalà.
+
+Caribbean
+Caribbean (ka·ríb·yan)
+png |Heg |[ Ing ]
+: ang rehiyong sumasakop sa Dagat Caribbean, mga pulô dito, kasáma ang West Indies.
+
+Caribbean Sea
+Caribbean Sea (ka·ríb·yan si)
+png |Heg |[ Ing ]
+: Dágat Caribbean.
+
+caricature
+caricature (ká·ri·ka·tyúr)
+png |[ Ing ]
+: karikatúra.
+
+caries
+caries (ká·ris)
+png |Med |[ Ing ]
+: pagkabulok at pagkadurog ng ngipin o butó.
+
+carina
+carina (ka·ráy·na)
+png |Bot |[ Ing ]
+: anumang bahagi o estruktura na may hugis kilya, gaya ng talulot ng bulaklak at panggitnang buto sa dibdib ng ibon.
+
+Carlo Magno
+Carlo Magno (kár·lo mág·no)
+png
+: hari ng mga Frank (768–814 AD ) at si Carlos I bílang emperador ng Banal na Emperyong Romano, at pumigil sa pananalakay ng Muslim sa Europa : CHARLEMAGNE
+
+Carmelite
+Carmelite (kár·mi·láyt)
+png |[ Ing ]
+: madre sa Kristiyanong orden ng Our Lady of Mount Carmel : KÁRMELÍTA
+
+carmine
+carmine (kár·mayn)
+pnr |[ Ing ]
+: karmína.
+
+carnation
+carnation (kar·néy·syon)
+png |Bot |[ Ing ]
+: maliit na yerba (Dianthus caryophyllus ), mataba ang bughaw at lungting dahon, at iba-iba ang matitingkad na kulay ng bulaklak, katutubò sa Mediteraneo.
+
+carne blanca
+carne blanca (kár·ne bláng·ka)
+png |[ Esp ]
+: putîng karne Cf CARNE ROJA
+
+carne roja
+carne roja (kár·ne ró·ha)
+png |[ Esp ]
+: puláng karne Cf CARNE BLANCA
+
+carnival
+carnival (kár·ni·vál)
+png |[ Ing ]
+: karnabál.
+
+carnivore
+carnivore (kár·ni·vór)
+png pnr |Zoo |[ Ing ]
+: karníboró.
+
+carotene
+carotene (ká·ro·tín)
+png |Kem |[ Ing ]
+: alinman sa tatlong isomerikong puláng hydrocarbon (C40H56) at nakukuha sa carrot.
+
+carotenoid
+carotenoid (ka·ro·té·noyd)
+png |[ Ing ]
+: alinman sa mga pangkat ng dilaw o puláng pigment na magbibigay kulay sa halaman.
+
+carotid
+carotid (ka·ró·tid)
+png |Ana |[ Ing ]
+: alinman sa dalawang malaking artery sa gilid ng ulo na naghahatid ng dugo sa leeg at mukha at sa panloob na artery na nagsusuplay ng dugo sa utak, mata, at iba pang panloob na bahagi : KARÓTIDÁ
+
+carousel
+carousel (ká·ro·sél)
+png |[ Ing ]
+1: tsubibó2
+2: paligsahan sa pangangabayo.
+
+carp
+carp (karp)
+png |Zoo |[ Ing ]
+: kárpa.
+
+carpal
+carpal (kár·pal)
+png |Ana |[ Ing ]
+: alinman sa walong maliliit na butó sa galang-galang.
+
+car pe diem
+car pe diem (kár pi dyím)
+png |[ Lat ]
+1: paggawa ng kailangang gawin sa isang araw
+2: Lit paksa ng tulang liriko na nagpapakíta ng mga kabataan at ng kanilang pagkahilig sa panandaliang kasiyahan.
+
+carpenter
+carpenter (kár·pen·tér)
+png |[ Ing ]
+: anlowáge.
+
+carpenter’s square
+carpenter’s square (kár·pen·térs is·kwéyr)
+png |Kar |[ Ing ]
+: eskuwála.
+
+carpogonium
+carpogonium (kar·po·gú·ni·yúm)
+png |Bot |[ Ing ]
+: sex organ ng babaeng puláng algae na may iisang selula.
+
+carpology
+carpology (kar·pó·lo·dyí)
+png |Bot |[ Ing ]
+: pag-aaral sa mga prutas.
+
+car pool
+car pool (kar pul)
+png |[ Ing ]
+1: kasunduan ng mga may-ari ng sasakyan na magsalitan ng gagamiting sasakyan mula at patúngo sa isang pook
+2: sinumang kasáma sa ganitong kasunduan.
+
+carpus
+carpus (kár·pus)
+png |Ana |[ Ing ]
+: pangkat ng maliliit na butó na nása may galáng-galáng : KÁRPO
+
+carrot
+carrot (ká·rot)
+png |Bot |[ Ing ]
+: halamang-ugat (Daucus carota ) na may mahabàng lamán, kulay kahel, at nakakain nang hilaw : ASANÓRYA
+
+carry
+carry (ké·ri)
+pnd |[ Ing ]
+: dalhin o magdalá.
+
+carry over
+carry over (ké·ri ów·ver)
+png |[ Ing ]
+1: pagpapalawig o pagpapaliban ng isang gawain o panahon para sa kasunod
+2: sa bookkeeping, paglilipat ng kantidad sa susunod na pahina
+3: sa akawnting, paggamit ng di nagalaw na kredit o lugi upang mabawasan sa tax
+4: sa karera, ang hindi paglabas ng pinakahulíng numero sa tayâng pick six.
+
+cartage
+cartage (kár·teyds)
+png |[ Ing ]
+: karetáhe1
+
+cartesian
+cartesian (kar·té·syan)
+png |Pil |[ Ing ]
+: kartesyanísmo.
+
+cartesianism
+cartesianism (kar·té·sya·ní·zim)
+png |Pil |[ Ing ]
+: kartesyanísmo.
+
+Carthusian
+Carthusian (kar·tú·syan)
+png |[ Fre ]
+: Kar túho.
+
+cartilage
+cartilage (kár·ti·líds)
+png |Ana |[ Ing ]
+: kartílagó.
+
+cartridge
+cartridge (kár·trids)
+png |[ Ing ]
+1: kartútso1
+2: maliit na sisidlan ng pulbos, likido, o gas
+3: metal o plastik na lalagyan ng film
+4: sapád at siksik na kaha ng audio tape.
+
+carve
+carve (karv)
+pnd |[ Ing ]
+1: Sin hiwain ang isang matigas na bagay upang lumikha ng isang makasining na disenyo
+2: humiwa ng nilutong karne.
+
+carving
+carving (kárv·ing)
+png |[ Ing ]
+: bagay na resulta ng paghiwa sa isang matigas na bagay túngo sa isang likhang pansining.
+
+caryatid
+caryatid (ká·ri·á·tid)
+png |Ark |[ Ing Gri ]
+: karyátid.
+
+cascade
+cascade (kas·kéyd)
+png |[ Ing ]
+: kaskáda.
+
+case
+case (keys)
+png |[ Ing ]
+1: káso
+2: kahon1
+
+casein
+casein (ka·sín)
+png |Kem |[ Ing ]
+: pangunahing protina sa gatas at keso : KASEÍNA
+
+cash
+cash (kash)
+png |[ Ing ]
+: salaping papel o baryang nása kamay.
+
+cashew
+cashew (ká·syu)
+png |[ Ing ]
+: kasúy.
+
+cashier
+cashier (ka·syír)
+png |[ Ing ]
+: kahéra.
+
+Cash on Delivery
+Cash on Delivery (kash on de·lí· ve·rí)
+png |Kom |[ Ing ]
+: pagbabayad ng cash kung naihatid na ang inorder na kalakal Cf COD, KALIWAAN
+
+cash register
+cash register (kash ré·dyis·tér)
+png |[ Ing ]
+: mákiná sa pamilihan na may drawer para sa pera at nagtatalâ ng benta na nagsisilbing resibo : KÁHA REHÍSTRO
+
+casket
+casket (kás·kit)
+png |[ Ing ]
+: kabáong.
+
+Caspian Sea
+Caspian Sea (kás·pyan si)
+png |Heg |[ Ing ]
+: Dagat Caspian.
+
+cassava
+cassava (ka·sá·va)
+png |Bot |[ Ing ]
+: kamóteng-káhoy1
+
+casserole
+casserole (ká·se·ról)
+png |[ Ing ]
+: kaseróla.
+
+cassette
+cassette (ka·sét)
+png |[ Ing ]
+: compact at selyadong kahong pinaglalagyan ng cassette tape.
+
+cassette player
+cassette player (ka·sét plé·yer)
+png |[ Ing ]
+: kasangkapang ginagamit sa pagpapatugtog ng cassette.
+
+cassette tape
+cassette tape (ka·sét teyp)
+png |[ Ing ]
+: magnetikong sintas na pinagkikintalan ng tinig o tunog.
+
+cassowary
+cassowary (ka·so·wá·ri)
+png |Zoo |[ Ing ]
+: kaswáryo.
+
+cast
+cast (kast)
+png |[ Ing ]
+1: Tro pangkat ng mga gumaganap
+2: Kar mólde1
+
+caste
+caste (keyst)
+png |Sos |[ Ing San ]
+1: namamánang uring panlipunan na kinapapalooban ng mga tao na may magkakatulad na antas, hanapbuhay, katayuang pangkabuhayan, at may kaugaliang ikinabubukod sa ibang pangkatin
+2: sistema ng ganitong pagpapangkat sa lipunan.
+
+castellan
+castellan (kas·tel·yán)
+png |Mil |[ Esp ]
+: hukom ng hukbong militar.
+
+Castilla
+Castilla (kas·til·ya)
+png |Heg |[ Esp ]
+: rehiyon sa gitnang España ; isang dáting kahariang nanguna sa pagkakatatag ng España bílang isang makabagong bansa : CASTILLE Cf KASTILÀ
+
+Castille
+Castille (kas·tíl)
+png |Heg |[ Ing ]
+: Castilla.
+
+castle
+castle (ká·sel)
+png |[ Ing ]
+: kastílyo1
+
+castor
+castor (kás·tor)
+png |[ Ing ]
+: kulay kapéng substance na may matapang at nanunuot na amoy.
+
+Castor
+Castor (kás·tor)
+png
+1: Mit [Gri] kakambal ni Pollux at anak ni Leda kay Zeus
+2: Asn [Ing] ikalawang pinakamaningning na bituin sa konstelasyon ng Gemini.
+
+castoreum
+castoreum (kas·tór·yum)
+png |Kem |[ Ing ]
+: kulay kapeng sangkap na lumalabas sa glandula ng beaver, may maalingasaw na amoy, at ginagamit sa paggawa ng medisina at pabango : KASTÓREÓ
+
+castor oil
+castor oil (kás·tor oyl)
+png |[ Ing ]
+: kulay dilaw na langis mula sa bunga ng castor oil plant ; ginagamit na pampurga at sangkap sa mga produktong may langis.
+
+castor oil plant
+castor oil plant (kás·tor oyl plant)
+png |Bot |[ Ing ]
+: tángan-tángan.
+
+castrate
+castrate (kás·treyt)
+pnd |[ Ing ]
+: magkapon o kapunin.
+
+casualty
+casualty (kázh·u·al·tí)
+png |[ Ing ]
+1: tao na namatay o nasugatan sa digmaan o aksidente Cf BÍKTIMÁ
+2: bagay na nawala o nawasak Cf PINSALÀ
+
+cat
+cat (kat)
+png |Zoo |[ Ing ]
+: pusà.
+
+cataclysm
+cataclysm (kát·a·klíz·em)
+png |[ Ing ]
+: kataklísmo1-2
+
+catacomb
+catacomb (ká·ta·kóm)
+png |[ Ing ]
+: katakúmba.
+
+Catalan
+Catalan (ka·ta·lán)
+png |Ant Lgw |[ Esp ]
+: ang wika at mamamayan ng Cataluña, España.
+
+catalepsy
+catalepsy (kát·a·lép·si)
+png |Med |[ Ing ]
+: katalépsiyá.
+
+catalog
+catalog (ká·ta·lóg)
+png |[ Ing ]
+: katálogó.
+
+Cataluña
+Cataluña (ka·ta·lún·ya)
+png |Heg |[ Esp ]
+: rehiyon sa hilagang silangang España.
+
+catalyst
+catalyst (kát·a·líst)
+png |Kem |[ Ing ]
+: katalisadór.
+
+catamaran
+catamaran (ka·ta·ma·rán)
+png |Ntk |[ Ing ]
+: sasakyang pandagat na may layag at may dalawang kaskong binangkilas.
+
+Catanduanes
+Catanduanes (ka·tán·du·wá·nes)
+png |Heg
+: lalawigan sa timog silangang Luzon, Rehiyon V.
+
+cataplasm
+cataplasm (ka·ta·plá·sam)
+png |Med |[ Ing ]
+: kataplásma.
+
+catapult
+catapult (ká·ta·púlt)
+png |Mil |[ Ing ]
+: katapúlta.
+
+cataract
+cataract (kát·a·rákt)
+png |Med |[ Ing ]
+: kataráta1
+
+Catarman
+Catarman (ka·tar·mán)
+png |Heg
+: kabesera ng Northern Samar.
+
+catastrophe
+catastrophe (ka·tás·tro·fí)
+png |[ Ing ]
+: katástropé.
+
+Catbalogan
+Catbalogan (kat·ba·ló·gan)
+png |Heg
+: kabesera ng Western Samar.
+
+catch
+catch (kats)
+pnd |[ Ing ]
+1: humúli o hulíhin
+2: sumaló o saluhin.
+
+catch basin
+catch basin (kats béy·sin)
+png |Heo |[ Ing ]
+: banâ.
+
+catcher
+catcher (ká·tser)
+png |Isp |[ Ing ]
+: tagatanggap o tagasaló ng bola mula sa pitcher.
+
+catechism
+catechism (ká·te·kí·zem)
+png |[ Ing ]
+: katekismo.
+
+catechist
+catechist (ká·te·kíst)
+png |[ Ing ]
+: katekista.
+
+catechu
+catechu (ká·te·tsú, ká·te·kyú)
+png |[ Ing ]
+: kátekú.
+
+category
+category (ká·te·gó·ri)
+png |[ Ing ]
+: kategórya.
+
+cater
+cater (kéy·ter)
+pnd |[ Ing ]
+: maghatid at magdulot ng pagkain o serbisyo para sa pagtitipon o handaan.
+
+caterer
+caterer (kéy·ti·rér, kéy·tir·ér)
+png |[ Ing ]
+: restoran o tao na nakikipagkontrata sa paghahatid ng pagkain sa bahay o saan mang lugar na pagdarausan ng handaan.
+
+catfish
+catfish
+png |Zoo |[ Ing ]
+: hitò.
+
+cathedral
+cathedral (ka·téd·ral)
+png |[ Ing ]
+: katedrál.
+
+catheter
+catheter (ká·te·ter)
+png |Med |[ Ing ]
+: túbo na ipinapasok sa maliit na bútas ng katawan, karaniwan para sa pag-aalis ng likido.
+
+cathode
+cathode (ká·tod)
+png |Ele |[ Ing ]
+1: electrode na nagpapalabas ng electron at negatibong ion : KÁTODÓ
+2: negatibong pole ng baterya o anumang pinagmumulan ng koryente : KÁTODÓ
+
+catholic
+catholic (ká·to·lík)
+pnr |[ Ing ]
+: katólikoó.
+
+Catholic
+Catholic (ká·to·lík)
+png |[ Ing ]
+: Katólikó.
+
+catholicism
+catholicism (ka·tó·li·sí·zem)
+png |[ Ing ]
+: katolisísmo2
+
+Catholicism
+Catholicism (ka·tó·li·sí·zem)
+png |[ Ing ]
+: Katolisísmo1
+
+cation
+cation (kát·á·yon)
+png |Kem |[ Ing ]
+: ion na may positibong karga at nahihila sa anode sa elektrolisis Cf ANION
+
+cattle
+cattle (kát·el)
+png |Zoo |[ Ing ]
+: báka1
+
+Caucasia
+Caucasia (kaw·kéy·si·yá)
+png |Heg |[ Ing ]
+: rehiyong bulubundukin sa timog-silangang Europa, sa pagitan ng Dagat Itim at Dagat Caspian sa Georgia at ng timog-silangang Russia.
+
+Caucasian
+Caucasian (kaw·kéy·si·yán)
+png pnr |Ant |[ Ing ]
+: hinggil o katangian ng isa sa mga tradisyonal na pag-uuri ng lahi sa sangkatauhan, may katangiang mula sa mapusyaw hanggang maitim na balát, tuwid hanggang kulot na buhok, at mapusyaw hanggang matingkad na kulay ng matá, at likás na nanirahan o nagmula sa Europa, bahagi ng timog Africa, kanlurang Asia, at India.
+
+caucasoid
+caucasoid (kó·ká·soyd)
+pnr |[ Ing ]
+: hinggil sa Caucasian.
+
+caucus
+caucus (kó·kus)
+png |Pol |[ Ing ]
+1: pulong ng mga kasapi ng isang partido : KÓKUS
+2: isang pangkatin ng mga kasapi.
+
+cauliflower
+cauliflower (ko·li·flá·wer)
+png |Bot |[ Ing ]
+: halamang (Brassica oleracea ) ginugulay ang tíla ulong bulaklak : KÓLIPLÓR
+
+causative
+causative (kó·sa·tív)
+pnr |[ Ing ]
+: kawsatíbo.
+
+cause
+cause (koz)
+png |[ Ing ]
+: sanhî1-3
+
+caustic
+caustic (káws·tik)
+pnr |[ Ing ]
+: káwstikó.
+
+cauterization
+cauterization (kó·te·ri·zéy·syon)
+png |Med |[ Ing ]
+: káwterisasyón.
+
+cautery
+cautery (kó·te·rí)
+png |[ Ing ]
+1: káwterisadór
+2: kawtéryo.
+
+cavalry
+cavalry (ka·vál·ri)
+png |[ Ing ]
+: kabalyeríya.
+
+cave
+cave (keyv)
+png |[ Ing ]
+1: Heo yúngib
+2: taguán ng alak.
+
+caviar
+caviar (káv·yar)
+png |[ Ing ]
+: inasnan o processed na bihud ng sturgeon at ibang malaking isda na inihahain bílang pampagana.
+
+Cavite
+Cavite (ka·ví·te)
+png |Heg
+1: lalawigan sa Timog Katagalugan, Rehiyon IV
+2: lungsod sa Cavite.
+
+cavity
+cavity (ká·vi·tí)
+png |[ Ing ]
+1: anumang pook na hungkag
+2: Ana hungkag na espasyo sa loob ng katawan, organ, butó, at ngipin.
+
+cayenne
+cayenne (ka·yín)
+png |[ Ing ]
+: dinikdik na siling maanghang.
+
+cd
+cd (si di)
+symbol |Pis |[ Lat ]
+: candela.
+
+Cd
+Cd (sí di)
+symbol |Kem |[ Ing ]
+: cadmium.
+
+CD
+CD (si di)
+daglat |[ Ing ]
+: compact disc.
+
+CD ROM
+CD ROM (sí di róm)
+png daglat |[ Ing compact disc read only memory ]
+: siksik na disc na naglalamán ng malaking kantidad ng datos sa computer.
+
+Ce
+Ce (sí i)
+symbol |Kem |[ Ing ]
+: cerium.
+
+ceasefire
+ceasefire (sís·fayr)
+png |[ Ing ]
+: tígil-putúkan.
+
+Cebu
+Cebu (se·bú)
+png |Heg
+1: lalawigan sa gitnang Visayas, Rehiyon VII
+2: lungsod sa Cebu at kabesera ng lalawigan Cf SÚGBO
+
+cecitis
+cecitis (si·káy·tis)
+png |Med |[ Ing ]
+: pamamagâ ng cecum.
+
+cecum
+cecum (sí·kam)
+png |Ana |[ Ing ]
+: ísaw1
+
+cedar
+cedar (sé·dar)
+png |Bot |[ Ing ]
+: sédro.
+
+cedi
+cedi (sí·di)
+png |[ Ing ]
+: yunit ng pananalapi ng Ghana.
+
+ceiling
+ceiling (sí·ling)
+png |Ark |[ Ing ]
+: kísamé.
+
+ceiling fan
+ceiling fan (sí·ling fan)
+png |[ Ing ]
+: pangkás.
+
+ceja
+ceja (sé·ha)
+png |Ana |[ Esp ]
+: kílay.
+
+Celebes Sea
+Celebes Sea (se·le·bés si)
+png |Heg |[ Ing ]
+: Dagat Celebes.
+
+celebrant
+celebrant (sé·le·bránt)
+png |[ Ing ]
+1: parìng namumunò sa pagtanghal ng Eukaristiya
+2: mga kalahok sa pampubliko at relihiyosong gawain
+3: paglahok sa pagdiriwang
+4: sinumang pumupuri sa isang tao o bagay.
+
+celebrate
+celebrate (sé·le·bréyt)
+pnd |[ Ing ]
+1: ipagdiwang o gunitain ang isang araw o pangyayari
+2: ipahayag sa publiko
+3: gumawa ng mga seremonya o kasiyahan.
+
+celebration
+celebration (sél·bréy·syon)
+png |[ Ing ]
+: pagdiríwang.
+
+celebrity
+celebrity (se·léb·ri·tí)
+png |[ Ing ]
+: sikát na tao.
+
+celery
+celery (sé·le·rí)
+png |Bot |[ Ing ]
+: ápyo.
+
+cell
+cell (sel)
+png |[ Ing ]
+1: selda
+2: maliit na pangkat na bahagi ng isang malaking pangkat o organisasyon
+3: Bio mikroskopikong estruktura ng mga hayop at halaman na naglalamán ng nuklear at cytoplasmic na materyales na napapaloob sa isang semi-permeable membrane : SÉLULÁ
+4: Zoo isa sa mga bahagi ng pakpak ng kulisap na nahahati ng vein
+5: Ele gamit na nagdadalá ng elektrisidad
+6: lalagyan ng gas sa balloon
+7: pinaikling anyo ng cellular phone.
+
+cellar
+cellar (sél·lar)
+png |[ Ing ]
+: silid na mas mababà sa pantay lupang palapag ng bahay, karaniwang ginagamit sa pag-iimbak ng alak o uling.
+
+cello
+cello (tsé·low)
+png |Mus |[ Ing Ita ]
+: pinaikling biyolóntsélo.
+
+cellphone
+cellphone (sél·fon)
+png |[ Ing ]
+: pinaikling anyo ng cellular phone.
+
+cellular
+cellular (sél·yu·lár)
+pnr |[ Ing ]
+1: mayroong maliliit na kompartment
+2: tumutukoy sa anumang bagay na buhaghag
+3: tumutukoy sa mga selula
+4: may kaugnayan sa sistema ng teleponong mobile na gumagamit ng short range na estasyon ng radyo upang saklawin ang bahagi na binibigyan nitó ng serbisyo.
+
+cellular phone
+cellular phone (sél·yu·lár fon)
+png |[ Ing ]
+: maliit at portabol na radyo telepono na maaaring makapasok sa cellular na sistemang panradyo Cf CELL7, CELLPHONE
+
+celluloid
+celluloid (sél·yu·lóyd)
+png |[ Ing ]
+1: makunat at madalîng magningas na substance, pangunahing binubuo ng cellulose nitrate at alkampor, ginagamit sa paggawa ng pelikula at film sa x-ray at iba pang produkto
+2: film sa pelikula.
+
+cellulose
+cellulose (sél·yu·lós)
+png |Bio |[ Ing ]
+: inert na carbohydrate at pinakamahalagang bahagi ng cell wall ng halaman, tabla, cotton, abaka, at papel.
+
+cell wall
+cell wall (sel wol)
+png |Bio |[ Ing ]
+: makunat at kung minsan bahagyang matigas na suson na nakapaligid sa ilang tipo ng cell, at nagsisilbing suportang pang-estruktura, proteksiyon, at mekanismong pansalà.
+
+Celsius
+Celsius (sél·si·ús)
+pnr |[ Ing ]
+: sentigrádo2 Cf C
+
+cement
+cement (si·mént)
+png |[ Ing ]
+: seménto.
+
+cementum
+cementum (si·mén·tum)
+png |Med |[ Lat Ing ]
+: tíla butóng tisyu na bumubuo ng panlabas na rabaw ng ugat ng ngipin.
+
+cemetery
+cemetery (sé·mi·té·ri)
+png |[ Ing ]
+: libíngan2
+
+cenacle
+cenacle (sé·na·kél)
+png |[ Ing ]
+: senákuló2
+
+Cenozoic
+Cenozoic (si·no·zú·ik)
+pnr |[ Ing ]
+: tumutukoy sa kasalukuyang panahon na nagsimula mga 70,000,000 taon na ang nakalipas nang sumulpot ang mga mamalya.
+
+census
+census (sén·sus)
+png |[ Ing ]
+1: opisyal na talâ ng populasyon na may detalye tungkol sa edad, kasarian, at trabaho : SÉNSO
+2: sa sinaunang Roma, ang pagpapatalâ ng mga mamamayan at kanilang mga ari-arian para sa pagbubuwis : SÉNSO
+
+cent
+cent (sent)
+png |[ Ing ]
+: pinakamaliit na denominasyon ng dolyar Cf C3, SÉNTIMÓ
+
+centaur
+centaur (sén·tor)
+png |Mit |[ Ing ]
+: sentáwro.
+
+centavo
+centavo (sen·tá·vo)
+png |[ Ing ]
+: séntimó.
+
+centavos
+centavos (sen·tá·vos)
+png |[ Ing ]
+: séntimós.
+
+centenary
+centenary (sen·te·ná·ri)
+png |[ Ing ]
+: sentenáryo.
+
+centennial
+centennial (sen·tí·ni·yál)
+png |[ Ing ]
+: sentenáryo.
+
+center
+center (sén·ter)
+png |[ Ing ]
+: gitnâ1-3
+
+centigrade
+centigrade (sén·ti·gréyd)
+pnr |[ Ing ]
+: sentigrádo.
+
+centigram
+centigram (sén·ti·grám)
+png |Mat |[ Ing ]
+: sentigrámo.
+
+centiliter
+centiliter (sén·ti·lí·ter)
+png |Mat |[ Ing ]
+: sentilítro.
+
+centimeter
+centimeter (sen·ti·mí·ter)
+png |Mat |[ Ing ]
+: sentimétro.
+
+centimeter-gram-second system
+centimeter-gram-second system (sen·ti·mi·tér-gram-sé·kond sís·tem)
+png |[ Ing ]
+: sistémang sentimétro-grámo-segundo.
+
+centipede
+centipede (sén·ti·píd)
+png |Zoo |[ Ing ]
+: alupíhan1
+
+centipede plant
+centipede plant (sén·ti·píd plant)
+png |Bot |[ Ing ]
+: alupíhan2
+
+Central Cordillera
+Central Cordillera (sén·tral kor·dil·yé·ra)
+png |Heo
+: bulubunduking may habàng 275 km mula sa gitnang Luzon túngo sa hilagang Luzon at Bundok Pulog ang pinakamataas na taluktok, 2,928 mula sa pantay-dagat.
+
+Central Intelligence Agency
+Central Intelligence Agency (sén·tral in·té·li·dyéns éy·dyen·sí)
+png |Pol |[ Ing ]
+: pangunahing ahensiya ng pamahalaan ng Estados Unidos sa pangangalap ng impormasyon, lalo na tungkol sa kaaway Cf CIA
+
+Central Processing Unit
+Central Processing Unit (sén·tral pro·sé·sing yú·nit)
+png |Com |[ Ing ]
+: mahalagang bahagi ng sistema ng computer na naglalamán ng network ng elektrisidad na kailangan upang magsagawa ng instruksiyon : PROCESSOR2 Cf CPU
+
+centrum
+centrum (sén·trum)
+png |[ Lat Ing ]
+1: gitna2
+2: Zoo katawan ng vertebra.
+
+century
+century (sén·tyu·rí)
+png |[ Ing ]
+: dantaón.
+
+century egg
+century egg (sén·tyu·rí eg)
+png |[ Ing ]
+: burong itlog ng mga Chino na nilagyan ng sangkap na pampaitim, karaniwang kinakain bílang pampagana.
+
+century plant
+century plant (sén·tyu·rí plant)
+png |Bot |[ Ing ]
+: agave (Agave americana ) na walang tangkay at may mahabàng matinik na mga dahon, namumulaklak pagkaraan ng maraming taon at sakâ namamatay.
+
+cephalopod
+cephalopod (se·fá·lo·pód)
+png |Zoo |[ Ing ]
+: molusko na nása uring cephalopoda.
+
+cephalopoda
+cephalopoda (se·fá·lo·po·dá)
+png |Zoo |[ Lat ]
+: uri ng molusko na may katangi-tanging ulo, malakíng matá, at mga galamay, hal pusit, oktopus.
+
+cephalothorax
+cephalothorax (sé·fa·lo·tó·raks)
+png |Zoo |[ Ing ]
+: ulo at thorax ng gagamba, alimasag, at iba pang arthropod.
+
+ceramics
+ceramics (se·rá·miks)
+png |Sin |[ Ing ]
+: serámiká.
+
+cerebellum
+cerebellum (se·re·bé·lum)
+png |Ana |[ Ing ]
+: malaking bahagi ng utak na nag-uugnay ng boluntaryong galaw, tinig, at balanse ng tao, nása likod at ibabâ ng cerebrum : SERÉBELÓ
+
+cerebrum
+cerebrum (se·ré·brum)
+png |Ana |[ Ing ]
+: pinakamalaking bahagi ng utak na may dalawang hemisphere at kumokontrol ng boluntaryong mga galaw, at nag-uugnay ng mga aksiyong pangkaisipan : SERÉBRO
+
+ceremony
+ceremony (sér·e·mó·ni)
+png |[ Ing ]
+: seremónya.
+
+cerium
+cerium (sí·ri·yúm)
+png |Kem |[ Ing ]
+: metaliko at pinilakang putîng elemento (atomic symbol 58, symbol Ce ).
+
+certain
+certain (sér·ten)
+pnh |[ Ing ]
+: ilan ngunit hindi lahat.
+
+certain
+certain (sér·ten)
+pnr |[ Ing ]
+: tiyak na alam.
+
+certificate
+certificate (ser·tí·fe·kít, ser·tí·fe·kéyt)
+png |[ Ing ]
+: katibáyan3
+
+certified public accountant
+certified public accountant (sér·ti· fáyd páb·lik a·káwn·tant)
+png |[ Ing ]
+: lisensiyadong accountant Cf CPA
+
+certify
+certify (sér·ti·fáy)
+pnd |[ Ing ]
+: patunayan sa pamamagitan ng sertipiko.
+
+certiorari
+certiorari (sér·syi·yo·rá·ri)
+png |Bat |[ Ing ]
+: kahilingan sa nakatataas na hukuman na ipawalang-bisà ang kapasiyahan ng nakabababàng hukuman.
+
+cerumen
+cerumen (si·rú·men)
+png |[ Ing ]
+: tutulí.
+
+ceruse
+ceruse (sí·rus)
+png |Kem |[ Ing ]
+: pulbos, (PbCO3)2·Pb(OH)2 na mabigat, putî, kristalina, hindi nalulusaw sa tubig, nakalalason, at karaniwang sangkap ng oil at water color.
+
+cervical test
+cervical test (sér·vi·kál test)
+png |Med |[ Ing ]
+: regular na pagsusuri sa cervix : SMEAR TEST
+
+cervix
+cervix (sér·viks)
+png |Ana |[ Ing ]
+1: leég1
+2: bahaging tíla leeg sa ibabâ ng uterus.
+
+cessation
+cessation (se·séy·syon)
+png |[ Ing ]
+: pansamantala at tuluyang pagkawala o pagtigil.
+
+ceylon leadwort
+ceylon leadwort (séy·lon líd·wort)
+png |Bot |[ Ing ]
+: sandíkit.
+
+Cf
+Cf (sí ef)
+symbol |Kem |[ Ing ]
+: californium.
+
+Chabacano
+Chabacano (tsa·ba·ká·no)
+png |Lgw
+: wika sa Zamboanga at ilang bahagi ng Cavite na may malakas na halong Español.
+
+cha-cha
+cha-cha (tsá-tsa)
+png |[ Ing ]
+1: sayaw sa Latin America na katulad ng mambo
+2: Pol sa Filipinas, pinaikling tawag sa charter change, pagbabago sa nilalamán ng Saligang-Batas.
+
+chain
+chain (tseyn)
+png |[ Ing ]
+1: tanikala1
+2: serye2
+3: pangkat ng magkakaugnay na hotel, tindahan, at katulad.
+
+chair
+chair (tseyr)
+png |[ Ing ]
+1: upúan
+2: tagapangúlo.
+
+chairman
+chairman (tséyr·man)
+png |[ Ing ]
+: lalaking tagapangulo, chairwoman kung babae.
+
+chairperson
+chairperson (tseyr·pér·son)
+png |[ Ing ]
+: tagapangúlo.
+
+chakra
+chakra (tsák·ra)
+png |[ San ]
+: sa yoga, isa sa mga sentro ng kapangyarihang espiritwal sa katawan ng tao.
+
+chalcedony
+chalcedony (kal·sé·do·ní)
+png |[ Ing ]
+: kalsedónya.
+
+chalice
+chalice (tsá·lis)
+png |[ Ing ]
+: kális2
+
+chalk
+chalk (tsok)
+png |[ Ing ]
+: tisà2
+
+challenge
+challenge (tsá·linds)
+png |[ Ing ]
+1: hámon
+2: tútol1 o pagtútol.
+
+chamber
+chamber (tséym·ber)
+png |[ Ing ]
+1: kámará1
+2: kapulungán
+3: Bat tanggapan ng huwes ; katabi ng hukuman
+4: kompartment o kulong na puwang o cavity sa isang estruktura
+5: Heo yúngib
+6: lupón.
+
+chambermaid
+chambermaid (tséym·ber·méyd)
+png |[ Ing ]
+: utusán.
+
+chamber music
+chamber music (tséym·ber myú·sik)
+png |Mus |[ Ing ]
+: musikang tinutugtog ng isang maliit na pangkat, karaniwang sa isang silid sa halip na bulwagan.
+
+chamois
+chamois (tsám·wa)
+png |[ Ing ]
+1: Zoo maliksing antelope (Rupicapra rupicapra ), natatagpuan sa kabundukan ng Europa at Asia
+2: malambot na katad mula sa tupa, kambing, at katulad ; o ang pampunas o pampakintab mula rito.
+
+champagne
+champagne (syam·péyn)
+png |[ Fre ]
+: mabulâng putîng alak mula sa ubas : SAMPÁN2, TSAMPAN
+
+champion
+champion (tsám·pi·yón)
+png |[ Ing ]
+: kampeón.
+
+championship
+championship (tsámp·yon·syíp)
+png |[ Ing ]
+: kampeonáto.
+
+chamúltis
+cha·múl·tis
+png |Bot |[ Igo ]
+: kamátsilé.
+
+chance
+chance (tsans)
+png |[ Ing ]
+: tsánsa.
+
+chandelier
+chandelier (tsan·del·yír)
+png |[ Ing ]
+: aránya1
+
+change
+change (tseyds)
+png |[ Ing ]
+1: pagbabago
+2: palit2 o pagpapalit
+3: suklî.
+
+chant
+chant (tsant)
+png |Mus |[ Ing ]
+1: isang inuulit at maindayog na práse, karaniwang isinisigaw o inaawit nang sabay-sabay ng isang pangkat o madlâ
+2: paraan ng pag-awit sa salmo o kantiko
+3: nag-iisang nota na paulit-ulit na kinakanta nang iisa lámang ang himig.
+
+chaos
+chaos (ké·yos)
+png |[ Ing ]
+: káos.
+
+chapatti
+chapatti (tsa·pá·ti)
+png |[ Ing Hin ]
+: tinapay na sapád, manipis, at hindi ginagamitan ng pampaalsa.
+
+chapel
+chapel (tsá·pel)
+png |[ Ing ]
+: kapílya.
+
+chapitel
+chapitel (tsa·pí·tel)
+png |Ark |[ Esp ]
+: itaas na bahagi ng tore o bobida.
+
+chaplain
+chaplain (tsáp·lin)
+png |[ Ing ]
+: kapélyan.
+
+chapter
+chapter (tsáp·ter)
+png |[ Ing ]
+1: kabanatà1 Cf C2
+2: yugtô Cf C2
+
+characteristic
+characteristic (ka·rák·te·rís·tik)
+png |[ Ing ]
+: katangían.
+
+characterization
+characterization (ka·rák·te·ri·séy· syon)
+png |[ Ing ]
+: karakterisasyón.
+
+charade
+charade (sya·réyd)
+png |[ Ing ]
+1: laro ng pagpapahula ng mga salita o parirala sa pamamagitan ng aksiyong pantomima
+2: lantarang pagkukunwari o pandaraya.
+
+charcoal
+charcoal (tsár·kowl)
+png |[ Ing ]
+1: úling
+2: Sin lapis na uling at ginagamit na pangguhit ng larawan ; o ang larawan na gawa dito.
+
+charge
+charge (tsards)
+png |[ Ing ]
+1: singil
+2: karga2-3
+3: sakdal2
+4: salákay.
+
+charge account
+charge account (tsárds a·káwnt)
+png |Kom |[ Ing ]
+: account na nagpapahintulot sa isang mámimilí na makapamilí o makakuha ng serbisyo nang hindi muna magbabayad.
+
+chariot
+chariot (tsár·yot)
+png |[ Ing ]
+1: sasakyang may dalawang gulóng na hinihila ng kabayo at ginagamit noong unang panahon sa labanán at karera
+2: sasakyang may apat na gulóng at mayroong upúan sa likod.
+
+charitable
+charitable (tsá·ri·ta·ból)
+pnr |[ Ing ]
+: mapagkáwanggawâ.
+
+charity
+charity (tsár·i·tí)
+png |[ Ing ]
+: káwang-gawâ.
+
+Charlemagne
+Charlemagne (tsár·le·méyn)
+png |[ Fre ]
+: Carlo Magno.
+
+charm
+charm (tsárm)
+png |[ Ing ]
+1: halína
+2: gayuma
+3: mga palawit sa galáng o kuwintas na nakaaakit
+4: Pis katangian ng matter na nakikíta sa nakortang gatas.
+
+charming
+charming (tsár·ming)
+pnr |[ Ing ]
+: simpátiká.
+
+chase
+chase (tseys)
+pnd |[ Ing ]
+1: humabol o habulin
+2: sumunod o sundan
+3: magtaboy o itaboy.
+
+chaste
+chaste (tseys)
+pnr |[ Ing ]
+: bírhen.
+
+chastity
+chastity (tsás·ti·tí)
+png |[ Ing ]
+: kastidád.
+
+chat
+chat (tsat)
+png |[ Ing ]
+1: pag-uusap na hindi pormal Cf HUNTÁHAN
+2: Com pakikipag-usap sa pamamagitan ng internet.
+
+chateau
+chateau (sya·tú)
+png |Ark |[ Fre ]
+1: kastílyo1
+2: tíla kastilyong tahanan.
+
+chauvinism
+chauvinism (syó·vi·ní·zim)
+png |[ Ing ]
+: sobenísmo.
+
+cheap
+cheap (tsip)
+pnr |[ Ing ]
+1: múra
+2: may mumurahing panlasa.
+
+cheat
+cheat (tsit)
+pnd |[ Ing ]
+1: mandayâ o dayain
+2: manlamáng o lamangán.
+
+check
+check (tsek)
+png |[ Ing ]
+1: tséke
+2: biglang paghinto
+3: mabilisang pagsusuri
+4: [Esp] sa ahedres, kilos para pikutin ang hari ng kalaban : HÁKE
+
+checking account
+checking account (tsé·king a·káwnt)
+png |Kom |[ Ing ]
+: deposito sa bangko na nababawasan sa pamamagitan ng tseke.
+
+cheddar
+cheddar (tsé·dar)
+png |[ Ing ]
+: uri ng kesong matigas at makinis.
+
+cheek
+cheek (tsik)
+png |[ Ing ]
+1: Ana pisngî
+2: Kol pagiging bastos at walang gálang.
+
+cheekbone
+cheekbone (tsík·bown)
+png |Ana |[ Ing ]
+: butó sa dákong ibabâ ng pisngi.
+
+cheer
+cheer (tsir)
+png |[ Ing ]
+1: palakpak o sigaw na pampalakas ng loob
+2: sayá.
+
+cheering squad
+cheering squad (tsí·ring is·kwád)
+png |[ Ing ]
+: pangkat ng taga-cheer.
+
+cheese
+cheese (tsis)
+png |[ Ing ]
+: késo.
+
+cheeseburger
+cheeseburger (tsis·búr·ger)
+png |[ Ing ]
+: hamburger na may keso.
+
+cheesecloth
+cheesecloth (tsís·klot)
+png |[ Ing ]
+: katsá.
+
+chef
+chef (syef)
+png |[ Fre ]
+: propesyonal na kusinero, lalo na ang punòng kusinero ng restoran at katulad Cf COOK
+
+chemist
+chemist (ké·mist)
+png |[ Ing ]
+: kímikó.
+
+chemo
+chemo (kí·mo)
+png |Med |[ Ing ]
+: pinaikling chemotherapy.
+
+chemo-
+chemo- (kí·mo)
+pnl |[ Ing ]
+: nangangahulugang may kemikal.
+
+chemotherapy
+chemotherapy (kí·mo·té·ra·pí)
+png |Med |[ Ing ]
+: paggamot sa sakít sa pamamagitan ng mga substance na kemikal lalo na sa paggamot ng kanser Cf CHEMO
+
+chenille plant
+chenille plant (sye·níl plant)
+png |Bot |[ Ing ]
+: maliit na palumpong (Acaypha hispida ) na 2 m ang taas, may malapad at mabalahibong dahon, at bulaklak na tíla buntot ng pusa at 40 sm ang habà, katutubo sa India at pinatutubò bílang halámang ornamental sa Filipinas.
+
+chenopod
+chenopod (ké·no·pód)
+png |Bot |[ Ing ]
+: anumang halaman (family Chenopodiaceae ) tulad ng espinaka at ibang karaniwang damo : KENOPÓDYO
+
+cherry
+cherry (tsé·ri)
+png |Bot |[ Ing ]
+: seréso.
+
+cherub
+cherub (tsé·rub)
+png |[ Ing ]
+: kerubín.
+
+chess
+chess (tses)
+png |Isp |[ Ing ]
+: ahédres.
+
+chessboard
+chessboard (tsés·bord)
+png |Isp |[ Ing ]
+: tabléro2
+
+chest
+chest (tsest)
+png
+1: Ana bahagi ng katawan mulang leeg hanggang tiyan Cf THORAX
+2: kahon na karaniwang malaki at pinagtataguan ng mga mahalagang dokumento
+3: pook na pinagtataguan ng pondo ng institusyong pampubliko o pangkawanggawa Cf PONDO
+
+chesterfield
+chesterfield (tsés·ter·fíld)
+png |[ Ing ]
+: sofa na may magkasintaas na patungán ng kamay at sandálan.
+
+chestnut
+chestnut (tsést·nat)
+pnr |[ Ing ]
+: kastányo.
+
+chestnut
+chestnut (tsést·nat)
+png |Bot |[ Ing ]
+: kastányas.
+
+chestnut-faced bubbler
+chestnut-faced bubbler (tsés·nat-feyst-báb·ler)
+png |Zoo |[ Ing ]
+: kuyútan.
+
+chestnut munia
+chestnut munia (tsés·nat mún·ya)
+png |Zoo |[ Ing ]
+: máyang-pulá.
+
+chevre
+chevre (tsév·ra)
+png |[ Ing Fre ]
+: keso mula sa gatas ng kambing.
+
+chew
+chew (tsu)
+pnd |[ Ing ]
+: nguyain o ngumuya.
+
+chewing gum
+chewing gum (tsú·wing gám)
+png |[ Ing ]
+: nginunguyang pagkain na gawa sa chicle, pinatamis, at tinimplahan ng pampalasa Cf BÁBOLGÁM, TSÍKLET
+
+chiaroscuro
+chiaroscuro (ki·yá·ros·kú·ro)
+png |Lit Sin |[ Ing ]
+: klaroskúro.
+
+chick
+chick (tsík)
+png |Zoo |[ Ing ]
+: sísiw.
+
+chicken
+chicken (tsí·ken)
+png |Zoo |[ Ing ]
+: manók1
+
+chicken feed
+chicken feed (tsí·ken fíd)
+png |[ Ing ]
+1: patukâ sa manok
+2: maliit na halaga ng salapi.
+
+chickenpox
+chickenpox (tsí·ken paks)
+png |Med |[ Ing ]
+: bulútong-túbig.
+
+chicken salad
+chicken salad (tsí·ken sá·lad)
+png |[ Ing ]
+: pagkaing binubuo ng hinimay na lamán ng manok, mayonesa, hiniwang patatas, carrot, at iba pang gulay, at karaniwang inihahain nang malamig.
+
+chicle
+chicle (tsí·kel, tsík·li)
+png |[ Ing Esp ]
+: dagta mula sa magátas na katas ng punòng sapodilya, pangunahing ginagamit sa paggawa ng chewing gum.
+
+chicory
+chicory (tsí·ko·rí)
+png |Bot |[ Ing ]
+: tsikórya.
+
+chief
+chief (tsif)
+png |[ Ing ]
+: pinunò.
+
+chief
+chief (tsif)
+pnr |[ Ing ]
+1: mahalaga
+2: pangunahin.
+
+chiffon
+chiffon (syi·fón, syí·fon)
+png |[ Ing ]
+: telang manipis at magaan, karaniwang seda o rayon, at ginagamit na bandana o bestida.
+
+child
+child (tsayld)
+png |[ Ing ]
+1: anák1
+2: batàng babae o laláki.
+
+Chile
+Chile (tsi·lí)
+png |Heg |[ Ing ]
+: bansa na umuukopa ng mahabàng baybayin sa gawing kanluran ng Timog America.
+
+chili
+chili (tsí·li)
+png |Bot |[ Ing Mex ]
+: síli1
+
+chill
+chill (tsil)
+png |Med |[ Ing ]
+: gináw2
+
+chime
+chime (tsaym)
+png |[ Ing ]
+1: gamit sa pagpapatunog ng kampana
+2: set ng kampana, piraso ng tanso, bato, o tabla na nakalilikha ng tunog kapag hinampas
+3: karilyon.
+
+chimera
+chimera (ki·mé·ra)
+png |Mit |[ Ing ]
+: kiméra.
+
+chimney
+chimney (tsím·ni)
+png |[ Ing ]
+: tsiminéa.
+
+chin
+chin (tsin)
+png |Ana |[ Ing ]
+: babà1
+
+china
+china (tsáy·na)
+png |[ Ing ]
+: pinaikling tawag sa chinaware.
+
+China
+China (tsáy·na, tsí·na)
+png |Heg |[ Ing Esp ]
+: pinakamalaking bansa sa silangang Asia Cf TSÍNA1
+
+china rose
+china rose (tsáy·na rows)
+png |Bot |[ Ing ]
+: kayánga.
+
+China Sea
+China Sea (tsáy·na si)
+png |Heg |[ Ing ]
+: Dágat Tsína.
+
+chinatown
+chinatown (tsáy·na·táwn)
+png |[ Ing ]
+: anumang pook sa labas ng China na karaniwang pinaninirahan ng mga Chino.
+
+chinaware
+chinaware (tsáy·na wéyr)
+png |[ Ing ]
+: kagamitan na yari sa porselana, binubuo ng pinggan, tasa, at bandehado Cf CHINA
+
+Chinese
+Chinese (tsáy·nis)
+png pnr |Ant Lgw |[ Ing ]
+: Chino.
+
+chinese anise
+chinese anise (tsáy·nis a·nís)
+png |Bot |[ Ing ]
+: sangke.
+
+chinese bamboo
+chinese bamboo (tsáy·nis bám·bu)
+png |Bot |[ Ing ]
+: payát at maliit na kawayan (Bambusa glausescens ) na madahon, katutubò sa Indochina.
+
+chinese blackberry lily
+chinese blackberry lily (tsáy·nis blak·bé·ri lí·li)
+png |Bot |[ Ing ]
+: abaníko3
+
+chinese cabbage
+chinese cabbage (tsáy·nis ká·beydz)
+png |Bot |[ Ing ]
+: petsay.
+
+chinese honeysuckle
+chinese honeysuckle (tsáy·nis há·ni sá·kel)
+png |Bot |[ Ing ]
+: niyóg-niyugán1
+
+chinese lantern plant
+chinese lantern plant (tsáy·nis lán·tern plant)
+png |Bot |[ Ing ]
+: putúkan.
+
+chinese magnolia
+chinese magnolia (tsáy·nis mag·nól·ya)
+png |Bot |[ Ing ]
+: palumpong (Magnolia coco ) na 3 m ang taas, may dahong eliptiko, makintab, at madilim na lungtian, at may bulaklak na putî, mabango, at anim ang talulot, katutubo sa China.
+
+Chino
+Chino (tsí·no)
+png pnr |Ant Lgw |[ Esp ]
+: hinggil sa China, mga mamamayan, o isa sa kanilang mga wika : CHINESE, INTSIK Cf TSINO
+
+chip
+chip (tsip)
+png |[ Ing ]
+1: maliit na piraso ng tabla
+2: maliit at manipis na hiwa ng pagkain o kendi
+3: Com maliit at bilóg na disk
+4: pitsa1
+
+chirography
+chirography (kay·róg·ra·fí)
+png |[ Ing ]
+: sulat-kamay.
+
+chiropodist
+chiropodist (kay·ró·po·díst)
+png |Med |[ Ing ]
+: tao na nagsanay at lisensiyadong magpraktis ng chiropody Cf PODIATRIST
+
+chiropody
+chiropody (kay·ró·po·dí)
+png |Med |[ Ing ]
+: pagsusuri at paggamot sa mga sakít at kapansanan sa paa Cf PODIATRY
+
+chirp
+chirp (tsirp)
+pnd |[ Ing ]
+: siyáp.
+
+chisel
+chisel (tsí·sel)
+png |Kar |[ Ing ]
+: paét.
+
+chlorate
+chlorate (klo·réyt)
+png |Kem |[ Ing ]
+: klorato.
+
+chloride
+chloride (kló·rayd)
+png |Kem |[ Ing ]
+1: salt ng hydrochloric acid na binubuo ng dalawang elemento, chlorine bílang sodium chloride NaCl ang isa
+2: compound na may chlorine bílang methyl chloride, CH3 Cl : KLORÚRO
+
+chlorination
+chlorination (kló·ri·néy·syon)
+png |Kem |[ Ing ]
+: pagdalisay ng tubig sa pamamagitan ng paghahalo ng chlorine.
+
+chlorine
+chlorine (klo·rín)
+png |Kem |[ Ing ]
+: elemento na halogen na ginagamit sa pagdalisay ng tubig (atomic number 17, symbol Cl ) : KLÓRO
+
+chlorite
+chlorite (kló·rayt)
+png |[ Ing ]
+1: pangkat ng mineral, hydrous silicate ng aluminum, ferrous iron, at magnesium na makikíta sa lungtian at tíla platong kristal
+2: Kem salt ng chlorous acid bílang potassium chlorite KClO2
+
+chloroform
+chloroform (kló·ro·fórm)
+png |Kem |[ Ing ]
+: likidong (CHCl3) walang kulay, madalîng sumingaw, hindi nasusúnog, bahagyang nalulusaw sa tubig, masangsang ang amoy, at namamis-namis : KLOROPÓRMO
+
+chlorophyll
+chlorophyll (kló·ro·fíl)
+png |Bot |[ Ing ]
+: lungtiang kulay sa dahon at halaman na mahalaga sa produksiyon ng carbohydrate sa pamamagitan ng photosynthesis : KLORÓPILÁ
+
+chloroplast
+chloroplast (kló·ro·plást)
+png |Bot |[ Ing ]
+: plastid na mayroong chlorophyll.
+
+chlorosis
+chlorosis (klo·ró·sis)
+png |[ Ing ]
+1: Bot hindi normal na dilaw na kulay sa tisyu ng halaman, mula sa kabiguang madevelop ang chlorophyll
+2: Med tinatawag ding green sickness, ang malalâng uri ng kakulangan sa iron ng nagdadalagang babae : KLORÓSIS
+
+chlorous
+chlorous (kló·ros)
+pnr |Kem |[ Ing ]
+1: mayroong tatlong valence na chlorine
+2: mula sa chlorous acid.
+
+chlorous acid
+chlorous acid (kló·ros á·sid)
+png |Kem |[ Ing ]
+: maputlang dilaw na likidong acid, HClO2 na kilala lámang bílang solution at sa anyo ng mga salt nitó.
+
+chocolate
+chocolate (tsó·ko·lít)
+png pnr |[ Ing ]
+: tsokoláte.
+
+choice
+choice (tsoys)
+png |[ Ing ]
+1: pilì1 o pamimilì
+2: íbig1-2
+3: natatanging bahagi, hal bahagi ng karneng báka.
+
+choir
+choir (kwayr)
+png |Mus |[ Ing ]
+: kóro.
+
+choke
+choke (tsowk)
+png |[ Ing ]
+1: sakál1
+2: inís2
+3: búlon
+4: bará1
+5: balbula ng karburador.
+
+cholecalciferol
+cholecalciferol (ko·le·kal·sí·fe·ról)
+png |BioK |[ Ing ]
+: bitamina D3
+
+choose
+choose (tsus)
+pnd |[ Ing ]
+1: pumilì o pilíin
+2: humirang
+3: magpasiya
+4: marapatin.
+
+chopper
+chopper (tsá·per)
+png |[ Ing ]
+1: kasangkapang pantadtad
+2: Kol helikopter.
+
+chopstick
+chopstick (tsáp·is·tik)
+png |[ Ing ]
+: pares ng manipis na patpat, karaniwang gawa sa kahoy o garing, at ginagamit na pang-ipit ng pagkaing isusubò.
+
+chord
+chord (kord)
+png |[ Ing ]
+1: kuwerdas
+2: Mus kombinasyon ng tatlo o higit na tono
+3: Mat linya sa pagitan ng dalawang point sa curve
+4: Ana malaking ugat sa buong kahabaan ng gulugod.
+
+chore
+chore (tsor)
+png |[ Ing ]
+1: pangkaraniwang maliliit na gawain o trabaho sa bahay
+2: tungkulin o trabaho na mahirap at hindi kasiya-siya.
+
+choreographer
+choreographer (kor·yóg·ra·fér)
+png |Say |[ Ing ]
+: koreógrapó.
+
+choreography
+choreography (kor·yóg·ra·fí)
+png |Say |[ Ing ]
+: koreógrapiyá.
+
+chorus
+chorus (kó·rus)
+png |Mus |[ Ing ]
+: kóro4
+
+Christ
+Christ (krayst)
+png |[ Ing ]
+: Jesucristo.
+
+christ flower
+christ flower (krayst flá·wer)
+png |[ Ing ]
+: paskuwíta.
+
+Christian
+Christian (krís·tyan)
+png pnr |[ Ing ]
+: Kristiyáno.
+
+Christianism
+Christianism (kris·tya·ní·sem)
+png |[ Ing ]
+: Kristiyanísmo.
+
+Christianity
+Christianity (kris·tyá·ni·tí)
+png |[ Ing ]
+: Kristiyanísmo.
+
+Christmas
+Christmas (krís·mas)
+png |[ Ing ]
+: Paskó Cf XMAS
+
+christmas flower
+christmas flower (krís·mas flá·wer)
+png |Bot |[ Ing ]
+: páskuwá2
+
+chromatic
+chromatic (kró·ma·tík)
+pnr |[ Ing ]
+: kromátikó.
+
+chromatin
+chromatin (kró·ma·tín)
+png |Bio Kem |[ Ing ]
+: substance sa nukleo ng cell na binubuo ng DNA, RNA, at iba ibang protina.
+
+chrome
+chrome (krowm)
+png |[ Ing ]
+1: chromium, karaniwan ang pinagkukunan ng chrome yellow at chrome green
+2: salt ng potassium at sodium
+3: chromiumplated at iba pang matingkad na metalikong pandekorasyon sa kotse.
+
+chromium
+chromium (kró·mi·yúm)
+png |Kem |[ Ing ]
+: kumikináng at matigas na metalikong elemento na ginagamit sa alloy na bakal para lalong tumigas, at matagal bago kalawangin (atomic number 24, symbol Cr ) : KRÓMO1
+
+chromo-
+chromo- (krów·mo)
+pnl |Kem |[ Ing ]
+: nangangahulugang chromium.
+
+chromosome
+chromosome (kró·mo·sóm)
+png |BioK |[ Ing ]
+: alinman sa mga tíla sinulid na lawas, binubuo ng chromatin : KROMOSÓMA
+
+chronic
+chronic (kró·nik)
+pnr |[ Ing ]
+1: matagal nang hindi gumagalíng
+2: patuloy sa mahabàng panahon
+3: tulóy-tulóy.
+
+chronicle
+chronicle (kró·ni·kél)
+png |[ Ing ]
+: króniká.
+
+chronicler
+chronicler (kró·nik·lér)
+png |[ Ing ]
+: krónistá.
+
+Chronicles
+Chronicles (kró·ni·kéls)
+png |Lit |[ Ing ]
+: Mga Kronika.
+
+chrono
+chrono (kró·no)
+pnl |[ Ing ]
+: panlaping nagsasaad ng oras.
+
+chronological
+chronological (kro·no·ló·dyi·kál)
+pnr |[ Ing ]
+: kronolóhikó.
+
+chronology
+chronology (kro·nó·lo·dyí)
+png |[ Ing ]
+: kronolóhiyá.
+
+chronometer
+chronometer (kro·nó·mi·tér)
+png |[ Ing ]
+1: anumang nagtatakda ng oras na may espesyal na mekanismo sa pagsegurado at pagsasaayos sa sariling nitóng kawastuan, ginagamit sa pag-alam ng longhitud kung nása dagat, o sa anumang gamit na kinakailangan ng eksaktong oras
+2: anumang nagtatakda ng oras, tulad ng relo, at may pinakamataas na kalidad ng pagiging eksakto.
+
+chrysalis
+chrysalis (kri·sá·lis)
+png |Zoo |[ Ing ]
+: krisálidá.
+
+chrysanthemum
+chrysanthemum (kri·sán·te·múm)
+png |Bot |[ Ing ]
+: krisantémo.
+
+chubby
+chubby (tsá·bi)
+pnr |[ Ing ]
+: mabílog o mabilog-bilog, gaya sa chubby na pisngi.
+
+chum
+chum (tsam)
+png |[ Ing ]
+1: matalik na kaibigan
+2: kasáma sa kuwarto.
+
+chunk
+chunk (tsank)
+png |[ Ing ]
+1: malaking piraso Cf LAPÁNG
+2: malaking tipák
+3: matigas at malaking kimpál
+4: malaking bahagi.
+
+church
+church (tsérts)
+png |[ Ing ]
+: simbáhan.
+
+Church of England
+Church of England (tsérts of íng·gland)
+png |[ Ing ]
+: Ing les na sangay ng Kanlurang Kristiyanong simbahan na tumanggi sa awtoridad ng Papa.
+
+CIA
+CIA (si ay ey)
+daglat |[ Ing ]
+: Central Intelligence Agency.
+
+cicada
+cicada (si·ká·da)
+png |Zoo |[ Ing ]
+: kuliglíg1
+
+cider
+cider (sáy·der)
+png |[ Ing ]
+: sídra.
+
+cigar
+cigar (sí·gar)
+png |[ Ing ]
+: tabako3
+
+cigarette
+cigarette (sí·ga·rét)
+png |[ Ing ]
+: sigarílyo.
+
+ciguatera
+ciguatera (sig·wa·té·ra)
+png |Med |[ Ing ]
+: pagkalason dulot ng pagkain ng isdang matatagpuan sa mga bangkota na may ciguatoxin, gaya ng isdang-bato.
+
+ciguatoxin
+ciguatoxin (sig·wá·tok·sín)
+png |Med |[ Ing ]
+: lason na nakasasamâ sa sistemang nerbiyoso ng tao.
+
+cilantro
+cilantro (si·lán·tro)
+png |Bot |[ Esp ]
+: kulántro.
+
+cilia
+cilia (síl·ya)
+png |[ Ing ]
+1: Ana pilík1
+2: Zoo maliit at tíla buhok na tubò sa rabaw ng mga protozoan at metazoan na cell at nagpapagalaw sa mga ito.
+
+cinchona
+cinchona (sin·kú·na)
+png |Bot |[ Ing ]
+: singkóna.
+
+cinema
+cinema (sí·ni·má)
+png |[ Ing ]
+1: sinehán
+2: Sin sinematograpíya.
+
+cinematograph
+cinematograph (sin·e·má·to·gráf)
+png |[ Ing ]
+: sinematograpó.
+
+cinematography
+cinematography (sín·e·mat·ó·gra·fí)
+png |Sin |[ Ing ]
+: sinematograpíya.
+
+cingulo
+cingulo (síng·gu·ló)
+png |[ Esp ]
+: pahang linen o seda na itinatali sa baywang ng parì.
+
+cinnamon
+cinnamon (sí·na·món)
+png |Bot |[ Ing ]
+: kanéla.
+
+cipher
+cipher (sáy·fer)
+png |[ Ing ]
+: sípra.
+
+circle
+circle (sír·kel)
+png |[ Ing ]
+: sírkuló.
+
+circuit
+circuit (sír·kit)
+png |[ Ing ]
+: sírkitó.
+
+circulation
+circulation (sir·kyu·léy·syon)
+png |[ Ing ]
+: sirkulasyón1-3
+
+circumcision
+circumcision (sir·kum·sí·syon)
+png |Med |[ Ing ]
+: tulì.
+
+circumference
+circumference (sir·kúm·fe·réns)
+png |Mat |[ Ing ]
+: sirkumperensiyá.
+
+circumstance
+circumstance (sír·kum·stáns)
+|[ Ing ]
+: sirkunstansiyá.
+
+circus
+circus (sír·kus)
+png |[ Ing ]
+: sírko.
+
+cirrhosis
+cirrhosis (si·rów·sis)
+png |Med |[ Ing ]
+: di-gumagalíng na sakít sa atay, may malubhang panghihina ng mga cell at pamamagâ ng mga tisyu, karaniwang bunga ng alkoholismo o hepatitis.
+
+cirrus
+cirrus (sír·us)
+png |Mtr |[ Ing ]
+: maliliit na bunton ng putî, manipis, at mahimaymay na ulap, matatagpuan sa tayog na mahigit sa 6,000 m : BALAHIBONG MANOK
+
+Cistercian
+Cistercian (sis·tér·syan)
+png |[ Ing ]
+: kasapi ng ordeng monastiko na itinatag sa France noong 1098.
+
+cistern
+cistern (sís·tern)
+png |[ Ing ]
+1: sistérna
+2: anumang likás o artipisyal na imbakan ng tubig ulan.
+
+citation
+citation (say·téy·syon)
+png |[ Ing ]
+: sitasyón.
+
+citizen
+citizen (sít·i·zén)
+png |Pol |[ Ing ]
+: mamamayan Cf SIBILYAN
+
+citizenship
+citizenship (sít·i·zen·syíp)
+png |Pol |[ Ing ]
+: pagkamamamayan.
+
+citrate
+citrate (sí·treyt)
+png |Kem |[ Ing ]
+: sitráto.
+
+citric
+citric (sí·trik)
+pnr |[ Ing ]
+: sitrikó.
+
+citric acid
+citric acid (sí·trik á·sid)
+png |Kem |[ Ing ]
+: pulbos, C6 H8 O7 na putî, kristalina, natutunaw sa tubig at namamagitan sa metabolismo ng carbohydrate sa maraming prutas gaya ng lemon.
+
+citriculture
+citriculture (sí·tri·kúl·tyur)
+png |Agr |[ Ing ]
+: kultibasyon ng mga prutas na sitrus.
+
+citrin
+citrin (sí·trin)
+png |BioK |[ Ing ]
+1: pangkat ng mga substance na natatagpuan sa bunga ng sitrus
+2: bitamina P.
+
+citronella
+citronella (sít·ro·né·la)
+png |Bot |[ Ing ]
+: sidronéla.
+
+city
+city (sí·ti)
+png |[ Ing ]
+: lungsód1
+
+civic
+civic (sí·vik)
+pnr |[ Ing ]
+: síbikoó.
+
+civics
+civics (sí·viks)
+png |Pol |[ Ing ]
+: síbiká.
+
+civilian
+civilian (si·bíl·yan)
+png |[ Ing ]
+: sibilyan.
+
+civilization
+civilization (sív·i·li·zéy·syon)
+png |[ Ing ]
+: kabihasnan2-7
+
+civil rights
+civil rights (sí·vil ráyts)
+png |Pol |[ Ing ]
+: karapatang sibil.
+
+civil service
+civil service (sí·vil sér·vis)
+png |Pol |[ Ing ]
+: serbisyo sibil.
+
+Cl
+Cl (sí el)
+symbol |Kem |[ Ing ]
+: chlorine.
+
+claim
+claim (kleym)
+png |[ Ing ]
+1: karapatan o titulo sa isang bagay
+2: pahayag1-3
+3: angkin2 o pag-angkin
+4: hiling2
+
+claimant
+claimant (kléy·mant)
+png |[ Ing ]
+1: ang may karapatan
+2: ang naghahabol.
+
+clairvoyance
+clairvoyance (klar·vó·yans)
+png |[ Ing ]
+: ipinalalagay na kakayahang sobrenatural na hulaan ang mga bagay o pangyayaring hindi nakikíta.
+
+clam
+clam (klam)
+png |Zoo |[ Ing ]
+: alméha.
+
+clamor
+clamor (klá·mor)
+png |[ Ing ]
+: língaw.
+
+clamp
+clamp (klamp)
+png |[ Ing ]
+1: kasangkapang panghugpong ng dalawang bahagi at pampapanatili sa ganitong ayos
+2: Mek gáto2
+
+clan
+clan (klan)
+png |[ Ing ]
+: pangkat ng mga pamilya Cf ANGKAN, LAHI, LIPI
+
+clandestine
+clandestine (klán·des·tín)
+pnr |[ Ing ]
+: klandestíno.
+
+clap
+clap (klap)
+png |[ Ing ]
+: palakpák1
+
+clarification
+clarification (kla·ri·fi·kéy·syon)
+png |[ Ing ]
+: paliwánag.
+
+clarinet
+clarinet (klá·ri·nét)
+png |Mus |[ Ing ]
+: klarinéte.
+
+class
+class (klas)
+png |[ Ing ]
+: kláse.
+
+classic
+classic (klá·sik)
+pnr |[ Ing ]
+: klásikó.
+
+classical
+classical (klá·si·kál)
+pnr |[ Ing ]
+: klásikoó.
+
+classicism
+classicism (kla·si·sí·zim)
+png |Sin Lit |[ Ing ]
+: klasisísmo.
+
+classification
+classification (kla·si·fi·kéy·syon)
+png |[ Ing ]
+: klasipikasyon.
+
+classified ad
+classified ad (klá·si·fáyd ad)
+png |Kom |[ Ing ]
+: pahina o seksiyon sa páhayagán na nag-aalok ng trabaho, bagay, gamit, o serbisyo.
+
+classify
+classify (klá·si·fáy)
+pnd |[ Ing ]
+: ayusin ayon sa klase o uri.
+
+clause
+clause (kloz)
+png |[ Ing ]
+1: Gra sugnay
+2: hiwalay na bahagi, takdâ, o probisyon.
+
+claustrophobia
+claustrophobia (klos·tro·fó·bya)
+png |Sik Med |[ Ing ]
+: phobia sa kulób na pook.
+
+clavicle
+clavicle (klá·vi·kél)
+png |Ana |[ Ing ]
+: balágat1
+
+clavicord
+clavicord (kla·vi·kórd)
+png |Mus |[ Ing ]
+: klabikórdiyó.
+
+claw
+claw (klo)
+png |Zoo |[ Ing ]
+1: matalim at nakakurbang kuko ng hayop, gaya ng kuko ng pusa o ibon
+2: sípit3
+
+clay
+clay (kléy)
+png |[ Ing ]
+: luád o artipisyal na luád.
+
+clean
+clean (klin)
+pnr |[ Ing ]
+: malinis.
+
+clean
+clean (klin)
+pnd |[ Ing ]
+: maglinis o linisin.
+
+clear
+clear (klir)
+pnr |[ Ing ]
+1: malinaw, kung sa tubig o mata
+2: maliwanag, kung sa ilaw
+3: maaliwalas, kung sa atmospera
+4: tiyak, kung sa pasiya
+5: walang sagabal, kung sa daan.
+
+clearance
+clearance (klí·rans)
+png |[ Ing ]
+1: luwag ng daanan
+2: pahintúlot2
+
+clearing
+clearing (klí·ring)
+png |[ Ing ]
+1: paglilinis2
+2: gubat na nilawag
+3: sa pagbabangko, ang paglilinaw ng pondo ng isang tseke.
+
+cleavage
+cleavage (klí·vids)
+png |[ Ing ]
+1: katangian ng ilang kristal, bato at katulad na maging makinis ang mga rabaw
+2: lámat
+3: Zoo serye ng pagkakahati sa maliliit na cell ng isang itlog hanggang maging embriyon
+4: Ana malalim o lubog na bahagi ng dibdib sa pagitan ng dalawang súso ng babae.
+
+clef
+clef (klef)
+png |Mus |[ Ing ]
+: klábe1
+
+clemency
+clemency (klé·men·sí)
+png |[ Ing ]
+: paggawad ng awa o patawad.
+
+clergy
+clergy (klér·dyi)
+png |[ Ing ]
+: kléro.
+
+clergyman
+clergyman (klér·dyi·mán)
+png |[ Ing ]
+: klérigoó.
+
+cliché
+cliché (kli·syéy)
+png |[ Fre Ing ]
+1: gasgas na parirala, idea, paksa, o katulad : DE-KAHÓN3
+2: klisé.
+
+click
+click (klik)
+png |[ Ing ]
+: kaltís.
+
+client
+client (kláy·ent)
+png |[ Ing ]
+1: kliyénte
+2: Kom mamimíli
+3: pasyénte
+4: tao na tumatanggap ng benepisyo o serbisyo mula sa isang kawanihan o ahensiya ng pamahalaan.
+
+cliff
+cliff (klif)
+png |Heo |[ Ing ]
+: bangín.
+
+climate
+climate (kláy·meyt)
+png |Mtr |[ Ing ]
+: klíma.
+
+climax
+climax (kláy·maks)
+png |[ Ing ]
+1: karurukan1-2
+2: orgásmo.
+
+climb
+climb (klaymb)
+pnd |[ Ing ]
+: umakyat o akyatin.
+
+clinic
+clinic (klí·nik)
+png |[ Ing ]
+: klíniká1-3
+
+clique
+clique (klik)
+png |[ Ing ]
+: maliit at esklusibong pangkat.
+
+clitoris
+clitoris (klí·to·rís)
+png |Ana |[ Ing ]
+: tílin.
+
+cloaca
+cloaca (klo·wá·ka)
+png |Zoo |[ Ing ]
+: guwáng ng arì at labásan ng dumi ng mga ibon, reptil, at iba pa.
+
+cloak
+cloak (klowk)
+png |[ ing ]
+1: balábal
+2: lambóng1
+
+clock
+clock (klák)
+png |[ Ing ]
+: orasán.
+
+clockwise
+clockwise (klák·ways)
+png |[ Ing ]
+: pihit pakanan.
+
+cloisonne
+cloisonne (kloy·zo·ní)
+png |Sin |[ Ing ]
+: sa Europa at China, ang tradisyonal na prosesong pandekorasyon sa enamel na alahas.
+
+clone
+clone (klown)
+png |Bio |[ Ing ]
+: pangkat ng mga cell o organismong nabuo o nalikha nang walang sex.
+
+close
+close (klowz)
+pnr |[ Ing ]
+1: kung sa pagitan, kalapit o malapit
+2: kung sa lagúsan, makipot o masikíp
+3: kung sa relasyon, matalik
+4: kung sa hanay o salansan, masinsin.
+
+close
+close (klowz)
+pnd |[ Ing ]
+: isara o magsara.
+
+closet
+closet (kló·zet)
+png |[ Ing ]
+1: kábinét1
+2: maliit na silid o aparador na taguan ng mga damit at iba pang gamit.
+
+clot
+clot (klat)
+png |[ Ing ]
+: likidong namuo o nakorta.
+
+cloth
+cloth (klot)
+png |[ Ing ]
+: téla.
+
+clothes
+clothes (klowds)
+png |[ Ing ]
+: damít.
+
+clothes moth
+clothes moth (klowds mot)
+png |Zoo |[ Ing ]
+: tangà1
+
+cloud
+cloud (klawd)
+png |[ Ing ]
+: úlap.
+
+cloud rat
+cloud rat (kláwd rat)
+png |Zoo |[ Pal ]
+: ilahas na hayop (Crateromys heare-yi ) na kahawig ng squirrel, may habàng 30.48 sm ang katawan, at 60.96 sm ang buntot.
+
+clove
+clove (klowv)
+png |Bot |[ Ing ]
+1: klabo
+2: klabos.
+
+clover
+clover (kló·ver)
+png |Bot |[ Ing ]
+: legumbre (genus Trifolium ) na may dahong tatlo ang pilas.
+
+cloverleaf
+cloverleaf (kló·ber·líf)
+png |[ Ing ]
+: sistema ng mga lansangan na tíla dahon ng clover at nagpapahintulot ng madali at mabilis na pagpasok at paglabas sa mga haywey.
+
+clown
+clown (klawn)
+png |[ Ing ]
+: payaso.
+
+club
+club (klab)
+png |[ Ing ]
+1: uri ng samahán : KLAB
+2: bahay o silid na nakalaan para sa pagpupulong ng samahán : CLUBHOUSE, KLAB
+3: bagay na ginagamit panghambalos gaya ng batuta : KLAB
+
+clubhouse
+clubhouse (kláb·haws)
+png |[ Ing ]
+: club2
+
+clue
+clue (klu)
+png |[ Ing ]
+: hiwatig3 o pahiwatig.
+
+clump
+clump (klamp)
+png |[ Ing ]
+1: kimpál1
+2: Bot kumpól3
+
+clumsy
+clumsy (klám·si)
+pnr |[ Ing ]
+1: asiwâ
+2: hindi maingat sa paggawa o pagkilos
+3: hindi maganda ang pagkakayari.
+
+cluster
+cluster (klás·ter)
+png |[ Ing ]
+: pangkat ng magkakatulad na bagay na magkakatabi.
+
+Clytemnestra
+Clytemnestra (klay·tem·nés·tra)
+png |Mit |[ Gri ]
+: kapatid ni Helen na nagpapatáy sa kaniyang asawang si Agamemnon matapos ang digmaang Trojan.
+
+Cm
+Cm (sí em)
+symbol |Kem |[ Ing ]
+: curium.
+
+co-
+co- (ko)
+pnl |[ Ing ]
+1: varyant ng com
+2: Mat complement ng.
+
+Co
+Co (sí o)
+symbol |Kem |[ Ing ]
+: cobalt.
+
+coach
+coach (kowts)
+png |[ Ing ]
+1: malaking karwahe na may apat na gulong at mataas na upuan ng kutsero sa harapan
+2: tao na tagaturo o tagasanay sa mga mag-aaral, manlalaro, pangkat sa drama, at mga katulad
+3: kotse2
+4: bagón1
+
+coachman
+coachman (kówts·man)
+png |[ Ing ]
+: kutsero.
+
+coagulation
+coagulation (ko·á·gyu·léy·syon)
+png |Kem |[ Ing ]
+: koagulasyon.
+
+coalition
+coalition (ko·a·lí·syon)
+png |[ Ing ]
+: koalisyón.
+
+coarse
+coarse (kors)
+pnr |[ Ing ]
+1: magaspang, kung sa testura ng rabaw
+2: bastos, kung sa ugali.
+
+coast
+coast (kowst)
+png |Heo |[ Ing ]
+: baybáy1
+
+coaster
+coaster (kóws·ter)
+png |[ Ing ]
+1: maliit na bus
+2: maliit na pansapin tulad ng kortso, papel, o mababaw na tray.
+
+coastguard
+coastguard (kówst·gard)
+png |[ Ing ]
+: bantay-dagat.
+
+coat
+coat (kowt)
+png |[ Ing ]
+1: amerikána
+2: takip o kasuotang panlabas
+3: Zoo balát o balahibo ng hayop.
+
+coating
+coating (kówt·ing)
+png |[ Ing ]
+: pinta2
+
+coat of arms
+coat of arms (kówt of árms)
+png |[ Ing ]
+: eskúdo de armás.
+
+cob
+cob (kab)
+png |Bot |[ Ing ]
+: búsal.
+
+cobalt
+cobalt (kó·balt)
+png |Kem |[ Ing ]
+: metalikong elemento na may silicate na nagdudulot ng bughaw na kulay sa mga seramika (atomic number 27, symbol Co ) : KOBÁLTO
+
+cobbler
+cobbler (káb·ler)
+png |[ Ing ]
+1: sapatero
+2: malamig na inúming gawa sa alak, prutas, asukal, at mga katulad
+3: retaso.
+
+cobweb
+cobweb (káb·web)
+png |Zoo |[ Ing ]
+1: sapot ng gagamba
+2: isa sa mga hibla ng sapot ng gagamba.
+
+coca
+coca (kó·ka)
+png |Bot |[ Ing ]
+1: palumpong (Erythroxylum coca ) na matatagpuan sa Hilagang Amerika at Kanlurang Indies at may dahong nakukunan ng cocaine at iba pang alkaloyd : KÓKA
+2: tuyông dahon nito : KÓKA
+
+cocaine
+cocaine (ko·kéyn)
+png |Kem |[ Ing ]
+: kristalinang alkaloyd (C17H21NO4) na gáling sa dahon ng Coca, ginagamit na anestetiko at may epektong narkotiko : KOKAÍNA
+
+coccyx
+coccyx (kók·siks)
+png |Ana |[ Ing ]
+: kuyukót.
+
+cochino
+cochino (ko·tsí·no)
+png |Zoo |[ Esp ]
+: báboy.
+
+cock
+cock (kak)
+png |[ Ing ]
+1: Zoo tandang1
+2: pagkasá, gaya ng baril na inihahandang paputukin.
+
+cockfight
+cockfight (kák·fayt)
+png |[ Ing ]
+: sabong1
+
+cockpit
+cockpit (kák·pit)
+png |[ Ing ]
+1: sabungan
+2: pook na pinaglalabánan
+3: silid sa unahán ng eroplano para sa piloto at mga kasáma.
+
+cockscomb
+cockscomb (káks·kowm)
+png |[ Ing ]
+1: Zoo pálong1
+2: sombrero na tíla palong, dáting isinusuot ng mga artista
+3: Bot palong-palungan.
+
+cocktail
+cocktail (kák·teyl)
+png |[ Ing ]
+1: alinman sa iba’t ibang halo ng alak, karaniwang hinahaluan ng vermouth, katas ng prutas at nilalagyan ng yelo
+2: pagkaing pampagana
+3: uri ng semipormal na damit.
+
+coconut
+coconut (kó·ko·nát)
+png |Bot |[ Ing ]
+: niyóg.
+
+coconut crab
+coconut crab (kó·ko·nát krab)
+png |Zoo |[ Ing ]
+: tátus.
+
+cocoon
+cocoon (ko·kún)
+png |Zoo |[ Ing ]
+: tílas.
+
+cocotero
+cocotero (ko·ko·té·ro)
+png |Bot |[ Esp ]
+: niyóg.
+
+cod
+cod (kad)
+png |Zoo |[ Ing ]
+: gíndará.
+
+COD
+COD (si ow di)
+png daglat |[ Ing ]
+: Cash on Delivery.
+
+code
+code (kowd)
+png |[ Ing ]
+: kodigo1-2
+
+codeine
+codeine (ko·déyn)
+png |Med |[ Ing ]
+: gamot sa ubo : KODÉYNA
+
+codex
+codex (kó·deks)
+png |[ Ing ]
+: uri ng sinaunang manuskrito na isinaaklat.
+
+codfish
+codfish (kád·fish)
+png |Zoo |[ Ing ]
+: gíndará.
+
+codicil
+codicil (kó·di·síl)
+png |Pol |[ Ing ]
+1: dagdag na tadhana sa huling testamento
+2: anumang dagdag o suplemento, gaya ng apendiks.
+
+codification
+codification (kó·di·fi·kéy·syon)
+png |[ Ing ]
+: kodipikasyon.
+
+codify
+codify (kó·di·fáy)
+pnd |[ Ing ]
+: kodipika.
+
+coed
+coed (kó·ed)
+pnr |[ Ing ]
+: sa paaralan, tumatanggap kapuwa ng babae at lalaking estudyante.
+
+coed
+coed (kó·ed)
+png |[ Ing ]
+: babaeng estudyante sa paaralang kapuwa pambabae at panlalaki.
+
+Coelenterata
+Coelenterata (si·lín·ti·rá·ta)
+png |Zoo |[ Ing ]
+: phylum ng mga hayop na invertebrate na may nag-iisang organ para sa pagkain, pagdumi at iba pang gawain at may galamay sa gawing bibig, hal hydra, dikyà, anemóna, at korales.
+
+coelom
+coelom (sí·lom)
+png |Zoo |[ Ing ]
+: cavity sa katawan ng matataas na metazoan na matatagpuan sa pagitan ng kanal ng bituka at body wall.
+
+coerce
+coerce (kow·úrs)
+pnd |[ Ing ]
+: pilítin.
+
+coercion
+coercion (ko·ér·syon)
+png |[ Ing ]
+: koersiyón.
+
+coffee
+coffee (có·fi)
+png |[ Ing ]
+: kapé.
+
+coffin
+coffin (kó·fin)
+png |[ Ing ]
+: kabáong.
+
+cofradía
+cofradía (ko·fra·dí·ya)
+png |Kas |[ Esp ]
+: sa panahon ng Español, samaháng panrelihiyon o pangkawanggawa.
+
+Cofradia de San Jose
+Cofradia de San Jose (ko·frá·dya de san hó·se)
+png |Kas
+: kapatirang panrelihiyon na itinatag ni Apolinario de la Cruz na inusig ng mga fraile kayâ nag-alsa.
+
+cogito
+cogito (kó·hi·tó)
+png |Pil |[ Lat ]
+: simulaing pilosopiko na nagsasabing pinatutunayan ng kakayahang mag-isip ng isang tao ang kaniyang pag-iral.
+
+cognac
+cognac (kón·yak)
+png |[ Fre ]
+: brandi na dinalisay at may mataas na kalidad.
+
+cognate
+cognate (kóg·neyt)
+pnr |[ Ing ]
+1: may kaugnayan dahil iisa o magkatulad ang pinagmulan ; mula sa iisang angkan : KOGNÁDO
+2: magkatulad sa kalikasan at kalidad : KOGNÁDO
+
+cognomen
+cognomen (kog·nó·men)
+png |[ Lat ]
+1: paláyaw2
+2: apelyído.
+
+cognoscenti
+cognoscenti (kó·nyo·sén·ti)
+png |[ Ita ]
+: tao na bihasa at may pihikang panlasa upang husgahan ang isang likhang sining, alak, o pagkain : CONNOISSEUR
+
+cogon
+cogon (kó·gon)
+png |Bot |[ Esp Ing ]
+: baybay sa Español at Ingles ng kugon.
+
+cohabit
+cohabit (ko·háb·it)
+pnd |[ Ing ]
+1: magsáma bílang mag-asawa, karaniwang walang bisàng legal o panrelihiyong seremonya Cf LIVE IN
+2: tumirá sa isang bubong o pook.
+
+cohere
+cohere (ko·hír)
+pnd |[ Ing ]
+1: magdikit
+2: magkaisa
+3: manatiling magkasáma.
+
+coin
+coin (koyn)
+png |[ Ing ]
+: baryá1-2
+
+coincide
+coincide (ko·in·sáyd)
+pnd |[ Ing ]
+1: mag-okupa ng magkatulad na espasyo, punto, oras, at posisyon
+2: isabáy ; itaón
+3: ihawig, sa karakter at kalikasan.
+
+coincidence
+coincidence (ku·ín·si·déns)
+png |[ Ing ]
+: koinsidénsiyá.
+
+coincident
+coincident (ku·ín·si·dént)
+pnr |[ Ing ]
+: koinsidénte.
+
+coir
+coir (ko·ír)
+png |Bot |[ Ing ]
+: hibla ng bunót.
+
+coitus
+coitus (kóy·tus)
+png |[ Ing Lat ]
+: karát.
+
+cola
+cola (kó·la)
+png |[ Ing ]
+1: Bot punongkahoy (genus Cola ) na makikíta lámang sa Kanlurang Africa at may caffeine ang butó
+2: karbonadong inúmin na may lasa ng butó ng cola.
+
+colander
+colander (kúl·an·dér)
+png |[ Ing ]
+: koladór.
+
+cold
+cold (kold)
+png |Med |[ Ing ]
+: sipon1
+
+cold
+cold (kold)
+pnr |[ Ing ]
+: malamig.
+
+cold cream
+cold cream (kold krim)
+png |[ Ing ]
+: malamig at nagpapaginhawang panlinis sa balát ng mukha.
+
+coldness
+coldness (kóld·nes)
+png |[ Ing ]
+: lamíg.
+
+cold store
+cold store (kold is·tór)
+png |[ Ing ]
+1: gusali o imbákan ng eladong pagkain
+2: tindahan ng eladong pagkain.
+
+cold war
+cold war (kold war)
+png |Pol |[ Ing ]
+: hidwaan ng mga bansa, walang aktuwal na labanán, may pananakot, marahas na propaganda, at subersibong aktibidad pampolitika.
+
+cold wave
+cold wave (kold weyv)
+png |[ Ing ]
+1: panahon ng biglaang paglamig na higit sa karaniwan
+2: paraan ng pagkukulot ng buhok na ginaga-mitan ng gamot o kemikal.
+
+Coleoptera
+Coleoptera (ko·lép·te·rá)
+png |Zoo |[ Ing ]
+: Kol eoptera.
+
+coleslaw
+coleslaw (kóls·lo)
+png |[ Ing ]
+: ensalada na gawa sa ginayat o hiniwang repolyo at kintsay, at hinaluan ng asin, sibuyas, sukà, at gatas.
+
+colic
+colic (kó·lik)
+png |Med |[ Ing ]
+: kólikó.
+
+coliseum
+coliseum (ko·li·sí·yum)
+png |Ark |[ Ing Lat ]
+: koliséo.
+
+colitis
+colitis (ko·láy·tis)
+png |Med |[ Ing ]
+: pamamagâ ng kolón : KOLÍTIS1
+
+collaboration
+collaboration (ko·lá·bo·réy·syon)
+png |[ Ing ]
+: kolaborasyón.
+
+collage
+collage (ko·láds)
+png |[ Ing ]
+: makasining na komposisyon na pinagdidikit ang mga papel, tela, at iba pang materyales.
+
+collagen
+collagen (kó·la·dyén)
+png |BioK |[ Ing ]
+: pangunahing protinang pang-estruktura na makikíta sa pang-ugnay na tisyu at butó at nagdudulot ng helatina kapag pinakuluan Cf ÁGAR-ÁGAR, GULÁMAN2
+
+collar
+collar (kó·lar)
+png |[ Ing ]
+1: kuwélyo
+2: kolyár1
+
+collate
+collate (ko·léyt)
+pnd |[ Ing ]
+: ipunin at ayusin ayon sa pagkakasunod-sunod gaya ng mga pahina ng ulat, libro, at mga katulad.
+
+collation
+collation (ko·léy·syon)
+png |[ Ing ]
+: kolasyón2
+
+colleague
+colleague (kó·lig)
+png |[ Ing ]
+1: kapuwa kasapi, tulad sa isang kasáma sa propesyon : KÓLEGÁ
+2: kasáma sa negosyo : KÓLEGÁ
+
+collect
+collect (ko·lék)
+pnd |[ Ing ]
+: magkolekta o kolektahin.
+
+collection
+collection (ko·lék·syon)
+png |[ Ing ]
+: koleksiyón.
+
+collective
+collective (ko·lék·tiv)
+pnr |[ Ing ]
+: kolektíbo.
+
+collective noun
+collective noun (ko·lék·tiv nawn)
+png |Gra |[ Ing ]
+: pangngalang palansak.
+
+collectivism
+collectivism (ko·lék·ti·ví·zim)
+png |Pol |[ Ing ]
+: kolektibísmo.
+
+collectivist
+collectivist (ko·lék·ti·víst)
+png |Pol |[ Ing ]
+: kolektibísta.
+
+collector
+collector (ko·lék·tor)
+png |[ Ing ]
+: kolektór.
+
+college
+college (kó·lids)
+png |[ Ing ]
+: koléhiyó1-3
+
+collegiate
+collegiate (ko·lí·dyeyt)
+png |[ Ing ]
+: kolehiyádo.
+
+collision
+collision (ko·lí·syon)
+png |[ Ing ]
+: kolisyón.
+
+collodion
+collodion (ko·lí·dyon)
+png |Kem |[ Ing ]
+: kolodyón.
+
+colloquial
+colloquial (ko·lók·yal)
+pnr |Lgw |[ Ing ]
+: kolokyál.
+
+colloquy
+colloquy (kól·o·kwí)
+png |[ Ing ]
+: kolokyo.
+
+collyrium
+collyrium (ko·lír·yum)
+png |Med |[ Ing ]
+: kolíryo.
+
+cologne
+cologne (ko·lón)
+png |[ Fre Ger Ing ]
+: mabangong likido mula sa pinaghalong alkohol, katas ng bulaklak, at mabangong langis : ÁGWA-KOLÓNYA, KOLÓNYA5
+
+colon
+colon (kó·lon)
+png |[ Ing ]
+1: Gra tutuldok
+2: Ana kolón.
+
+colonel
+colonel (kér·nel)
+png |Mil |[ Ing ]
+: koronél.
+
+colonialism
+colonialism (ko·lón·ya·lí·sem)
+png |Pol |[ Ing ]
+: kolonyalísmo.
+
+colonialization
+colonialization (ko·lon·ya·li·zéy·syon)
+png |Pol |[ Ing ]
+: kolonyalisasyón.
+
+colonization
+colonization (ko·lo·ni·zéy·syon)
+png |Pol |[ Ing ]
+: kolonisasyón.
+
+colonize
+colonize (kó·lo·náyz)
+pnd |[ Ing ]
+: ikolonisá o kolonisahin.
+
+colonnade
+colonnade (kó·lon·néyd)
+png |Ark |[ Ing ]
+: hanay ng mga kólon o poste.
+
+colony
+colony (kól·o·ní)
+png |[ Ing ]
+: kolónya.
+
+color
+color (kó·lor, ko·lór)
+png |[ Ing Esp ]
+: kúlay.
+
+color blind
+color blind (kó·lor blaynd)
+pnr |Med |[ Ing ]
+: hindi makakilála ng ilang kulay.
+
+colorful
+colorful (kó·lor·ful)
+pnr |[ Ing ]
+: makúlay.
+
+Colosas
+Colosas (ko·ló·sas)
+png |[ Esp ]
+: Colossae.
+
+Colosenses
+Colosenses (ko·lo·sén·ses)
+png |[ Esp ]
+: Colossians.
+
+Colossae
+Colossae (ko·ló·sa)
+png |[ Ing ]
+: sinaunang lungsod sa Gitnang Asia, at pinagtayuan ng unang simbahang Kristiyano na pinagpahayagan ni San Pablo : COLOSAS
+
+Colossians
+Colossians (ko·ló·syans)
+png |[ Ing ]
+1: Lit ikalabindalawang aklat ng Bagong Testamento, isinulat ni San Pablo at San Timoteo para sa Simbahan ng Colossae : COLOSENSES
+2: mga mamamayan ng Colossae : COLOSENSES
+
+colt
+colt (kolt)
+png |Zoo |[ Ing ]
+: pótro.
+
+columbium
+columbium (ko·lum·byúm)
+png |Kem |[ Ing ]
+: dáting tawag sa niobium : KOLÚMBIYÓ
+
+columnist
+columnist (kó·lum·níst)
+png |[ Ing ]
+: kolumnísta.
+
+com-
+com- (kom)
+pnl |[ Ing complement ]
+: nangangahulugan ng kasáma sa ; kasáma ng.
+
+comatose
+comatose (ków·ma·tóws)
+pnr |[ Ing ]
+: komatóso.
+
+comb
+comb (kowm)
+png |[ Ing ]
+: sukláy.
+
+combination
+combination (kóm·bi·néy·syon)
+png |[ Ing ]
+: kombinasyón Cf COMBO1
+
+combo
+combo (kóm·bo)
+png |[ Ing ]
+1: pinaikling anyo ng combination, tumutukoy sa anumang bagay na binuo sa pamamagitan ng paghahalo-halo o pagsasáma-sáma
+2: Mus kómbo.
+
+combustible
+combustible (kom·bás·ti·ból)
+png |[ Ing ]
+: kómbustíble.
+
+combustion
+combustion (kom·bás·tyon)
+png |[ Ing ]
+: kombustiyón.
+
+comedian
+comedian (ko·mí·dyan)
+png |[ Ing ]
+: kómikó.
+
+comedy
+comedy (kó·me·dí)
+png |[ Ing ]
+: komédya1-2,4
+
+comet
+comet (kó·met)
+png |Asn |[ Ing ]
+: kométa.
+
+comfortable
+comfortable (kóm·for·ta·ból)
+pnr |[ Ing ]
+: maalwán.
+
+comfort room
+comfort room (kóm·fort rum)
+png |[ Ing ]
+: kubéta1 Cf CR
+
+comfort women
+comfort women (kóm·fort wé·men)
+png |[ Ing ]
+: kababaihang sapilitang naglingkod upang matugunan ang pangangailangang seksuwal ng mga sundalong Japanese.
+
+comfrey
+comfrey (kóm·fri)
+png |Bot |[ Ing ]
+: yerba (Symphytum officianale ), salit-salit ang dahon at balahibuhin ang gilid ng dahon, at dilaw, putî, o lila ang bulaklak na 1 sm ang habà at nuwes ang bunga.
+
+comic
+comic (kó·mik)
+png pnr |[ Ing ]
+: kómikó.
+
+comical
+comical (kó·mi·kál)
+pnr |[ Ing ]
+: kómikó4-5
+
+comma
+comma (kó·ma)
+png |[ Ing ]
+1: Gra kuwít
+2: Mus pagkakaiba ng pitch ng dalawang tono, tulad ng G # at A þ.
+
+command
+command (ko·mánd)
+png |[ Ing ]
+1: útos Cf ÁTAS, MÁNDO
+2: pagiging dalubhasa, gaya sa command sa wikang Español Cf GAMÁY
+
+commandant
+commandant (ko·mán·dant)
+png |Mil |[ Ing ]
+: komandánte.
+
+commandment
+commandment (ko·mánd·ment)
+png |[ Ing ]
+: utos ng Diyos.
+
+commemorate
+commemorate (ko·mé·mo·réyt)
+pnd |[ Ing ]
+1: gunitain
+2: parangalan ang alaala sa pamamagitan ng pagdiriwang.
+
+commemoration
+commemoration (ko·me·mo·réy ·syon)
+png |[ Ing ]
+: komemorasyón.
+
+commensurate
+commensurate (ko·mén·syu·réyt)
+pnr |[ Ing ]
+: marápat.
+
+comment
+comment (kó·ment)
+png |[ Ing ]
+: puná1
+
+commentary
+commentary (kó·men·té·ri)
+png |[ Ing ]
+: komentáryo.
+
+commerce
+commerce (kó·mers)
+png |[ Ing ]
+: kálakalán.
+
+commissary
+commissary (kó·mi·sá·ri)
+png |[ Ing ]
+1: tindahan ng pagkain at suplay, lalo na sa kampong militar : KOMISÁRYO
+2: tao na pinagkatiwalaan ng isang natatanging tungkulin ng nakatataas na awtoridad : KOMISÁRYO
+
+commission
+commission (ko·mís·yon)
+png |[ Ing ]
+: komisyón.
+
+commit
+commit (ko·mít)
+pnd |[ Ing ]
+1: gumawa
+2: ipagkatiwala ; ipatago
+3: mangakong gagawin.
+
+commitment
+commitment (ko·mít·ment)
+png |[ Ing ]
+1: pagtatalaga ng sarili sa isang tungkulin o gawain Cf OBLIGASYON, PANGAKO
+2: pagpapasok sa bilangguan, ampunan, o katulad.
+
+committee
+committee (ko·mí·ti)
+png |[ Ing ]
+: lupón.
+
+commodity
+commodity (ko·mó·di·tí)
+png |Kom |[ Ing ]
+: kalákal1
+
+common
+common (kó·mon)
+pnr
+1: komún
+2: Gra tingnan pangngalang pambalana1
+
+common noun
+common noun (kó·mon nawn)
+png |Gra |[ Ing ]
+: pangngalang pambalana.
+
+common sense
+common sense (kó·mon sens)
+png |[ Ing ]
+: sentído-komún.
+
+commune
+commune (kom·yún)
+pnd |[ Ing ]
+1: mag-usap nang may pagpapalagayang-loob
+2: magpalitan ng idea o damdamin.
+
+communication
+communication (kom·yu·ni·kéy· syon)
+png |[ Ing ]
+: komunikasyón.
+
+communion
+communion (kom·yú·nyon)
+png |[ Ing ]
+: komunyón.
+
+communique
+communique (kom·yú·ni·kéy)
+png |[ Ing ]
+: opisyal na komunikasyon.
+
+communism
+communism (kóm·yu·ní·zim)
+png |Pol |[ Ing ]
+: komunísmo.
+
+communist
+communist (kóm·yu·níst)
+png |Pol |[ Ing ]
+: komunísta.
+
+community
+community (kom·yú·ni·tí)
+png |[ Ing ]
+: komunidád.
+
+commute
+commute (kom·yút)
+pnd |[ Ing ]
+1: maglakbay patungo at mula sa tanggapan, paaralan, at katulad sa pamamagitan ng sasakyang pangmadla
+2: Bat gawing mababà ang parusa.
+
+compact
+compact (kom·pák)
+png |[ Ing ]
+1: kasunduan
+2: maliit na sisidlan na may salamin, pulbos, at espongha.
+
+compact
+compact (kóm·pak)
+pnr |[ Ing ]
+1: siksík : KOMPÁKTO
+2: isinaayos sa loob ng maliit na espasyo : KOMPÁKTO
+3: idinisenyo upang maging maliit at matipid : KOMPÁKTO
+
+compact disc
+compact disc (kóm·pak disk)
+png |[ Ing ]
+: maliit at plastik na disk na pinag-iimbakan ng musika at iba pang impormasyong dihital na maaaring basahin sa pamamagitan ng liwanag na laser Cf CD
+
+companion
+companion (kom·pá·nyon)
+png |[ Ing ]
+1: kasáma1
+2: kaparéha.
+
+company
+company (kám·pa·ní)
+png |[ Ing ]
+: kompanyá.
+
+comparative
+comparative (kom·pá·ra·tív)
+pnr |[ Ing ]
+: pahambing.
+
+comparison
+comparison (kom·pá·ri·són)
+png |[ Ing ]
+: paghahambing.
+
+compassion
+compassion (kom·pá·syon)
+png |[ Ing ]
+: hambál.
+
+compassionate
+compassionate (kom·pá·syo·néyt)
+pnr |[ Ing ]
+: mahambálin.
+
+compatible
+compatible (kom·pá·ti·ból)
+pnr |[ Ing ]
+: magkatugma o magkaayon.
+
+compatriot
+compatriot (kom·péy·tri·yót)
+png |[ Ing ]
+: kababáyan.
+
+compendium
+compendium (kom·pén·dyum)
+png |[ Ing ]
+: kompéndiyó1
+
+compensation
+compensation (kom·pen·séy·syon)
+png |[ Ing ]
+: bayad1 o kabayaran.
+
+competence
+competence (kóm·pi·téns)
+png |[ Ing ]
+: kompetensíya.
+
+competent
+competent (kóm·pe·tént)
+pnr |[ Ing ]
+: kompeténte.
+
+competition
+competition (kóm·pe·tí·syon)
+png |[ Ing ]
+: kompetisyón.
+
+competitor
+competitor (kóm·pe·ti·tór)
+png |[ Ing ]
+: kalában1
+
+compilation
+compilation (kom·pay·léy·syon)
+png |[ Ing ]
+: kompilasyón.
+
+complainant
+complainant (kom·pléy·nant)
+png |Bat |[ Ing ]
+: kerelyánte.
+
+complaint
+complaint (kom·pléynt)
+png |[ Ing ]
+1: daíng2
+2: Bat unang pagluhog ng nagsasakdal.
+
+complement
+complement (kóm·pli·mént)
+png |[ Ing ]
+1: anumang kinakailangan para makabuo o makakompleto ; isa sa magkapares
+2: Gra kaganapan3
+3: Mat anumang elemento na hindi kabílang sa isang tiyak na set o class
+4: Mat kantidad ng anumang anggulo na mababà sa 90 °.
+
+complete
+complete (kom·plít)
+pnr |[ Ing ]
+: kompléto.
+
+complex
+complex (kóm·pleks)
+png |[ Ing ]
+1: kabuuan na nahahati sa magkaka-ugnay na mga bahagi
+2: Sik pangkat ng kimkim na damdamin, idea, o pagnanasà na nagiging sanhi ng abnormal na pag-uugali o kalagayan ng pag-iisip.
+
+complicate
+complicate (kóm·pli·kéyt)
+pnd |[ Ing ]
+: makompliká o komplikahin.
+
+complicated
+complicated (kóm·pli·kéy·ted)
+pnr |[ Ing ]
+: masalimuot.
+
+complication
+complication (kóm·pli·kéy·syon)
+png |[ Ing ]
+: komplikasyón.
+
+compose
+compose (kom·póws)
+pnd |[ Ing ]
+1: sumulat ; gumawa
+2: umakda
+3: bumuo
+4: huminahon.
+
+composer
+composer (kom·pó·ser)
+png |[ Ing ]
+: kompositór1
+
+composite
+composite (kom·pów·sit)
+pnr |[ Ing ]
+1: binubuo ng iba’t ibang bahagi
+2: binubuo ng nakikilálang sangkap o bahagi
+3: Ark kabílang sa panlimang klasikong order ng arkitektura at binubuo ng mga elemento ng Ionic at Corinthian
+4: Bot may kaugnayan sa pamilyang daisy.
+
+composition
+composition (kóm·po·sí·syon)
+png |[ Ing ]
+: komposisyón1-4
+
+compound
+compound (kóm·pawnd)
+png |[ Ing ]
+1: halo ng dalawa o higit pang bagay, katangian, o katulad
+2: Gra tambalan1
+3: Kem substance na binuo mula sa dalawa o higit pang elemento
+4: nababakurang pook na may tirahan, pabrika, o iba pang gusali.
+
+compound eye
+compound eye (kóm·pawnd ay)
+png |Zoo |[ Ing ]
+: mata na binubuo ng maraming maliliit na yunit o segment pantanaw, gaya ng matatagpuan sa mga insekto o crustacean Cf FACET3
+
+compound noun
+compound noun (kóm·pawnd nawn)
+png |Gra |[ Ing ]
+: pangngalang tambalan.
+
+comprehensive
+comprehensive (kom·pre·hén·siv)
+pnr |[ Ing ]
+: komprehensíbo.
+
+compress
+compress (kóm·pres)
+png |Med |[ Ing ]
+: komprésa.
+
+compromise
+compromise (kóm·pro·máys)
+png |[ Ing ]
+: kompromíso1
+
+comptroller
+comptroller (komp·tró·ler)
+png |[ Ing ]
+: empleadong sumusubaybay sa gastusin at pananalapi ng isang kompanya o institusyon.
+
+compulsory
+compulsory (kom·púl·so·rí)
+pnr |[ Ing ]
+: sápilitán.
+
+computation
+computation (kom·pyu·téy·syon)
+png |[ Ing ]
+: komputasyón.
+
+compute
+compute (kom·pyút)
+pnd |[ Ing ]
+: magkuwenta o kuwentahin.
+
+computer
+computer (kom·pyú·ter)
+png |[ Ing ]
+: mákináng elektroniko na gumagamit ng digital signal sa pagpoproseso ng mga komplikadong problema sa matematika, paggawa ng mga pormal na dokumento o ulat, pagtatago ng datos o program upang mapadalî ang gawain, at paglilibang : ORDENADÓR
+
+comrade
+comrade (kóm·rad)
+png |[ Ing ]
+: kasáma4
+
+con
+con (kon)
+pnu pnb
+1: [Ing] laban sa
+2: [Esp] may kasámang, gaya sa “con amor. ”
+
+con-
+con- (kon)
+pnl |[ Ing ]
+: katumbas ng com, ginagamit sa mga salitâng nagsisimula sa mga titik na c, d, f, g, j, d, q, s, t, v, at mga patinig.
+
+concave
+concave (kón·keyv)
+pnr |[ Ing ]
+: malukong.
+
+conceit
+conceit (kon·sít)
+png |[ Ing ]
+1: labis na pagpapahalaga sa sarili Cf EGOISM, EGOTISM
+2: Lit isang komplikadong talinghaga.
+
+concentrated
+concentrated (kon·sen·tréy·ted)
+pnr |[ Ing ]
+: konsentrádo.
+
+concentration
+concentration (kon·sen·tréy·syon)
+png |[ Ing ]
+: konsentrasyón.
+
+concept
+concept (kón·sep)
+png |[ Ing ]
+: dalúmat2
+
+conception
+conception (kon·sép·syon)
+png |[ Ing ]
+: konsepsiyón.
+
+concern
+concern (kon·sérn)
+png |[ Ing ]
+1: malasákit
+2: balísa1-2
+3: anumang mahalaga.
+
+concert
+concert (kón·sert)
+png |[ Ing ]
+: konsiyérto.
+
+concession
+concession (kon·sé·syon)
+png |[ Ing ]
+: konsesyón.
+
+concessionaire
+concessionaire (kon·sé·syo·néyr)
+png |Kom |[ Ing ]
+: konsesyonáryo.
+
+conch
+conch
+png |Zoo |[ Ing ]
+: kóntsa1
+
+concierge
+concierge (kón·si·yerdz)
+png |[ Ing Fre ]
+1: katiwala ng isang gusaling páupáhan o pampubliko : KONSÉRHE, PORTÉRO12
+2: empleado ng otel na ang pangunahing tungkulin ay magsaayos ng mga pagliliwaliw at pamamasyal, pánoórin, at iba pang pangangailangan ng mga panauhin sa otel : KONSÉRHE, PORTÉRO1
+
+conclave
+conclave (kón·kleyv)
+png |[ Ing ]
+: kongklábe.
+
+concrete
+concrete (kóng·krit)
+pnr |[ Ing ]
+: kongkréto.
+
+concubinage
+concubinage (kon·kyú·bi·néyds)
+png |Bat |[ Ing ]
+: pakikiapid.
+
+concubine
+concubine (kóng·kyu·báyn)
+png |[ Ing ]
+: babae na kaapid.
+
+condemn
+condemn (kon·dém)
+pnd |[ Ing ]
+: magkondena o kondenahin.
+
+condensation
+condensation (kon·den·séy·syon)
+png |[ Ing ]
+: kondensasyón.
+
+condensed
+condensed (kon·dénst)
+pnr |[ Ing ]
+: kondensádo.
+
+condiment
+condiment (kón·di·mént)
+png |[ Ing ]
+: kondiménto.
+
+condition
+condition (kon·dí·syon)
+png |[ Ing ]
+: kondisyón.
+
+condo
+condo (kón·do)
+png |[ Ing ]
+: pinaikling tawag sa condominium Cf KÓNDO
+
+condolence
+condolence (kon·dów·lens)
+png |[ Ing ]
+: pakikiramay.
+
+conducive
+conducive (kon·dú·siv)
+pnr |[ Ing ]
+: nakatutulong o nakabubuti.
+
+conduct
+conduct (kán·dak)
+png |[ Ing ]
+1: gawì
+2: paraan ng pangangasiwa o pagpatnubay.
+
+conduct
+conduct (kán·dak)
+pnd |[ Ing ]
+1: bigyan ng gabay o pamumunò
+2: pangasiwaan
+3: maging tagakompás sa orkestra, koro, at katulad
+4: maghatid ng init, elektrisidad, at katulad.
+
+conductor
+conductor (kon·dák·tor)
+png |[ Ing ]
+: konduktór.
+
+conduit
+conduit (kón·du·ít)
+png |[ Ing ]
+1: daluyan ng likido
+2: túbong proteksiyon ng kawad ng koryente.
+
+cone
+cone (kown)
+png |[ Ing ]
+: kóno1-2
+
+confederation
+confederation (kon·fe·de·réy·syon)
+png |Pol |[ Ing ]
+: kumpederasyón.
+
+conference
+conference (kón·fe·réns)
+png |[ Ing ]
+: kumperénsiyá.
+
+confess
+confess (kon·fés)
+pnd |[ Ing ]
+: magkumpisal o ikumpisal.
+
+confession
+confession (kon·fés·yon)
+png |[ Ing ]
+: kumpisál.
+
+confessional
+confessional (kon·fé·syo·nál)
+png |[ Ing ]
+: kumpesyonáryo.
+
+confessor
+confessor (kon·fé·sor)
+png |[ Ing ]
+: kumpesór.
+
+confidence
+confidence (kón·fi·déns)
+png |[ Ing ]
+: kumpidénsiyá.
+
+confidential
+confidential (kon·fi·dén·syal)
+pnr |[ Ing ]
+: kumpidensiyál.
+
+confirm
+confirm (kon·fírm)
+pnd |[ Ing ]
+1: magkumpirma o kumpirmahin
+2: magkumpil o kumpilan.
+
+confiscate
+confiscate (kón·fis·kéyt)
+pnd |[ Ing ]
+: samsamín.
+
+confiscation
+confiscation (kón·fis·kéy·syon)
+png |[ Ing ]
+: samsam o pagsamsam.
+
+confiscator
+confiscator (kon·fis·kéy·tor)
+png |[ Ing ]
+: kumpiskadór.
+
+conflict
+conflict (kón·flik)
+png |[ Ing ]
+: sálungatán.
+
+conform
+conform (kon·fórm)
+pnd |[ Ing ]
+: magkumporme o kumumporme.
+
+conformity
+conformity (kon·fór·mi·tí)
+png |[ Ing ]
+: kumpormidád.
+
+congenital
+congenital (kon·dyé·ni·tál)
+pnr |[ Ing ]
+: mula nang isilang.
+
+congestion
+congestion (kon·dyés·tyon)
+png |[ Ing ]
+1: pagiging siksík3
+2: labis o di normal na pagdami ng dugo, uhog, o katulad sa isang organ o bahagi ng katawan.
+
+conglomerate
+conglomerate (kong·gló·me·réyt)
+png |[ Ing ]
+1: anumang binubuo ng magkakaibang mga bagay o materyales : KONGLOMERÁNTE
+2: Kom kompanyang binubuo ng iba pang subsidiyaryong kompanya o dibisyon na may iba’t ibang di magkakaugnay na industriya dulot ng pag-isa o pagbili ng kompanya ng isa pang kompanya : KONGLOMERÁNTE
+3: bato na binubuo ng bilóg na mga pebble at ibinabaón sa materyales na pansemento : KONGLOMERÁNTE
+
+Congrats!
+Congrats! (kong·gráts)
+pdd |[ Ing ]
+: pinaikling Congratulations!
+
+congratulate
+congratulate (kong·grá·tyu·léyt)
+pnd |[ Ing ]
+: batiin ang tagumpay o suwerte ng isang tao.
+
+congratulation
+congratulation (kong·grá·tsu·léy·syon)
+png |[ Ing ]
+: batì2 o pagbatì.
+
+Congratulations!
+Congratulations! (kong·grá·tyu·léy·syóns)
+pdd |[ Ing ]
+: Mal igayang bati!
+
+congress
+congress (kóng·gres)
+png |[ Ing ]
+: kongréso.
+
+congressman
+congressman (kóng·gres·mán)
+png |[ Ing ]
+: kongresísta.
+
+congruence
+congruence (kóng·gru·éns)
+png |[ Ing ]
+1: pagiging tugma o magkasundo
+2: Mat sa mga pigura, pagkakatugma kapag pinagpatong.
+
+conical
+conical (kó·ni·kál)
+pnr |[ Ing ]
+: kónikó.
+
+conjugal
+conjugal (kón·dyu·gál)
+pnr |[ Ing ]
+: may kaugnayan sa kasal o relasyon ng mag-asawa.
+
+conjugation
+conjugation (kón·dyu·géy·syon)
+png |[ Ing ]
+1: Gra pagbabangháy
+2: Bio pagsasanib ng dalawang gamete sa reproduksiyon ; o ang pansamantalang pagsasanib ng dalawang organismong unicellular para palitan ng henetikong materyal.
+
+conjunction
+conjunction (kon·dyángk·syon)
+png |[ Ing ]
+1: Gra pang-ugnay1 ; pangatnig
+2: pagsasabáy
+3: Asn pagsasabay ng dalawa o higit pang lawas sa magkatulad na pangkalawakang longtitud.
+
+conjunctiva
+conjunctiva (kon·dyungk·táy·va)
+png |Ana |[ Ing ]
+: tíla uhog na lamad, tumatakip sa harap ng inla at sa panloob na gilid ng talukap ng mata : KONHÚNTIBÁ
+
+conjunctivitis
+conjunctivitis (kon·dyungk·ti·váy·tis)
+png |Med |[ Ing ]
+: bísil1
+
+connect
+connect (ko·nék)
+pnd |[ Ing ]
+: ikonekta o konektahan.
+
+connection
+connection (ko·nék·syon)
+png |[ Ing ]
+: koneksiyón.
+
+connoisseur
+connoisseur (kón·e·súr)
+png |[ Fre ]
+: cognoscenti.
+
+connotation
+connotation (kó·no·téy·syon)
+png |[ Ing ]
+: konotasyón.
+
+coño
+coño (kón·yo)
+png |Kol |[ Esp ]
+: salitâng kalye para sa puke.
+
+coño
+coño (kón·yo)
+pnr |Kol |[ Esp ]
+: sa Filipinas, pakutyang tawag sa mga tao na itinatanghal ang pagiging maykáya sa pamamagitan ng kilos, wika, at pananamit Cf BURGIS
+
+conqueror
+conqueror (kón·ke·rór)
+png |Pol |[ Ing ]
+: mánanákop.
+
+conquest
+conquest (kón·kwest)
+png |[ Ing ]
+: pananákop.
+
+cons
+cons (kons)
+png |[ Ing ]
+: mga katwirang salungat Cf PROS
+
+consanguinity
+consanguinity (kón·sang·gwí·ni·tí)
+png |[ Ing ]
+: ugnayan sa dugo ; ugnayan mula sa parehong ninuno.
+
+conscience
+conscience (kón·syens)
+png |[ Ing ]
+: budhî1
+
+conscious
+conscious (kón·syus)
+pnr |[ Ing ]
+1: may málay
+2: gisíng1
+
+consciousness
+consciousness (kón·syus·nés)
+png |[ Ing ]
+: málay.
+
+conscription
+conscription (kons·kríp·syon)
+png |[ Ing ]
+: konskripsiyón.
+
+consecrate
+consecrate (kón·sek·réyt)
+pnd |[ Ing ]
+: magkonsagrá o konsagrahin.
+
+consecration
+consecration (kon·sek·réy·syon)
+png |[ Ing ]
+: konsagrasyón.
+
+consecutive
+consecutive (kon·sé·kyu·tív)
+pnr |[ Ing ]
+: sunód-sunód.
+
+consejo de administracion
+consejo de administracion (kon·sé·ho de ád·mi·nís·tras·yón)
+png |Kas Pol |[ Esp ]
+: sa panahon ng Español, gabineteng nagpapayo sa gobernador-heneral hinggil sa mahahalagang usapín.
+
+consejo de Indias
+consejo de Indias (kon·sé·ho de ín·dyas)
+png |Kas Pol |[ Esp ]
+: sa panahon ng Español, kataas-taasang lehislatibo at administratibong lupon para sa mga kolonya ; hukuman ng hulíng pagdulog.
+
+consent
+consent (kon·sént)
+png |[ Ing ]
+: pagbibigay ng pagsang-ayon o pahintulot.
+
+consequence
+consequence (kón·sek·wéns)
+png |[ Ing ]
+: konsekúwensiyá.
+
+conservation
+conservation (kon·ser·véy·syon)
+png |[ Ing ]
+: konserbasyón.
+
+conservatism
+conservatism (kon·ser·va·tí·sem)
+png |[ Ing ]
+: konserbatísmo.
+
+conservative
+conservative (kon·sér·va·tív)
+pnr |[ Ing ]
+: konserbatíbo.
+
+conservatory
+conservatory (kon·sér·va·tó·ri)
+png |[ Ing ]
+1: Mus konserbatóryo
+2: Agr pasibulan ng mga murà at mahinàng haláman.
+
+conserve
+conserve (kon·sérv)
+pnd |[ Ing ]
+: magkonserbá o konserbahin.
+
+consider
+consider (kon·sí·der)
+pnd |[ Ing ]
+: ikonsidera o konsiderahin.
+
+considerable
+considerable (kon·sí·de·ra·ból)
+pnr |[ Ing ]
+: konsideráble.
+
+consideration
+consideration (kón·si·de·réy·syon)
+png |[ Ing ]
+: konsiderasyón.
+
+consign
+consign (kon·sáyn)
+pnd |[ Ing ]
+1: ipagkatiwala
+2: Kom ipatinda
+3: ilipat ; ipasa
+4: italaga.
+
+consignment
+consignment (kon·sáyn·ment)
+png |Kom |[ Ing ]
+: patindá1-3
+
+consistency
+consistency (kon·sís·ten·sí)
+png |[ Ing ]
+1: antas ng pagiging matatag ng isang substance : TIGÁS
+2: antas ng pagiging siksik, lalo na ang likido Cf LÁPOT
+3: kawalan ng pagbabago
+4: tatag.
+
+consolation
+consolation (kon·so·léy·syon)
+png |[ Ing ]
+: konsolasyón.
+
+consolation prize
+consolation prize (kon·so·léy·syon prayz)
+png |[ Ing ]
+: gantimpalang pampalubag-loob.
+
+consommé
+consommé (kón·so·méy)
+png |[ Fre ]
+: káldo1
+
+consonant
+consonant (kón·so·nánt)
+png |Gra Lgw |[ Ing ]
+: katínig3
+
+consort
+consort (kón·sort)
+png |[ Ing ]
+: konsórte1
+
+consortium
+consortium (kon·sór·syum)
+png |[ Ing ]
+: samahán, lalo na ng mga kompanya ng negosyo.
+
+conspiracy
+conspiracy (kons·pí·ra·sí)
+png |[ Ing ]
+: konspirasyón.
+
+Constantinople
+Constantinople (kons·tan·ti·nó·pol)
+png |Heg |[ Ing ]
+: dáting pangalan ng Istanbul.
+
+constellation
+constellation (kons·te·léy·syon)
+png |[ Ing ]
+: konstelasyón.
+
+constitution
+constitution (kóns·ti·tú·syon)
+png |[ Ing ]
+: konstitusyón.
+
+construct
+construct (kóns·trak)
+png |[ Ing ]
+1: bagay na binuo, lalo na ng isip
+2: Lgw mga salitâng bumubuo ng parirala.
+
+construct
+construct (kons·trák)
+pnd |[ Ing ]
+1: magtayô ; gumawa ; bumuo
+2: Mat gumuhit o maglarawan, lalo na ng tamang-tama sa hatag na mga kondisyon gaya ng paggawâ ng mga tatsulok.
+
+construction
+construction (kons·trák·syon)
+png |[ Ing ]
+: kónstruksiyón.
+
+Constructivism
+Constructivism (kons·trák·ti·ví·sim)
+png |Sin |[ Ing ]
+: estilo ng sining na naglalarawan ng hindi kongkreto o hindi likás na anyo ng anumang bagay, nasisipat sa tatlong dimensiyon, at gumagamit ng makabagong pamamaraan at materyales na pang-industriya tulad ng plastik, metal, o salamin.
+
+constructivist
+constructivist (kon·strák·ti·víst)
+png |[ Ing ]
+: tagasunod ng Constructivism.
+
+consulate
+consulate (kón·su·léyt)
+png |[ Ing ]
+: konsuládo.
+
+consult
+consult (kon·súlt)
+pnd |[ Ing ]
+: sumangguni o sangguniin.
+
+consultant
+consultant (kon·súl·tant)
+png |[ Ing ]
+: kasanggunì.
+
+consumer
+consumer (kon·syú·mer, kon·sú·mer)
+png |[ Ing ]
+1: tao o bagay na gumagamit
+2: Ekn Kom mamimíli.
+
+consumerism
+consumerism (kon·sú·me·rí·zim)
+png |Ekn |[ Ing ]
+: konsumerísmo.
+
+consumption
+consumption (kon·sámp·syon)
+png |Ekn |[ Ing ]
+: konsúmo.
+
+contact lens
+contact lens (kón·tak lens)
+png |[ Ing ]
+: manipis na lente ng plastik, inilalapat sa kornea upang mapalinaw ang paningin.
+
+contagious
+contagious (kon·téy·dyus)
+pnr |[ Ing ]
+: nakahaháwa1
+
+container
+container (kon·téy·ner)
+png |[ Ing ]
+: lalagyan.
+
+contamination
+contamination (kón·ta·mi·néy·syon)
+png |[ Ing ]
+: kontaminasyon.
+
+contemplation
+contemplation (kon·tem·pléy·syon)
+png |[ Ing ]
+: búlay1-2
+
+contemporary
+contemporary (kon·tém·po·rá·ri)
+png |[ Ing ]
+: kontemporáneo.
+
+content
+content (kón·tent)
+png |[ Ing ]
+: nilalaman.
+
+content
+content (kón·tent)
+pnr |[ Ing ]
+: nasisiyahan.
+
+contest
+contest (kón·test)
+png |[ Ing ]
+: timpa-lak.
+
+context
+context (kón·tekst)
+png |[ Ing ]
+: kontéksto.
+
+continent
+continent (kón·ti·nént)
+png |Heo |[ Ing ]
+: kontinénte.
+
+contingency
+contingency (kon·tín·dyen·sí)
+png |[ Ing ]
+1: hindi inaasahang pangyayari
+2: bagay na sadyang kaugnay ng isa pa.
+
+continuation
+continuation (kon·tín·yu·éy·syon)
+png |[ Ing ]
+1: pagpapatúloy
+2: pananatili2
+
+continue
+continue (kon·tín·yu)
+pnd |[ Ing ]
+: magtulóy o ipagpatúloy.
+
+continuous
+continuous (kon·tín·yu·wús)
+pnr |[ Ing ]
+: tulóy-tulóy.
+
+continuum
+continuum (kon·tín·yu·úm)
+png |[ Ing ]
+: anumang bagay na ipinalalagay na may tuloy-tuloy na estruktura.
+
+contortion
+contortion (kon·tór·syon)
+png |[ Ing ]
+: kontorsiyon.
+
+contortionist
+contortionist (kon·tór·syo·níst)
+png |[ Ing ]
+: kontorsiyonista.
+
+contour
+contour (kón·tur)
+png |[ Ing ]
+1: panlabas na hugis ng isang bagay
+2: guhit na naghihiwalay sa iba’t ibang kulay na bahagi ng isang disenyo.
+
+contraception
+contraception (kón·tra·sép·syon)
+png |[ Ing ]
+: kontrasepsiyón.
+
+contract
+contract (kón·trak)
+png |[ Ing ]
+: kontráta.
+
+contraction
+contraction (kon·trák·syon)
+png |[ Ing ]
+: kontraksiyón.
+
+contractor
+contractor (kon·trák·tor)
+png |[ Ing ]
+: kontratísta.
+
+contradiction
+contradiction (kon·tra·dík·syon)
+png |[ Ing ]
+: kontradiksiyón.
+
+contradictory
+contradictory (kón·tra·dík·to·rí)
+pnr |[ Ing ]
+: kontradiktóryo.
+
+contraindication
+contraindication (kón·tra·in·di·kéy· syon)
+png |Med |[ Ing ]
+: kontraindikasyón.
+
+contrary
+contrary (kón·tra·rí)
+pnr |[ Ing ]
+1: salungat1 ; kasalungat
+2: magkasalungat.
+
+contribution
+contribution (kon·tri·byú·syon)
+png |[ Ing ]
+: ambág.
+
+contrition
+contrition (kon·trí·syon)
+png |[ Ing ]
+: sísi3 o pagsisisi.
+
+controversial
+controversial (kón·tro·vér·syal)
+pnr |[ Ing ]
+: kontrobersiyál.
+
+controversy
+controversy (kón·tro·vér·si)
+png |[ Ing ]
+: kontrobérsiyá.
+
+conundrum
+conundrum (ko·nún·drum)
+png |[ Ing ]
+1: bugtong na may nakátatawáng sagot
+2: palaisipan1
+
+convalescent
+convalescent (kón·va·lé·sent)
+png |Med |[ Ing ]
+: tikayà.
+
+convenient
+convenient (kon·vín·yent)
+png |[ Ing ]
+1: tumatamang mabuti sa pangangailangan, gawain, o plano ng isang tao
+2: nangangailangan lamang ng kaunting sikap at hirap
+3: nagaganap sa isang lugar o panahon na mainam gamitin.
+
+convention
+convention (kon·vén·syon)
+png |[ Ing ]
+: kumbensiyón.
+
+conventional
+conventional (kon·vén·syo·nál)
+png |[ Ing ]
+: kumbensiyonál.
+
+conversation
+conversation (kon·ver·séy·syon)
+png |[ Ing ]
+: kumbersasyón.
+
+conversion
+conversion (kon·vér·syon)
+png |[ Ing ]
+: kumbersiyón.
+
+convert
+convert (kon·vért)
+pnd |[ Ing ]
+1: baguhin o magbago ng anyo, katangian, o gamit
+2: baguhin o magbago ng pananalig, palagay, lapian, at katulad
+3: palitán ng katumbas
+4: Isp magtalâ ng puntos.
+
+convert
+convert (kón·vert)
+png |[ Ing ]
+: tao na nagpalit ng relihiyon, palagay, lapian, at katulad.
+
+convertion
+convertion (kon·vér·syon)
+png |[ Ing ]
+1: pagbabalik-loob, lalo na sa pananalig o relihiyon
+2: pagpapalit sa katumbas
+3: transpormasyón
+4: Isp pagtalâ ng puntos.
+
+convex
+convex (kón·veks, kon·véks)
+pnr |[ Ing ]
+: malandáy.
+
+convey
+convey (kon·véy)
+pnd |[ Ing ]
+: ihatid o maghatid.
+
+conveyor
+conveyor (kon·véy·or)
+png |[ Ing ]
+: tao o bagay na tagahatid : TRANSPORTADÓR
+
+convict
+convict (kón·vik)
+png |[ Ing ]
+: tao na naparusahan dahil sa pagkakasálang kriminal.
+
+conviction
+conviction (kon·vík·syon)
+png |[ Ing ]
+: kumbiksiyón.
+
+convict surgeonfish
+convict surgeonfish (kón·vik sér·dyen·fish)
+png |Zoo |[ Ing ]
+: kabkabálan.
+
+convince
+convince (kon·víns)
+pnd |[ Ing ]
+: himukin o ihimok.
+
+convolution
+convolution (kon·vu·lú·syon)
+png |[ Ing ]
+: sirkumbulusyón2
+
+convulsion
+convulsion (kon·vól·syon)
+png |Med |[ Ing ]
+: kumbulsiyón.
+
+cook
+cook (kuk)
+png |[ Ing ]
+: kosinera.
+
+cook
+cook (kuk)
+pnd |[ Ing ]
+: magluto o lutuin.
+
+cookie
+cookie (kú·ki)
+png
+1: biskuwit var cooky
+2: Com impormasyong ipinapadalá ng isang web server at itinatago sa isang web browser upang mabásang muli sa nasabing browser.
+
+cool
+cool (kul)
+pnr |[ Ing ]
+: malamig.
+
+cooler
+cooler (kú·ler)
+png |[ Ing ]
+: sisidlang nagpapanatili ng lamig Cf ICEBOX, FREEZER
+
+coop
+coop (kó·op)
+png |Ekn |[ Ing ]
+: pinaikling cooperative.
+
+cooperation
+cooperation (ko·ó·pe·réy·syon)
+png |[ Ing ]
+: kooperasyón1
+
+cooperative
+cooperative (ko·ó·pe·ra·tív)
+png |Ekn |[ Ing ]
+: kooperatíba.
+
+coordinate
+coordinate (ko·ór·di·néyt)
+png |Mat |[ Ing ]
+: kantidad, sukat, at lawak na nagtatakda ng posisyon ng isang point, guhit, o katulad.
+
+coordinate
+coordinate (ko·ór·di·néyt)
+pnd |[ Ing ]
+: isaayos o mag-ayos.
+
+coordination
+coordination (ko·ór·di·néy·syon)
+png |[ Ing ]
+: koordinasyon.
+
+cop
+cop (kap)
+png |[ Ing ]
+: pulis.
+
+copaiba
+copaiba (ku·péy·ba)
+png |Kem |[ Ing ]
+: oleo-resin na makukuha mula sa tropikong punongkahoy (genus Copaifera ) sa Timog America at sangkap sa paggawa ng barnis at pantunaw ng pintura : KOPAÍBA
+
+copper
+copper (ká·per)
+png |[ Ing ]
+1: Kem malambot, mahuhubog, at metalikong elemento na maaaring gawing konduktor ng elektrisidad (atomic number 29, symbol Cu )
+2: tansô.
+
+copula
+copula (kó·pyu·lá)
+png |Gra |[ Ing ]
+: kópula.
+
+copulation
+copulation (ko·pyu·léy·syon)
+png |[ Ing ]
+: kópulá1
+
+copy
+copy (kó·pi)
+png |[ Ing ]
+1: kopya
+2: anumang isinulat o iginuhit upang ilathala sa pahayagan, magasin, o katulad
+3: paksa ng lathalain, aklat, o balita.
+
+copyright
+copyright (kap·í·rayt)
+png |[ Ing ]
+: karapatáng-sipì : C2
+
+coral
+coral (kó·ral)
+png |[ Ing ]
+: ságay.
+
+coral plant
+coral plant (kó·ral plant)
+png |Bot |[ Ing ]
+: maná1
+
+coral reef
+coral reef (kó·ral fif)
+png |Heo |[ Ing ]
+: bangkóta.
+
+coral vine
+coral vine (kó·ral vayn)
+png |Bot |[ Ing ]
+: kadéna de amór.
+
+corazon
+corazon (ko·ra·zón)
+png |Ana |[ Esp ]
+: pusò1
+
+cord
+cord (kord)
+png |[ Ing ]
+: kordón4
+
+Cordillera Administrative Region
+Cordillera Administrative Region (kor·dil·yé·ra ád·mi·nis·tra·tív rí·dyón)
+png |Heg |[ Ing ]
+: Rehiyon sa Filipinas na binubuo ng mga probinsiyang Abra, Apayao, Ben-guet, Ifugao, Kalinga, at Mountain Province Cf CAR
+
+cordon sanitaire
+cordon sanitaire (kór·don sá·ni·téyr)
+png |[ Ing ]
+: alinmang hakbang upang pigilin ang komunikasyon o ang paglaganap ng hindi kanais-nais na impluwensiya.
+
+cordyline
+cordyline (kór·di·láyn)
+png |Bot |[ Ing ]
+: tungkód-parì.
+
+core
+core (kor)
+png |[ Ing ]
+: úbod2
+
+coriander
+coriander (kor·yán·der)
+png |Bot |[ Ing ]
+: kulantro.
+
+Corinth
+Corinth (kó·rinth)
+png |Heg |[ Ing ]
+: lungsod sa timog ng Greece Cf KORINTO
+
+Corinthian
+Corinthian (ko·rín·tyan)
+pnr |[ Ing ]
+1: taga-Corinth
+2: namumuhay nang marangya
+3: Ark may kaugnayan sa isa sa limang klasikong order, hugis kampana ang may dekorasyong haligi at nása itaas na bahagi ng inukit na dahon ng acanthus.
+
+Corinthians
+Corinthians (ko·rín·tyans)
+png |Lit |[ Ing ]
+: Mga Taga-Corinth.
+
+cork
+cork (kork)
+png |[ Ing ]
+: tapón.
+
+corkage
+corkage (kór·keds)
+png |[ Ing ]
+: bayad sa pagpapasok ng sariling alak sa isang restoran o klab.
+
+corkscrew
+corkscrew (kórk·is·kru)
+png |[ Ing ]
+: tírabusón1
+
+corn
+corn (korn)
+png |Bot |[ Ing ]
+: maís.
+
+corned beef
+corned beef (kornd bif)
+png |[ Ing ]
+: karne norte.
+
+corner
+corner (kór·ner)
+png |[ Ing ]
+: súlok.
+
+cornerstone
+cornerstone (kór·ner·stówn)
+png |[ Ing ]
+: panulukang-bato.
+
+cornice
+cornice (kór·nis)
+png |Ark |[ Ing ]
+: kornisa.
+
+cornstarch
+cornstarch (kórn·is·tarts)
+png |[ Ing ]
+: gawgaw na mula sa pinulbos na mais.
+
+coronation
+coronation (kó·ro·néy·syon)
+png |[ Ing ]
+: koronasyón.
+
+coronation trout
+coronation trout (kó·ro·néy·syon trawt)
+png |Zoo |[ Ing ]
+: banáhan.
+
+corporation
+corporation (kor·po·réy·syon)
+png |[ Ing ]
+: korporasyón.
+
+corps
+corps (kor)
+png |[ Ing ]
+1: Mil pangkat ng mga taong may natatanging tungkulin
+2: pangkat ng mga tao.
+
+corpse
+corpse (korps)
+png |[ Ing ]
+: bangkáy1
+
+corpuscle
+corpuscle (kor·pó·sel)
+png |[ Ing ]
+1: Ana maliit at buháy na selula, lalo na ang ganitong pulá at putî sa dugo : KORPÚSKULÓ
+2: Zoo maliit na lawas na nabubuong tanging bahagi ng organismo : KORPÚSKULÓ
+3: Pis Kem pangunahing particle ng matter gaya ng elektron, proton, o atom : KORPÚSKULÓ
+
+correct
+correct (ko·rék)
+pnr |[ Ing ]
+: tumpak.
+
+correction
+correction (ko·rék·syon)
+png |[ Ing ]
+: pagwasto o pagwawasto.
+
+corregidor
+corregidor (ko·ré·hi·dór)
+png |Kas |[ Esp ]
+: noong panahon ng mga Español, ang administrador ng militar sa corregimiento.
+
+Corregidor
+Corregidor (ko·ré·hi·dór)
+png |Heg
+: pulo sa bukana ng Look Maynila at ginamit na kuta ng panghuling pagtatanggol laban sa salakay ng mga Japanese noong Ikalawang Digmaang Pandaigdig.
+
+corregimiento
+corregimiento (ko·ré·him·yén·to)
+png |Kas |[ Esp ]
+: noong panahon ng Español, ang pook o distritong militar.
+
+corsage
+corsage (kor·sáds)
+png |[ Ing ]
+: maliit na pumpon ng bulaklak na ikinakabit sa baywang, balikat, o galáng-galangán.
+
+corset
+corset (kor·sét)
+png |[ Ing ]
+: korse.
+
+Cortes
+Cortes (kor·tés)
+png |Pol |[ Esp ]
+: batasan ng España.
+
+cortex
+cortex (kór·teks)
+png |[ Ing ]
+1: panlabas na susn ng cerebrum at tinatawag ding cerebral cortex
+2: panlabas na suson ng iba pang bahafgi ng katawan gaya ng renal cortex sa butó.
+
+corundum
+corundum (ko·rún·dum)
+png |Kem |[ Ing ]
+: karaniwang mineral na aluminum oxide, Al2 O3 kilalá sa matigas na katangian nitó.
+
+coryza
+coryza (ko·rí·sa)
+png |Med |[ Ing ]
+: korísa.
+
+cosmetic
+cosmetic (kos·mé·tik)
+png |[ Ing ]
+: kosmétikó.
+
+cost
+cost (kost)
+png |[ Ing ]
+: gúgol.
+
+costume
+costume (kós·tyum)
+png |[ Ing ]
+: kasuotan ng mga tao sa iba’t ibang panahon o lugar : DRESS2
+
+Cotabato
+Cotabato (ko·ta·bá·to)
+png |Heg
+: lalawigan sa gitnang Mindanao, Rehiyon XII.
+
+Cotabato Cordillera
+Cotabato Cordillera (ko·ta·bá·to kor·dil·yé·ra)
+png |Heg
+: walang patid na bulubunduking may habàng 200 km mula bunganga ng Ilog Mindanao sa hilaga hanggang Sarangani Bay sa kanluran.
+
+cottage
+cottage (kó·tids)
+png |Ark |[ Ing ]
+1: maliit na bahay, karaniwang isang palapag lámang
+2: maliit na bahay sa resort o bundok.
+
+cottage cheese
+cottage cheese (kó·tids tsis)
+png |[ Ing ]
+: kesong putî.
+
+cotton gin
+cotton gin (kó·ton dyin)
+png |[ Ing ]
+: hagutáng paikót.
+
+cotton tree
+cotton tree (kó·ton tri)
+png |Bot |[ Ing ]
+: kápok1
+
+cotyledon
+cotyledon (kó·ti·lí·don)
+png |Bot |[ Ing ]
+: kotiledon.
+
+coucal
+coucal (kú·kal)
+png |Zoo |[ Ing ]
+: sábukót1
+
+couch
+couch (káwts)
+png |[ Ing ]
+: sopá na de-kutson.
+
+cough
+cough (kaf)
+png |Med |[ Ing ]
+: ubó1-2
+
+coulomb
+coulomb (kú·lom)
+png |Ele |[ Ing ]
+: yunit ng kantidad ng elektrisidad Cf C3
+
+council
+council (káwn·si·lór)
+png |Pol |[ Ing ]
+: sanggunian4
+
+councilor
+councilor (káwn·si·lór)
+png |Pol |[ Ing ]
+: konsehál.
+
+counsel
+counsel (káwn·sel)
+png |[ Ing ]
+1: páyo
+2: abogádo.
+
+counsellor
+counsellor (kawn·se·lór)
+png |[ Ing ]
+: tagapayo Cf PSYCHIATRIST
+
+count
+count (káwnt)
+png |[ Ing ]
+1: bílang2 o pagbibiláng
+2: tao na maharlika at may ranggong katumbas ng konde, countess kung babae.
+
+counter
+counter (káwn·ter)
+png |[ Ing ]
+1: mahabàng mesa o katulad na estrukturang pinagdarausan ng mga transaksiyon ng isang tindahan, bangko, at iba pa ; o ang anumang katulad na estruktura na ginagamit sa pagsisilbi ng pagkain at iba pa sa isang bar o kapeteriya
+2: tao o bagay na tagabílang.
+
+counter
+counter (káwn·ter)
+pnr |[ Ing ]
+: lában.
+
+counter-
+counter- (káwn·ter)
+pnl |[ Ing ]
+: kontra, hal countermand.
+
+counterclockwise
+counterclockwise (káwn·ter·klák·ways)
+png |[ Ing ]
+: pihit-pakaliwa.
+
+counterfeit
+counterfeit (káwn·ter·fít)
+png |[ Ing ]
+: huwád1
+
+counterfeiter
+counterfeiter (káwn·ter·fí·ter)
+png |[ Ing ]
+: palsipikadór.
+
+countermand
+countermand (káwn·ter·mánd)
+png |[ Ing ]
+: kóntraórden.
+
+counternote
+counternote (káwn·ter·nówt)
+png |[ Ing ]
+: kóntrapáso.
+
+counterpoint
+counterpoint (káwn·ter·póynt)
+png |[ Ing ]
+: kóntrapúnto.
+
+counterseal
+counterseal (káwn·ter·síl)
+png |[ Ing ]
+: kóntrasélyo.
+
+countershaft
+countershaft (káwn·ter·syáft)
+png |Mek |[ Ing ]
+: kóntraéhe.
+
+countersign
+countersign (káwn·ter·sáyn)
+png |[ Ing ]
+: kóntrasényas.
+
+counter signature
+counter signature (káwn·ter sig·néy·tsur)
+png |[ Ing ]
+: panibagong lagda bílang garantiya sa bisà ng naunang lagda.
+
+countess
+countess (káwn·tes)
+png |Pol |[ Ing ]
+: kondesá.
+
+country
+country (kán·tri)
+png |[ Ing ]
+: bansâ.
+
+country music
+country music (kán·tri myú·sik)
+png |Mus |[ Ing ]
+: estilo o uri ng popular na musika sa America na sinasaliwan ng malaki at may bagting na instrumento, nagmula sa katutubòng musika ng timog-silangan at musikang koboy ng Kanluran.
+
+coup d’ grace
+coup d’ grace (kú·de·grá)
+png |[ Fre ]
+1: biglaang pagpatáy upang hindi na maghirap ang sugatán o malapit nang mamatáy Cf EUTANASYA
+2: mapagpasiyang salakay o pagkilos.
+
+couple
+couple (kó·pol)
+pnr |[ Ing ]
+1: dalawa o dalawahan
+2: ilan.
+
+couple
+couple (kó·pol)
+png |[ Ing ]
+1: mag-asawa
+2: kapareha.
+
+couplet
+couplet (kóp·let)
+png |Lit |[ Ing ]
+: kópla1
+
+coupon
+coupon (kú·pon)
+png |[ Ing ]
+: kupón.
+
+courage
+courage (kó·reyds)
+png |[ Ing ]
+: tapang1
+
+courageous
+courageous (kó·reyd·yus)
+pnr |[ Ing ]
+: matápang1
+
+courier
+courier (kúr·yer)
+png |[ Ing ]
+: mensahero na nagdadala ng mga produkto o dokumento Cf MENSAHERO
+
+course
+course (kors)
+png |[ Ing ]
+1: kúrso
+2: set ng pagkaing inihanda
+3: Kar hanay ng mga ladrilyo, bato, at iba pa ; dingding o bubong
+4: landas, daloy, o daan ng anumang gumagalaw na lawas
+5: patuloy na progreso ng panahon o estado
+6: programa o seryeng binubuo ng isang tiyak na panahon
+7: regular o likás na daloy ng pangyayari.
+
+court
+court (kort)
+png |[ Ing ]
+1: korte1-2
+2: Isp parihabâng espasyo na pinaglalaruan ng basketbol, tenis, at iba pang katulad na laro.
+
+courteous
+courteous (kor·tyús)
+pnr |[ Ing ]
+: magálang.
+
+courtesy
+courtesy (kór·te·sí)
+png |[ Ing ]
+1: pagiging magálang ; gálang1-3 o pag-gálang
+2: bigay1 o pagbibigay
+3: tulong.
+
+court martial
+court martial (kort már·si·yál)
+png |Mil |[ Ing ]
+: hukúmang-militár.
+
+cousin
+cousin (ká·sin)
+png |[ War ]
+: pinsan1
+
+couturier
+couturier (ko·tur·yé)
+png |[ Ing ]
+: tao na nagdidisenyo at gumagawa ng damit.
+
+covalent bond
+covalent bond (ko·vey·lent band)
+png |Kem |[ Ing ]
+: kimikong bond na nabubuo ng mga atom sa pagsasálo ng elektron.
+
+cove
+cove (kowv)
+png |Heo |[ Ing ]
+: bingbíng3
+
+coverage
+coverage (kó·ve·réyds)
+png |[ Ing ]
+1: saklaw
+2: pangangalap at pag-uulat ng balita.
+
+cover charge
+cover charge (kó·ver tsárds)
+png |[ Ing ]
+: bayad na idinadagdag sa halaga ng pagkain at inúmin Cf SERVICE CHARGE
+
+covert
+covert (ko·vért)
+pnr |[ Ing ]
+: pailalím.
+
+cow
+cow (kaw)
+png |Zoo |[ Ing ]
+: báka1
+
+coward
+coward (kó·ward)
+png pnr |[ Ing ]
+: duwág1
+
+cowpea
+cowpea (káw·pi)
+png |Bot |[ Ing ]
+: paáyap.
+
+cowpox
+cowpox (káw·paks)
+png |Med |[ Ing ]
+: sakít ng súso ng báka, na kapag naisalin sa tao ay kahawig ng bulutong at naging batayan ng unang bakuna laban sa bulutong : VACCINIA
+
+coyote
+coyote (ki·yó·ti)
+png |Zoo |[ Ing ]
+: karniborong tíla ásong mamalya (Canis latrans ) ng kanlurang America na kilalá sa matagal at malakas na ungol : KOYÓTE
+
+CPA
+CPA (si pi ey)
+daglat |[ Ing ]
+: certified public accountant.
+
+CPU
+CPU (si pi yu)
+png daglat |Com |[ Ing ]
+: Central Processing Unit.
+
+Cr
+Cr (sí ar)
+symbol |Kem |[ Ing ]
+: chromium.
+
+CR
+CR (sí ar)
+daglat |[ Ing ]
+: comfort room.
+
+crab
+crab (krab)
+png |Zoo |[ Ing ]
+: alimángo.
+
+cradle
+cradle (kréy·del)
+png |[ Ing ]
+: dúyan1
+
+craft
+craft (kraft)
+png |[ Ing ]
+1: kasanayan1
+2: hanapbuhay, lalo na ang ginagamitan ng kamay sa paggawa
+3: táong tuso.
+
+craftsman
+craftsman (kráfts·man)
+png |[ Ing ]
+: artesáno1
+
+crake
+crake (kreyk)
+png |Zoo |[ Ing ]
+: tikó.
+
+cramp
+cramp (kramp)
+png |Med |[ Ing ]
+: pulíkat1
+
+crane
+crane (kreyn)
+png |[ Ing ]
+1: Mek isang malaki at mataas na mákiná, ginagamit sa paglilipat ng mabibigat na bagay, karaniwang sa pamamagitan ng pagbibitin sa mga ito sa tulong ng isang tíla galamay na bahagi nitó : GRÚWA2
+2: isang naikikilos na plataporma na napagpapatungan ng kamerang pantelebisyon o pampelikula : GRÚWA2
+3: Zoo típol.
+
+cranial nerve
+cranial nerve (kréy·ni·yál nerv)
+png |Ana |[ Ing ]
+: alinman sa mga nerbiyo mula sa utak na nagdadaan sa pamamagitan ng mga bútas ng bungo patúngo sa ibang bahagi ng ulo at binubuo ng labindalawang pares sa mga mammal, ibon, at reptil Cf ABDUCENS NERVE, ACCESORY NERVE, AUDITORY NERVE, FACIAL NERVE, GLOSSOPHARYNGEAL NERVE, HYPOGLOSSAL NERVE, OCULOMOTOR NERVE, OLFACTORY NERVE, OPTIC NERVE, TRIGEMINAL NERVE, TROCHLEAR NERVE, VAGUS NERVE
+
+cranium
+cranium (kréy·nyum)
+png |Ana |[ Ing ]
+: bungô.
+
+crash
+crash (krash)
+png |[ Ing ]
+1: bagsák1 o pagbagsak
+2: malakas at biglang ingay
+3: malakas na banggaan, lalo na ng dalawang sasakyan ; o ang pagbagsak ng sasakyang panghimpapawid
+4: pagkabásag
+5: Com biglaang pagkasira at pagtigil ng sistema.
+
+crash course
+crash course (krash kors)
+png |[ Ing ]
+: kursong mádalían.
+
+-crat
+-crat (krat)
+pnl |[ Ing ]
+: pambuo ng pangngalan na nagsasaad ng pagiging kasapi o tagatangkilik ng isang anyo ng pamahalaan, hal autocrat, democrat.
+
+crater
+crater (kréy·ter)
+png |[ Ing ]
+: kráter.
+
+-cratic
+-cratic (krá·tik)
+pnl |[ Ing ]
+: pambuo ng pang-uri na nagsasaad ng uri ng pamahalaan, hal autocratic, democratic.
+
+crawl
+crawl (krowl)
+png |[ Ing ]
+: gápang1
+
+crayfish
+crayfish (krey·fis)
+png |Zoo |[ Ing ]
+: banagán2
+
+crayon
+crayon (kréy·yon)
+png |[ Ing ]
+: kráyola.
+
+crazy
+crazy (kréy·si)
+pnr |[ Ing ]
+: balíw1-2
+
+cream
+cream (krim)
+png |[ Ing ]
+: kréma.
+
+cream of tartar
+cream of tartar (krím of tár·tar)
+png |[ Ing ]
+: pulbos na gáling sa tartaric acid at ginagamit sa paghuhurno : KREMÓR, TÁRTARÓ1
+
+creation
+creation (kri·éy·syon)
+png |[ Ing ]
+: likhâ2 o nilikhâ.
+
+creative
+creative (kri·éy·tiv)
+pnr |[ Ing ]
+: malikhain.
+
+creator
+creator (kri·éy·tor)
+png |[ Ing ]
+: manlilikhâ1
+
+creature
+creature (krí·tyur)
+png |[ Ing ]
+1: tao o hayop na may búhay
+2: mga nilikhâ.
+
+credential
+credential (kri·dén·syal)
+png |[ Ing ]
+: kredensiyál.
+
+creek
+creek (krik)
+png |Heo |[ Ing ]
+: sapà.
+
+cremation
+cremation (kri·méy·syon)
+png |[ Ing ]
+: kremasyón.
+
+crematorium
+crematorium (krí·ma·tór·yum)
+png |[ Ing ]
+: krematoryo.
+
+creosote
+creosote (krí·o·sút)
+png |[ Ing ]
+: kreosóta.
+
+crepe
+crepe (krep)
+png |[ Fre ]
+: napakanipis na hotcake na maaaring lagyan ng sari-saring palamán : KRESPÓN
+
+crepe
+crepe (krip, kreyp)
+png |[ Ing ]
+: isang uri ng tela na makulubot : KRESPÓN
+
+crepe myrtle
+crepe myrtle (krep mír·tel)
+png |Bot |[ Ing ]
+: meléndres.
+
+crepe paper
+crepe paper (krip péy·per)
+png |[ Ing ]
+: manipis at kulubot na papel at ginagamit na pandekorasyon.
+
+crescendo
+crescendo (kre·sén·do)
+pnr pnb |[ Ing Ita ]
+1: Mus marahang paglakas ng tunog ; o ang bahaging may gayong paglakas
+2: patúngo sa rurok.
+
+crescent
+crescent (kré·sent)
+png |[ Ing ]
+1: Asn gasuklay
+2: emblem ng Turkey at Islam.
+
+cresol
+cresol (krí·sol)
+png |Kem |[ Ing ]
+: alinman sa tatlong isomeric phenol C7 H8 O na ginagamit na disinfectant.
+
+crested serpent-eagle
+crested serpent-eagle (krés·ted sér·pent-í·gel)
+png |Zoo |[ Ing ]
+: bangkás2
+
+Cretaceous
+Cretaceous (kri·téy·syus)
+png |[ Ing ]
+: bahagi ng panahong Mesozoic.
+
+Crete
+Crete (krit)
+png |Heg |[ Ing ]
+: pulo sa Greece sa Mediteraneo, Timog Silangan ng prinsipal na lupain ng Greece.
+
+crew
+crew (kru)
+png |[ Ing ]
+: pangkat ng mga tauhan lalo na sa barko o eroplano.
+
+crew cut
+crew cut (kru kat)
+png |[ Ing ]
+: maikling gupit ng buhok, karaniwan sa mga sundalo Cf TSATÛ
+
+crib
+crib (krib)
+png |[ Ing ]
+: kúna.
+
+cricket
+cricket (krí·ket)
+png |[ Ing ]
+1: Zoo kámaksî
+2: Isp laro na ginaganap sa malaking palaruang damuhan at may dalawang koponang binubuo ng labing-isang manlalaro na nagpapaligsahan sa paramihan ng pagtakbo sa mga wicket.
+
+crime
+crime (kraym)
+png |Bat |[ Ing ]
+: krimén.
+
+criminologist
+criminologist (kri·mi·nó·lo·dyíst)
+png |[ Ing ]
+: kriminólogó.
+
+criminology
+criminology (kri·mi·nó·lo·dyí)
+png |[ Ing ]
+: kriminolóhiyá.
+
+crimson
+crimson (krím·son)
+pnr |[ Ing ]
+: matingkad na kulay pula na may pagkalila.
+
+crinoline
+crinoline (krí·no·lín)
+png |[ Ing ]
+: krinolína.
+
+Crispin
+Crispin (kris·pín)
+png |Lit
+: tauhan sa Noli me Tangere, bunsong anak ni Sisa, at kapatid ni Basilio.
+
+crispy
+crispy (krís·pi)
+png |[ Ing ]
+: malutóng.
+
+crispy páta
+crispy pá·ta (krís·pi pá·ta)
+png |[ Ing crispy+Esp páta ]
+: páta ng baboy na ipinirito nang nakalubog sa mantika hanggang maging ginintuang kayumanggi ang kulay at malutóng.
+
+Crissotan
+Crissotan (kri·só·tan)
+png |Lit
+: bersiyon ng balagtasan sa wikang Kapampangan at ipinangalan kay Crisostomo Soto.
+
+criteria
+criteria (kray·tír·ya)
+png |[ Ing ]
+: pang-maramihang anyo ng criterion.
+
+criterion
+criterion (kray·tír·yon)
+png |[ Ing ]
+: kritéryo.
+
+critic
+critic (krí·tik)
+png |[ Ing ]
+: krítikó.
+
+critical
+critical (krí·ti·kál)
+pnr |[ Ing ]
+: krítikó.
+
+criticism
+criticism (kri·ti·sí·zim)
+png |[ Ing ]
+: kritisísmo.
+
+critique
+critique (kri·tík)
+png |[ Ing ]
+: isang artikulo o sanaysay ng masusing pagsusuri sa isang akda, pilosopiya, at katulad.
+
+croaker
+croaker (krów·ker)
+png |Zoo |[ Ing ]
+: alakáak1
+
+Croatia
+Croatia (kro·éy·sya)
+png |Heg |[ Ing ]
+: republika sa timog silangang Europa at dáting bahagi ng Yugoslavia.
+
+crochet
+crochet (kru·syéy)
+png |[ Ing ]
+: gantsílyo.
+
+crocodile
+crocodile (krók·o·dáyl)
+png |Zoo |[ Ing ]
+: buwáya1
+
+croissant
+croissant (kwa·sánt)
+png |[ Fre ]
+: tinapay na hugis kalahatian ng buwan.
+
+Cronus
+Cronus (kró·nus)
+png |Mit |[ Gri ]
+: pinakabatàng anak nina Uranus at Gaia at pinunò ng kaniyang mga kapatid na Titans ; nag-alsa laban sa kaniyang ama, pinakasalan ang kapatid na si Rhea, at ama ng mga sumusunod na diyos at diyosa, kabílang na si Zeus.
+
+crooner
+crooner (krú·ner)
+png |[ Ing ]
+: mang-aawit na sinasaliwan ng orkestra o kombo.
+
+crop
+crop (krap)
+png |Agr |[ Ing ]
+1: halámang itinatanim nang maramihan para sa malaking ani
+2: ang kabuuang ani sa isang pataniman o bukirin.
+
+croquet
+croquet (kro·kyéy)
+png |Isp |[ Fre ]
+: laro ng pagpapasok ng mga bolang kahoy sa pamamagitan ng mallet2
+
+cross
+cross
+png |[ Ing ]
+1: krus1-3
+2: ékis.
+
+cross
+cross (kros)
+pnd |[ Ing ]
+1: tumawid o tawirin
+2: gumawa ng interseksiyon
+3: gumuhit ng linya o mga linya sa isang panig patungo sa kabilâ
+4: sa tseke, gumuhit ng dalawang magkaagapay na linya na tanda ng bayarin sa isang may account sa bangko
+5: tanggalin sa listahan.
+
+crossfire
+crossfire (krós·fayr)
+png |[ Ing ]
+: palítan ng putok ng magkabilâng panig.
+
+cross stitch
+cross stitch (kros is·títs)
+png |[ Ing ]
+: pagboborda nang paekis.
+
+crossword puzzle
+crossword puzzle (krós·word pá·zel)
+png |[ Ing ]
+: krúsigráma.
+
+croton
+croton (kró·ton)
+png |Bot |[ Ing ]
+: sampransísko.
+
+croutons
+croutons (krú·tons)
+png |[ Ing ]
+: maliliit na piraso ng tinapay na hiniwa nang pakuwadrado at ipinirito hanggang matusta at lumutong.
+
+crow
+crow (krow)
+png |Zoo |[ Ing ]
+: uwák1
+
+crowbar
+crowbar (krów·bar)
+png |[ Ing ]
+: bareta de-kábra.
+
+crowd
+crowd (krawd)
+png |[ Ing ]
+1: malaking bílang ng mga tao na nagsáma-sáma, karaniwang walang kaayusan
+2: pulutong ng mga tagamasid o tagapakinig
+3: malaking bílang.
+
+crown
+crown (krawn)
+png |[ Ing ]
+: koróna1-3
+
+crown flower
+crown flower (krawn flá·wer)
+png |Bot |[ Ing ]
+: kápal-kápal.
+
+crucible
+crucible (krú·si·ból)
+png |[ Ing ]
+: krisól.
+
+crucifix
+crucifix (kru·si·fíx)
+png |[ Ing ]
+: krúsipihó.
+
+cruel
+cruel (kru·wél, krú·wel)
+pnr |[ Esp Ing ]
+: malupít.
+
+cruiser
+cruiser (krú·ser)
+png |Mil Ntk |[ Ing ]
+: kruséro.
+
+crusade
+crusade (krú·seyd)
+png |[ Ing ]
+: krusáda.
+
+crust
+crust (krast)
+png |[ Ing ]
+1: matigas na paligid ng higit na malambot na bagay
+2: Heo panlabas na mabatóng bahagi ng kalupaan.
+
+crustacean
+crustacean (krus·téy·syan)
+png |Zoo |[ Ing ]
+: alinman sa uri ng mga hayop tubig na may matigas na balát, gaya ng hipon at alimasag : KRUSTÁSEÓ, SHELLFISH2
+
+crutch
+crutch (krats)
+png |[ Ing ]
+: sakláy1
+
+Crux
+Crux (krúks)
+png |Asn |[ Ing ]
+: panlabindalawang pinakamaliwanag na bituin sa langit, pinakamaliwanag sa konstelasyon ng Crux, nakikita lámang sa dakong timog ng hemisphere.
+
+cryptogam
+cryptogam (kríp·to·gám)
+png |Bot |[ Ing ]
+: malaking pamilya ng halaman na walang totoong bulaklak at binhi at gumagamit ng spore sa reproduksiyon, hal pakô, lumot, funggus.
+
+crystalline
+crystalline (krís·tal·lín)
+pnr |[ Ing ]
+: kristalína.
+
+crystallized
+crystallized (krís·tra·láyz)
+pnr |[ Ing ]
+: kristalisádo.
+
+Cs
+Cs (sí es)
+symbol |Kem |[ Ing ]
+: caesium.
+
+Cu
+Cu (sí yu)
+symbol |Kem |[ Ing ]
+: copper1
+
+cuatro aguas
+cuatro aguas (ku·wá·tro ág·was)
+png |Ark |[ Esp ]
+: bubong na may apat na deklibe o tarik.
+
+cube
+cube (kyub)
+png |[ Ing ]
+1: bagay na solido at may anim na magkakasinlaking gilid na kuwadrado : KÚBO2, DICE2
+2: Mat ang product ng isang bílang o kantidad at ng square nitó ; o ang ikatlong power ng isang bílang.
+
+cubic
+cubic (kyú·bik)
+pnr |[ Ing ]
+: kúbikó.
+
+cubicle
+cubicle (kyú·bi·kél)
+png |[ Ing ]
+: maliit na silid o kompartment.
+
+Cubism
+Cubism (kyu·bí·sem)
+png |Sin |[ Ing ]
+: Kubísmo.
+
+cubit
+cubit (kyú·bit)
+png |Mat |[ Ing ]
+: sinaunang paraan ng pagsukat na halos katumbas ng tataklayan.
+
+cuckoo
+cuckoo (kú·ku)
+png |Zoo |[ Ing ]
+: pitúpit.
+
+cuckoo-dove
+cuckoo-dove (kú·ku-dav)
+png |Zoo |[ Ing ]
+: agbáan.
+
+cuckoo-shrike
+cuckoo-shrike (kú·ku-shrayk)
+png |Zoo |[ Ing ]
+: báboy-babúyan1
+
+cucumber
+cucumber (kyú·kum·bér)
+png |Bot |[ Ing ]
+: pipíno.
+
+cud
+cud (kad)
+png |[ Ing ]
+: bahagi ng pagkain na muling nginunguya ng ruminant pagkagáling sa unang tiyan nitó.
+
+cue
+cue (kyu)
+png |[ Ing ]
+1: Tro hudyat sa kalahok sa pagtatanghal upang simulan ang kaniyang gawain
+2: paghahanda ng tape upang masimulan sa itinakdang bahagi
+3: Isp táko1
+
+cuisine
+cuisine (kwi·zín)
+png |[ Ing Fre ]
+1: isang estilo o pamamaraan ng pagluluto
+2: ang pagkaing iniluto sa ganitong paraan.
+
+cul-de-sac
+cul-de-sac (kúl-de-sák)
+png |[ Fre ]
+1: kalsada o daanang sarado ang isang dulo
+2: rutang walang patutunguhan
+3: katayuang hindi matatakasan.
+
+-cule
+-cule (kyul)
+pnl |[ Ing Fre ]
+: pambuo ng pangngalan na nagsasaad ng kaliitan, hal molecule.
+
+culmination
+culmination (kul·mi·néy·syon)
+png |[ Ing ]
+: pangwakás.
+
+cult
+cult (kalt)
+png |[ Ing ]
+: kulto.
+
+cultivar
+cultivar (kúl·ti·vár)
+png |Bot |[ Ing ]
+: varayti ng haláman na likha sa pamamagitan ng mapamilìng pag-breed.
+
+cultivate
+cultivate (kúl·ti·véyt)
+pnd |[ Ing ]
+: maglinang o magbungkal ng lupa.
+
+cultivation
+cultivation (kul·ti·véy·syon)
+png |Agr |[ Ing ]
+: kultibasyón.
+
+culture
+culture (kúl·tyur)
+png |[ Ing ]
+1: kalinangan
+2: Agr Bio propagasyon1 ; pag-aalaga at pagpaparami hal floriculture, pomiculture.
+
+cum
+cum (kum)
+pnu |[ Lat ]
+: may kasámang o may kalakip na, hal cum laude.
+
+cum laude
+cum laude (kum láw·de)
+png |[ Lat ]
+: may karangalan.
+
+cunnilingus
+cunnilingus (ku·ni·líng·gus)
+png |[ Ing ]
+: paraan ng paghalik sa puke : BRÓTSA2
+
+cup
+cup (kap)
+png |[ Ing ]
+1: kópa ; tása1
+2: bahagi ng bra o bathing suit na sumasalo sa dibdib.
+
+cupboard
+cupboard (káp·bord)
+png |[ Ing ]
+: muwebles na may pinto at salansanang pinaglalagyan ng pagkain, pinggan, at katulad Cf ESKAPARATE, ESTANTE, PAMINGGALAN
+
+Cupid
+Cupid (kyú·pid)
+png |Mit |[ Ing ]
+: Kúpidó.
+
+cup-leaved papua
+cup-leaved papua (káp-livd pa·pú·wa)
+png |Bot |[ Ing ]
+: platíto2
+
+cupola
+cupola (kyú·pu·lá)
+png |Ark |[ Ing ]
+: cupula1
+
+cupula
+cupula (kú·pu·lá)
+png |Ark |[ Esp ]
+1: magaang estruktura sa ibabaw ng simboryo at ginagamit na kampa-naryo : CUPOLA
+2: paróla.
+
+curator
+curator (kyu·réy·tor)
+png |[ Ing ]
+: tagapangasiwa ng museo, koleksiyong pansining, at iba pa.
+
+curd
+curd (kerd)
+png |[ Ing ]
+: kórta.
+
+cure
+cure (kyur)
+png |[ Ing ]
+1: gamot1 o panggagamot
+2: paraan ng pag-iimbak ng karne sa pamamagitan ng pagpapausok, pagbuburo, at pag-aasin.
+
+curette
+curette (kyu·rét)
+png |Med |[ Ing ]
+: maliit na instrumentong pangkayod ng isang siruhano.
+
+curfew
+curfew (kár·fyu)
+png |[ Ing ]
+1: pagbabawal na lumabas ng bahay o tirahan sa isang takdang oras ng gabi : KÁRPIYÓ
+2: takdang oras para sa pagbabawal : KÁRPIYÓ
+
+curiosity
+curiosity (kyúr·yo·si·tí)
+png |[ Ing ]
+: kuryosidád.
+
+curious
+curious (kyúr·yus)
+pnr |[ Ing ]
+: kuryóso.
+
+curium
+curium (kyú·ri·yúm)
+png |Kem |[ Ing ]
+: metaliko at artipisyal na radyoaktibong elemento (atomic number 96, symbol Cm ).
+
+curl
+curl (kerl)
+png |[ Ing ]
+: kulót1
+
+curlew
+curlew (kér·lu)
+png |Zoo |[ Ing ]
+: balangkawítan.
+
+currency
+currency (ká·ren·sí)
+png |Ekn |[ Ing ]
+: salapî.
+
+current
+current (ká·rent)
+png |[ Ing ]
+: ágos.
+
+current
+current (ká·rent)
+pnb |[ Ing ]
+: sa kasalukuyan.
+
+current
+current (ká·rent)
+pnr |[ Ing ]
+: pangkasalukuyan1
+
+curriculum
+curriculum (ku·rí·kyu·lúm)
+png |[ Ing ]
+: kuríkulúm.
+
+curriculum vitae
+curriculum vitae (ku·rí·kyu·lúm vi· téy)
+png |[ Ing ]
+: nakasulat na maikling buod ng búhay o karanasan ng isang tao Cf BIODATA, RÉSUMÉ, CV
+
+currycomb
+currycomb (kári·kowm)
+png |[ Ing ]
+: álmohása.
+
+curse
+curse (kers)
+png |[ Ing ]
+: sumpâ3
+
+cursor
+cursor (kér·ser)
+png |Com |[ Ing ]
+: marka na tíla ilaw na kumukurap sa iskrin at nagpapakíta kung saan maipapasok ang titik, numero, o simbolo.
+
+curtain
+curtain (kúr·teyn)
+png |[ Ing ]
+: tábing1
+
+curtain call
+curtain call (kúr·teyn kol)
+png |Tro |[ Ing ]
+: ang pagbabâ at pagtaas ng kortina sa entablado sa simula at wakas ng pagtatanghal.
+
+curve
+curve (kerv)
+png |[ Ing ]
+: kúrba.
+
+cushion
+cushion (kú·syon)
+png |[ Ing ]
+: kutsón.
+
+cuspidor
+cuspidor (kás·pi·dór)
+png |[ Ing ]
+: duràan.
+
+custard apple
+custard apple (kás·tard á·pol)
+png |Bot |[ Ing ]
+: anónang.
+
+custodia
+custodia (kus·tód·ya)
+png |[ Esp ]
+1: sagradong sisidlan na ginagamit sa pagtatanghal ng ostiya
+2: bahay-dálanginán o simbahan.
+
+custodian
+custodian (kos·tód·yan)
+png |[ Ing ]
+: tagapangalagà.
+
+custody
+custody (kós·to·dí)
+png |[ Ing ]
+: kustódya.
+
+custom
+custom (kós·tom)
+png |[ Ing ]
+: kaugalian.
+
+customer
+customer (kós·tu·mér)
+png |Kom |[ Ing ]
+: mámimíli.
+
+customize
+customize (kós·tom·ayz)
+pnr |[ Ing ]
+: pasadyâ.
+
+customs
+customs (kós·toms)
+png |Ekn |[ Ing ]
+1: buwis na kinokolekta o ipinapataw ng isang bansa sa produktong iniluluwas sa ibang bansa at ipinapasok sa loob ng bansa : TARÍPA2 Cf ADWÁNA, DUTIES
+2: ahensiya, establisimyento, o proseso ng pangongolekta nitó.
+
+cut
+cut (kat)
+png |[ Ing ]
+1: pútol
+2: súgat o hiwa sa balát
+3: pagbabâ ng presyo, sahod, at iba pa
+4: pagputol sa anumang bahagi ng pelikula, dula, at aklat
+5: nakasasakít na salita o kilos
+6: komisyón o kíta
+7: piraso ng karne
+8: estilo ng buhok
+9: pagharang sa daraanan.
+
+cuticle
+cuticle (kyú·ti·kél)
+png |Ana |[ Ing ]
+1: matigas na balát sa paligid ng kuko
+2: panlabás na balát.
+
+cutlery
+cutlery (kat·lé·ri)
+png |[ Ing ]
+: kubyértos1 ; kutselyeríya.
+
+cuttlefish
+cuttlefish (ka·tel fish)
+png |Zoo |[ Ing ]
+: molusko (order Sepioidea ) na kahawig ng pusit, nagtataglay ng walong galamay at dalawang mahahabang tentakulo na ginagamit sa pagdakip sa biktima nitó.
+
+cv
+cv (sí vi)
+daglat |[ Ing ]
+: curriculum vitae.
+
+-cy
+-cy (si)
+pnl |[ Ing ]
+: pambuo ng pang-ngalan na nagsasaad ng katayuan, hal bankcruptcy.
+
+cyanic acid
+cyanic acid (sa·yá·nik á·sid)
+png |Kem |[ Ing ]
+: walang kulay at nakalalasong acid, HOCN.
+
+cyanide
+cyanide (sá·ya·náyd)
+png |Kem |[ Ing ]
+: salt ng hydrocyanic acid, gaya ng potassium cyanide, KCN ; o ang isang nitrile, tulad ng methyl cyanide, C2 H3 N : SIYANÚRO
+
+cyanocobalamin
+cyanocobalamin (sáy·a·no·ko·bá·la·mín)
+png |BioK |[ Ing ]
+: bitamina B12
+
+cybernetics
+cybernetics (say·ber·né·tiks)
+png |[ Ing ]
+: agham ng komunikasyon at ng awtomatikong sistema ng pagkontrol kapuwa sa mákiná at buháy na nilaláng.
+
+cyberspace
+cyberspace (sáy·ber is·péys)
+png |[ Ing ]
+: ang likhang-isip na kaligirang ginaganapan ng elektronikong komunikasyon Cf ÍNTERNÉT
+
+cyborg
+cyborg (sáy·berg)
+png |[ Ing ]
+: tao na higit ang taglay na pisikal na kakayahan sa tulong ng mákináng panteknolohiya.
+
+cycle
+cycle (sáy·kel)
+png |[ Ing ]
+1: panahon1
+2: síklo.
+
+cycling
+cycling (sáyk·ling)
+png |[ Ing ]
+1: pagsakay at paggamit ng bisikleta
+2: Isp karera ng bisikleta.
+
+cyclist
+cyclist (sáyk·list)
+png |Isp |[ Ing ]
+: siklísta.
+
+cyclone
+cyclone (sáy·klon)
+png |Mtr |[ Ing ]
+: buháwi.
+
+Cyclops
+Cyclops (sáy·klops)
+png |Mit |[ Gri ]
+: kasapi ng lahi ng mga mararahas na higanteng may iisang mata at namumuhay bílang mga pastol.
+
+cymbal
+cymbal (sím·bal)
+png |Mus |[ Ing ]
+: pompiyang1
+
+cynic
+cynic (sí·nik)
+png |[ Ing ]
+: sínikó.
+
+cypress
+cypress (sáy·pres)
+png |Bot |[ Ing ]
+: siprés.
+
+cyst
+cyst (sist)
+png |Med |[ Ing ]
+: abnormal na súpot na nababálot ng lamad at naglalamán ng likido o substance na malapot : KÍSTE Cf BÚKOL
+
+cytoplasm
+cytoplasm (say·top·lá·sam)
+png |Bio |[ Ing ]
+: sitoplásma.
+
+Czechoslovakia
+Czechoslovakia (tse·kos·lo·vák·ya)
+png |Heg |[ Ing ]
+: dáting bansa sa gitnang Europa noong 1918–1992 at ngayo’y nahahati sa Czech Republic at Slovakia.
+
+Czech Republic
+Czech Republic (tsek re·páb·lik)
+png |Heg |[ Ing ]
+: bansa sa gitnang Europa at isa sa dalawang bahagi ng dáting republika ng Czechoslovakia.
+
